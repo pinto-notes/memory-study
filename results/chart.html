@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Does your AI remember better with notes?</title>
+<style>
+.viz-root{color-scheme:light;--surface-1:#fcfcfb;--text-primary:#0b0b0b;--text-secondary:#52514e;--text-muted:#7a7974;--grid:#e6e5e0;--ceiling:#7a7974;
+--c-none:#e87ba4;--c-facts:#6250d6;--c-notebook:#eb6834;--c-pinto:#2a78d6;--dim:#c9c8c2}
+@media (prefers-color-scheme:dark){:root:where(:not([data-theme="light"])) .viz-root{color-scheme:dark;--surface-1:#1a1a19;--text-primary:#f0efec;--text-secondary:#c3c2b7;--text-muted:#8f8e86;--grid:#2e2e2c;--ceiling:#8f8e86;
+--c-none:#d55181;--c-facts:#9085e9;--c-notebook:#d95926;--c-pinto:#3987e5;--dim:#4a4a47}}
+body{margin:0;background:var(--surface-1)}
+.viz-root{font:14px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif;background:var(--surface-1);color:var(--text-primary);padding:28px 32px;max-width:860px}
+h1{font-size:20px;margin:0 0 4px}h2{font-size:15px;margin:28px 0 2px}
+p.sub{color:var(--text-secondary);margin:0 0 16px}
+.legend{display:flex;gap:16px;flex-wrap:wrap;color:var(--text-secondary);font-size:12px;margin:6px 0 4px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.legend .dash{width:16px;height:0;border-top:2px dashed var(--ceiling);border-radius:0;vertical-align:3px}
+svg text{font-family:inherit}
+.tip{position:fixed;pointer-events:none;background:var(--text-primary);color:var(--surface-1);font-size:12px;padding:6px 8px;border-radius:6px;opacity:0;transition:opacity .1s}
+table{border-collapse:collapse;font-size:12px;color:var(--text-secondary);margin-top:8px}
+td,th{padding:3px 10px 3px 0;text-align:left;font-weight:400}th{color:var(--text-muted)}
+details{margin-top:18px;color:var(--text-secondary)}
+.note{color:var(--text-muted);font-size:12px;margin-top:18px;max-width:760px}
+</style></head>
+<body><div class="viz-root">
+<h1>With Pinto, a new chat went from 18% to 82.5% right</h1>
+<p class="sub">Claude Haiku 5.5, 1,540 LoCoMo questions about 10 long friendships (19 to 32 chats each, over months), asked in a new chat.</p>
+<svg id="c1" viewBox="0 0 800 250" width="100%" role="img" aria-label="Share of questions answered right, by memory"></svg>
+<h2>Dates: Pinto 87%, saved facts 48%</h2>
+<p class="sub">Share answered right, by question type.</p>
+<div class="legend" id="lg"></div>
+<svg id="c2" viewBox="0 0 800 260" width="100%" role="img" aria-label="Share answered right by question type"></svg>
+<details><summary>Table view</summary><table id="tb"></table></details>
+<p class="note">Dashed line (top chart): every old chat pasted into the new one, 85.4%. No chat app lets you do this, and it stops working once the history is long; it's the ceiling here, not an option. Saved facts: up to 5 one-line facts kept per chat (our stand-in for a memory list, not ChatGPT's). One notebook: a single markdown file the AI rewrote after each chat. Pinto: Pinto's real MCP tools (server code at commit 80ce88ca) on a local test database; the AI kept 8k to 24k words of notes and read about 10k tokens per question. Graded by Claude Sonnet 5.5; Claude Opus agreed on 99 of 100 checked answers. Adversarial questions excluded, as in published LoCoMo scores.</p>
+<div class="tip" id="tip"></div>
+</div>
+<script>
+const C=[{k:'none',n:'No memory',v:18.0},{k:'facts',n:'Saved facts',v:60.2},{k:'notebook',n:'One notebook',v:71.9},{k:'pinto',n:'Pinto',v:82.5}];
+const CEIL={v:85.4,n:'Every old chat pasted in',by:{'single-hop':93.6,'multi-hop':72.0,temporal:83.5,'open-domain':59.4}};
+const T=['single-hop','multi-hop','temporal','open-domain'],TN={'single-hop':'One fact','multi-hop':'Several facts','temporal':'When','open-domain':'Inference'};
+const D={none:{'single-hop':24.1,'multi-hop':12.8,temporal:3.1,'open-domain':29.2},facts:{'single-hop':66.1,'multi-hop':58.2,temporal:48.3,'open-domain':54.2},notebook:{'single-hop':72.4,'multi-hop':67.4,temporal:80.4,'open-domain':52.1},pinto:{'single-hop':88.5,'multi-hop':66.0,temporal:86.6,'open-domain':64.6}};
+const N={'single-hop':841,'multi-hop':282,temporal:321,'open-domain':96};
+const ns='http://www.w3.org/2000/svg',tip=document.getElementById('tip');
+const fmt=v=>(v%1?v.toFixed(1):v.toFixed(0))+'%';
+function el(p,t,a,txt){const e=document.createElementNS(ns,t);for(const k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;p.appendChild(e);return e}
+function hover(e,html){e.addEventListener('mousemove',ev=>{tip.innerHTML=html;tip.style.left=ev.clientX+12+'px';tip.style.top=ev.clientY+12+'px';tip.style.opacity=1});e.addEventListener('mouseleave',()=>tip.style.opacity=0)}
+function bar(g,x,y,w,h,fill){const r=Math.min(4,h);return el(g,'path',{d:`M${x},${y+h}V${y+r}Q${x},${y} ${x+r},${y}H${x+w-r}Q${x+w},${y} ${x+w},${y+r}V${y+h}Z`,fill})}
+{const s0=document.getElementById('c1'),L=130,W=600,bh=34,gap=14,H=4*(bh+gap),TOP=22;const s=el(s0,'g',{transform:`translate(0,${TOP})`});
+[0,25,50,75,100].forEach(t=>{const x=L+W*t/100;el(s,'line',{x1:x,x2:x,y1:0,y2:H,stroke:'var(--grid)'});el(s,'text',{x,y:H+16,'text-anchor':'middle',fill:'var(--text-muted)','font-size':11},t+'%')});
+C.forEach((c,i)=>{const y=i*(bh+gap),w=W*c.v/100;
+el(s,'text',{x:L-10,y:y+bh/2+5,'text-anchor':'end',fill:'var(--text-primary)'},c.n);
+const g=el(s,'g',{});el(g,'path',{d:`M${L},${y}H${L+w-4}Q${L+w},${y} ${L+w},${y+4}V${y+bh-4}Q${L+w},${y+bh} ${L+w-4},${y+bh}H${L}Z`,fill:c.k==='pinto'?'var(--c-pinto)':'var(--dim)'});
+el(s,'text',{x:L+w-10,y:y+bh/2+5,'text-anchor':'end',fill:c.k==='pinto'?'#fff':'var(--text-primary)','font-weight':c.k==='pinto'?600:400},fmt(c.v));
+hover(g,`<b>${c.n}</b><br>${c.v}% right of 1,540`)});
+const cx=L+W*CEIL.v/100;el(s,'line',{x1:cx,x2:cx,y1:-8,y2:H,stroke:'var(--ceiling)','stroke-width':2,'stroke-dasharray':'5 4'});
+const lab=el(s,'text',{x:cx,y:-12,'text-anchor':'middle',fill:'var(--text-secondary)','font-size':11},`${CEIL.n}: ${CEIL.v}%`);}
+{const s=document.getElementById('c2'),B=220,H=200,L=40,gw=180,bw=30,sp=2;
+[0,25,50,75,100].forEach(t=>{const y=B-H*t/100;el(s,'line',{x1:L,x2:L+4*gw,y1:y,y2:y,stroke:'var(--grid)'});el(s,'text',{x:L-6,y:y+4,'text-anchor':'end',fill:'var(--text-muted)','font-size':11},t+'%')});
+T.forEach((t,ti)=>{const x0=L+ti*gw+(gw-4*bw-3*sp)/2;
+C.forEach((c,ci)=>{const v=D[c.k][t],h=H*v/100,x=x0+ci*(bw+sp);const p=bar(s,x,B-h,bw,h,`var(--c-${c.k})`);hover(p,`<b>${TN[t]}</b> · ${c.n}<br>${v}% right of ${N[t]}`);
+if(c.k==='pinto'||c.k==='facts')el(s,'text',{x:x+bw/2,y:B-h-5,'text-anchor':'middle','font-size':10,fill:'var(--text-secondary)'},Math.round(v))});
+el(s,'text',{x:L+ti*gw+gw/2,y:B+18,'text-anchor':'middle',fill:'var(--text-primary)'},TN[t]);el(s,'text',{x:L+ti*gw+gw/2,y:B+33,'text-anchor':'middle',fill:'var(--text-muted)','font-size':11},N[t]+' questions')})}
+document.getElementById('lg').innerHTML=C.map(c=>`<span><i style="background:var(--c-${c.k})"></i>${c.n}</span>`).join('');
+document.getElementById('tb').innerHTML='<tr><th>Type</th>'+C.map(c=>`<th>${c.n}</th>`).join('')+`<th>${CEIL.n}</th></tr>`+T.map(t=>`<tr><td>${TN[t]}</td>`+C.map(c=>`<td>${D[c.k][t]}%</td>`).join('')+`<td>${CEIL.by[t]}%</td></tr>`).join('')+'<tr><td>All</td>'+C.map(c=>`<td>${c.v}%</td>`).join('')+`<td>${CEIL.v}%</td></tr>`;
+</script></body></html>

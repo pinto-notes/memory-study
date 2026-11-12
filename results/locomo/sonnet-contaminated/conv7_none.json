@@ -1,0 +1,1339 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "A robotics project",
+  "grade": "WRONG",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 1,
+  "cat": "multi-hop",
+  "answer": "Her mother and her father",
+  "grade": "WRONG",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 2,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "WRONG",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 3,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 4,
+  "cat": "temporal",
+  "answer": "2010",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 5,
+  "cat": "open-domain",
+  "answer": "France",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 6,
+  "cat": "multi-hop",
+  "answer": "A pendant (Jolene) and a bench/amulet (Deborah)",
+  "grade": "WRONG",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 7,
+  "cat": "temporal",
+  "answer": "France",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 8,
+  "cat": "multi-hop",
+  "answer": "Spending time in nature and meditation",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 9,
+  "cat": "temporal",
+  "answer": "2020",
+  "grade": "WRONG",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "1987",
+  "grade": "WRONG",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 11,
+  "cat": "open-domain",
+  "answer": "No",
+  "grade": "WRONG",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "January 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 13,
+  "cat": "multi-hop",
+  "answer": "The beach and the forest",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 14,
+  "cat": "multi-hop",
+  "answer": "Gardening and cooking",
+  "grade": "WRONG",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 15,
+  "cat": "single-hop",
+  "answer": "Two snakes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 16,
+  "cat": "single-hop",
+  "answer": "Susie and Seraphim",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 17,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 18,
+  "cat": "open-domain",
+  "answer": "France",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 19,
+  "cat": "multi-hop",
+  "answer": "Twice",
+  "grade": "CORRECT",
+  "tokens_in_call": 1044
+ },
+ {
+  "qi": 20,
+  "cat": "multi-hop",
+  "answer": "Detroit, Cyberpunk 2077",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: by the end of 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 23,
+  "cat": "open-domain",
+  "answer": "Busy schedule and low motivation",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Crow pose and headstand",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 25,
+  "cat": "single-hop",
+  "answer": "Unknown (best guess: Pride and Prejudice)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: Atomic Habits)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 27,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: August 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 28,
+  "cat": "open-domain",
+  "answer": "Colombia",
+  "grade": "CORRECT",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 29,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: December 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 30,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 32,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 33,
+  "cat": "single-hop",
+  "answer": "Unknown (best guess: 3 years)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "2020",
+  "grade": "CORRECT",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 36,
+  "cat": "open-domain",
+  "answer": "Unknown (best guess: 30)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 39,
+  "cat": "multi-hop",
+  "answer": "Time blocking and to-do lists",
+  "grade": "WRONG",
+  "tokens_in_call": 1046
+ },
+ {
+  "qi": 40,
+  "cat": "open-domain",
+  "answer": "Beach",
+  "grade": "CORRECT",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 41,
+  "cat": "multi-hop",
+  "answer": "Meditation and listening to music",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 42,
+  "cat": "single-hop",
+  "answer": "Instrumental/calming nature music",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 43,
+  "cat": "temporal",
+  "answer": "Unknown, around June 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 44,
+  "cat": "temporal",
+  "answer": "Unknown, around July 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "Unknown, around May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 46,
+  "cat": "temporal",
+  "answer": "About 3 months",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 47,
+  "cat": "temporal",
+  "answer": "Unknown, around August 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 48,
+  "cat": "open-domain",
+  "answer": "Alaska",
+  "grade": "CORRECT",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 49,
+  "cat": "single-hop",
+  "answer": "About 3 years",
+  "grade": "CORRECT",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 50,
+  "cat": "temporal",
+  "answer": "2020",
+  "grade": "CORRECT",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 51,
+  "cat": "temporal",
+  "answer": "Unknown, around September 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 52,
+  "cat": "temporal",
+  "answer": "Unknown, around October 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 53,
+  "cat": "temporal",
+  "answer": "Unknown, around 2022",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 54,
+  "cat": "temporal",
+  "answer": "Susie",
+  "grade": "CORRECT",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "Seraphim",
+  "grade": "CORRECT",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 56,
+  "cat": "temporal",
+  "answer": "Unknown, around August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "Unknown, around September 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 58,
+  "cat": "single-hop",
+  "answer": "Detroit: Become Human",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 59,
+  "cat": "single-hop",
+  "answer": "Take walks and cook together",
+  "grade": "WRONG",
+  "tokens_in_call": 1094
+ },
+ {
+  "qi": 60,
+  "cat": "temporal",
+  "answer": "Early August 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 61,
+  "cat": "single-hop",
+  "answer": "Game design and a VR project",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 62,
+  "cat": "single-hop",
+  "answer": "A local animal shelter",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 63,
+  "cat": "single-hop",
+  "answer": "About 2 years old",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 64,
+  "cat": "single-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 65,
+  "cat": "temporal",
+  "answer": "Brazil",
+  "grade": "CORRECT",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 66,
+  "cat": "temporal",
+  "answer": "Early September 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "Vacationing and sightseeing",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 68,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "Jolene has; Deborah hasn't",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 70,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 71,
+  "cat": "temporal",
+  "answer": "Mid-August 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "When she was 10 years old (around 2005)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 73,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "A new dessert or coffee drink",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 75,
+  "cat": "open-domain",
+  "answer": "Exploding Kittens",
+  "grade": "CORRECT",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 76,
+  "cat": "temporal",
+  "answer": "Late August 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 77,
+  "cat": "multi-hop",
+  "answer": "Rio de Janeiro",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 78,
+  "cat": "temporal",
+  "answer": "Rio de Janeiro, Brazil",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 79,
+  "cat": "multi-hop",
+  "answer": "No",
+  "grade": "WRONG",
+  "tokens_in_call": 1071
+ },
+ {
+  "qi": 80,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 81,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 82,
+  "cat": "multi-hop",
+  "answer": "Park, studio",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 83,
+  "cat": "multi-hop",
+  "answer": "Workshops, conferences, internships",
+  "grade": "CORRECT",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 84,
+  "cat": "multi-hop",
+  "answer": "Robotics, renewable energy projects",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 85,
+  "cat": "multi-hop",
+  "answer": "Charity runs, volunteering",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 86,
+  "cat": "multi-hop",
+  "answer": "Books, a plant",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 87,
+  "cat": "multi-hop",
+  "answer": "Spain, Thailand",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 88,
+  "cat": "multi-hop",
+  "answer": "Hiking, painting, cooking",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Susie, Seraphim",
+  "grade": "CORRECT",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Dune, Sapiens",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Peaceful instrumental, nature sounds",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Zelda, Stardew Valley",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Engineering prototypes, a game project",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Animal shelter",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "2 and 4 years",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Sightseeing",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "No",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "When she was a child",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Coffee, pastries",
+  "grade": "CORRECT",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "A robotics project (engineering project)",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "A robotics project",
+  "grade": "CORRECT",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "At a park",
+  "grade": "CORRECT",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Running together",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Completed an engineering project",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Becoming Nicole",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Her mom's old photo album",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "A fresh perspective and renewed motivation",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Brainstormed new project ideas and meditated",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "A STEM workshop or program for underprivileged kids",
+  "grade": "CORRECT",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Invite them as volunteers and mentors for the workshops",
+  "grade": "CORRECT",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "The quiet and the flowers",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "To reflect and remember her mom",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Through a mutual friend",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Yoga",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Energized and less stressed",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Her cat",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Lasagna",
+  "grade": "CORRECT",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "A photo of a stormy sea",
+  "grade": "WRONG",
+  "tokens_in_call": 1186
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Pomodoro technique (breaking study into focused intervals with breaks)",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Help with organizing her tasks and study schedule",
+  "grade": "CORRECT",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "Eisenhower Matrix",
+  "grade": "CORRECT",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Their dreams and future goals, and gratitude for life",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "Taking surfing lessons",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "Yoga mat and comfortable yoga clothes",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Instrumental or soft calming music",
+  "grade": "CORRECT",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Ludovico Einaudi and Max Richter",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Weightless by Marconi Union",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "A local art show",
+  "grade": "CORRECT",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Peaceful atmosphere and connecting with others through the art",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Peaceful and calming",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Watching movies together and relaxing with the snakes",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Traveling",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "About three years",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Calm and happy",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "Tree pose",
+  "grade": "CORRECT",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "A running group",
+  "grade": "CORRECT",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "Supportive community and shared goals",
+  "grade": "WRONG",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "She found snakes calming and fascinating, and wanted an unusual pet",
+  "grade": "CORRECT",
+  "tokens_in_call": 1162
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Detroit: Become Human",
+  "grade": "WRONG",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Walking them",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Relief and happiness",
+  "grade": "WRONG",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "They need exercise and fresh air",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "She adopted her",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "Dancing and video games",
+  "grade": "WRONG",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Gentle restorative yoga",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "A rocket-themed engine design",
+  "grade": "WRONG",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "A bullet journal",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Animal Crossing: New Horizons",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "Zelda: Breath of the Wild",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "Video games",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 152,
+  "cat": "single-hop",
+  "answer": "It holds memories with her mom",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 153,
+  "cat": "single-hop",
+  "answer": "Life and dreams",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 154,
+  "cat": "single-hop",
+  "answer": "Peace and comfort",
+  "grade": "WRONG",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 155,
+  "cat": "single-hop",
+  "answer": "Yoga and meditation",
+  "grade": "WRONG",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 156,
+  "cat": "single-hop",
+  "answer": "Child's pose",
+  "grade": "WRONG",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 157,
+  "cat": "single-hop",
+  "answer": "About 3 years",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 158,
+  "cat": "single-hop",
+  "answer": "A virtual conference",
+  "grade": "CORRECT",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 159,
+  "cat": "single-hop",
+  "answer": "Encouraged and proud",
+  "grade": "WRONG",
+  "tokens_in_call": 1150
+ },
+ {
+  "qi": 160,
+  "cat": "single-hop",
+  "answer": "A engineering conference",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 161,
+  "cat": "single-hop",
+  "answer": "Perseverance",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 162,
+  "cat": "single-hop",
+  "answer": "Renewable energy projects",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 163,
+  "cat": "single-hop",
+  "answer": "Adopted her from a shelter",
+  "grade": "CORRECT",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 164,
+  "cat": "single-hop",
+  "answer": "3 years old",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 165,
+  "cat": "single-hop",
+  "answer": "Yoga classes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 166,
+  "cat": "single-hop",
+  "answer": "A quiet park",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 167,
+  "cat": "single-hop",
+  "answer": "Growth and resilience",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 168,
+  "cat": "single-hop",
+  "answer": "To bring calm and positivity to her home",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 169,
+  "cat": "single-hop",
+  "answer": "Self-care and yoga",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 170,
+  "cat": "single-hop",
+  "answer": "Practiced yoga with her",
+  "grade": "CORRECT",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 171,
+  "cat": "single-hop",
+  "answer": "Nintendo DS",
+  "grade": "CORRECT",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 172,
+  "cat": "single-hop",
+  "answer": "Mario Kart",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 173,
+  "cat": "single-hop",
+  "answer": "Meditation course",
+  "grade": "CORRECT",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 174,
+  "cat": "single-hop",
+  "answer": "A work/project deadline",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 175,
+  "cat": "single-hop",
+  "answer": "Bali",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 176,
+  "cat": "single-hop",
+  "answer": "Mindfulness meditation",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 177,
+  "cat": "single-hop",
+  "answer": "Proud of her progress",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 178,
+  "cat": "single-hop",
+  "answer": "Greater inner peace",
+  "grade": "CORRECT",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 179,
+  "cat": "single-hop",
+  "answer": "Animal Crossing",
+  "grade": "WRONG",
+  "tokens_in_call": 1170
+ },
+ {
+  "qi": 180,
+  "cat": "single-hop",
+  "answer": "Shared stories and memories",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 181,
+  "cat": "single-hop",
+  "answer": "On the beach",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 182,
+  "cat": "single-hop",
+  "answer": "Peace and relaxation",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 183,
+  "cat": "single-hop",
+  "answer": "A cozy sanctuary",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 184,
+  "cat": "single-hop",
+  "answer": "Community gardening",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 185,
+  "cat": "single-hop",
+  "answer": "Cooking",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 186,
+  "cat": "single-hop",
+  "answer": "Homemade cake",
+  "grade": "WRONG",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 187,
+  "cat": "single-hop",
+  "answer": "Chocolate chip",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 188,
+  "cat": "single-hop",
+  "answer": "Hiking",
+  "grade": "WRONG",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 189,
+  "cat": "single-hop",
+  "answer": "Dancing",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ },
+ {
+  "qi": 190,
+  "cat": "single-hop",
+  "answer": "Dancing",
+  "grade": "CORRECT",
+  "tokens_in_call": 905
+ }
+]

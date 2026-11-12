@@ -1,0 +1,211 @@
+{
+ "haiku-pinto-conv0": {
+  "calls": {
+   "search": 41,
+   "list": 48,
+   "create": 2,
+   "edit": 40,
+   "fetch": 107
+  },
+  "errors": 0
+ },
+ "haiku-pinto-conv1": {
+  "calls": {
+   "list": 42,
+   "search": 41,
+   "create": 21,
+   "fetch": 383,
+   "write": 2,
+   "edit": 35
+  },
+  "errors": 0
+ },
+ "haiku-pinto-conv2": {
+  "calls": {
+   "search": 62,
+   "list": 94,
+   "create": 35,
+   "fetch": 889,
+   "edit": 65
+  },
+  "errors": 0
+ },
+ "haiku-pinto-conv3": {
+  "calls": {
+   "list": 86,
+   "search": 66,
+   "create": 31,
+   "fetch": 915,
+   "edit": 67
+  },
+  "errors": 0
+ },
+ "haiku-pinto-conv4": {
+  "calls": {
+   "search": 69,
+   "list": 87,
+   "create": 31,
+   "edit": 132,
+   "fetch": 718,
+   "write": 2
+  },
+  "errors": 1
+ },
+ "haiku-pinto-conv5": {
+  "calls": {
+   "search": 56,
+   "list": 70,
+   "create": 30,
+   "fetch": 760,
+   "write": 2,
+   "edit": 117
+  },
+  "errors": 12
+ },
+ "haiku-pinto-conv6": {
+  "calls": {
+   "search": 71,
+   "list": 81,
+   "create": 34,
+   "fetch": 822,
+   "edit": 123
+  },
+  "errors": 2
+ },
+ "haiku-pinto-conv7": {
+  "calls": {
+   "search": 78,
+   "list": 80,
+   "create": 32,
+   "fetch": 692,
+   "edit": 116
+  },
+  "errors": 0
+ },
+ "haiku-pinto-conv8": {
+  "calls": {
+   "search": 52,
+   "list": 73,
+   "create": 27,
+   "fetch": 644,
+   "edit": 123
+  },
+  "errors": 0
+ },
+ "haiku-pinto-conv9": {
+  "calls": {
+   "search": 64,
+   "list": 89,
+   "create": 32,
+   "fetch": 741,
+   "edit": 119,
+   "write": 2
+  },
+  "errors": 6
+ },
+ "sonnet-contaminated-conv0": {
+  "calls": {
+   "list": 65,
+   "search": 27,
+   "create": 2,
+   "fetch": 107,
+   "edit": 36
+  },
+  "errors": 0
+ },
+ "sonnet-contaminated-conv1": {
+  "calls": {
+   "list": 53,
+   "create": 2,
+   "fetch": 93,
+   "search": 22,
+   "edit": 36
+  },
+  "errors": 0
+ },
+ "sonnet-contaminated-conv2": {
+  "calls": {
+   "search": 31,
+   "list": 98,
+   "create": 2,
+   "fetch": 159,
+   "edit": 89
+  },
+  "errors": 0
+ },
+ "sonnet-contaminated-conv3": {
+  "calls": {
+   "list": 82,
+   "search": 54,
+   "create": 2,
+   "fetch": 156,
+   "write": 2,
+   "edit": 112
+  },
+  "errors": 1
+ },
+ "sonnet-contaminated-conv4": {
+  "calls": {
+   "list": 86,
+   "search": 43,
+   "create": 2,
+   "fetch": 151,
+   "edit": 84
+  },
+  "errors": 0
+ },
+ "sonnet-contaminated-conv5": {
+  "calls": {
+   "list": 74,
+   "search": 44,
+   "create": 2,
+   "fetch": 137,
+   "write": 4,
+   "edit": 115
+  },
+  "errors": 1
+ },
+ "sonnet-contaminated-conv6": {
+  "calls": {
+   "list": 89,
+   "create": 2,
+   "edit": 61,
+   "fetch": 154,
+   "search": 36
+  },
+  "errors": 0
+ },
+ "sonnet-contaminated-conv7": {
+  "calls": {
+   "list": 85,
+   "search": 51,
+   "create": 2,
+   "fetch": 159,
+   "write": 2,
+   "edit": 67
+  },
+  "errors": 2
+ },
+ "sonnet-contaminated-conv8": {
+  "calls": {
+   "list": 81,
+   "search": 28,
+   "create": 2,
+   "fetch": 132,
+   "write": 4,
+   "edit": 88
+  },
+  "errors": 0
+ },
+ "sonnet-contaminated-conv9": {
+  "calls": {
+   "list": 86,
+   "search": 88,
+   "create": 1,
+   "fetch": 103,
+   "write": 2,
+   "edit": 100
+  },
+  "errors": 9
+ }
+}

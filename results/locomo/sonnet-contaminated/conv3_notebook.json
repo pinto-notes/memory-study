@@ -1,0 +1,1395 @@
+[
+ {
+  "qi": 0,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 1,
+  "cat": "multi-hop",
+  "answer": "Movies, similar tastes in films, and cooking/baking dairy-free desserts",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 2,
+  "cat": "temporal",
+  "answer": "Not stated; best guess: around October 2022",
+  "grade": "WRONG",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 3,
+  "cat": "temporal",
+  "answer": "Between 10 and 16 January 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 4,
+  "cat": "open-domain",
+  "answer": "Pets without fur or dander, such as fish (not reptiles or furry animals)",
+  "grade": "WRONG",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 5,
+  "cat": "multi-hop",
+  "answer": "Writing, reading, movies, nature/hiking, friends, cooking/baking, DIY crafts, drawing",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 6,
+  "cat": "temporal",
+  "answer": "About 3 years (since January 2019)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 7,
+  "cat": "temporal",
+  "answer": "21 January 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 8,
+  "cat": "temporal",
+  "answer": "Around January 2019",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 9,
+  "cat": "temporal",
+  "answer": "Finished and printed her first full screenplay",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 10,
+  "cat": "multi-hop",
+  "answer": "Nervous and hopeful (waiting to hear back)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 11,
+  "cat": "multi-hop",
+  "answer": "Most reptiles, furry animals, and cockroaches",
+  "grade": "WRONG",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 12,
+  "cat": "open-domain",
+  "answer": "Possibly allergic asthma or atopic/allergic sensitivity (atopy)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 13,
+  "cat": "temporal",
+  "answer": "23 March 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 14,
+  "cat": "open-domain",
+  "answer": "Not stated; best guess: Jo",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 15,
+  "cat": "temporal",
+  "answer": "Around 8 April 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "He dyed his hair purple",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 17,
+  "cat": "temporal",
+  "answer": "Lord of the Rings trilogy",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 18,
+  "cat": "temporal",
+  "answer": "Not stated; best guess: Whispering Falls",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 19,
+  "cat": "multi-hop",
+  "answer": "Not stated; best guess: twice",
+  "grade": "CORRECT",
+  "tokens_in_call": 7608
+ },
+ {
+  "qi": 20,
+  "cat": "temporal",
+  "answer": "By 20 May 2022 (around mid-May 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "Max, a dog",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "Around 18 March 2022 (after finishing the second script)",
+  "grade": "WRONG",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Her contest/festival screenplays; a major company (3 Jun 2022) and a production company (21 Oct 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 24,
+  "cat": "temporal",
+  "answer": "Not stated; his last party was 18\u201319 Jun 2022",
+  "grade": "WRONG",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 25,
+  "cat": "temporal",
+  "answer": "4\u20135 June 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "Between 23 and 29 May 2022 (regional tournament)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 27,
+  "cat": "multi-hop",
+  "answer": "A film festival, a film contest, major companies, production companies and producers",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 28,
+  "cat": "temporal",
+  "answer": "Friday 17 June 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 29,
+  "cat": "temporal",
+  "answer": "Not stated; no date set",
+  "grade": "WRONG",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 30,
+  "cat": "multi-hop",
+  "answer": "Screenplays, a book, and blog posts and journal entries",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "Friday 8 July 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 32,
+  "cat": "temporal",
+  "answer": "Woodhaven, a small Midwest town",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 33,
+  "cat": "temporal",
+  "answer": "Around 7\u201313 August 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 34,
+  "cat": "multi-hop",
+  "answer": "A fantasy series (title not stated)",
+  "grade": "WRONG",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "Week of 7\u20139 November 2022 (also 10 Nov 2022, beach trip)",
+  "grade": "WRONG",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 36,
+  "cat": "temporal",
+  "answer": "Around 15\u201319 August 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "Sunday 21 August 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "Around 5 September 2022",
+  "grade": "WRONG",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 39,
+  "cat": "temporal",
+  "answer": "Around September 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7579
+ },
+ {
+  "qi": 40,
+  "cat": "temporal",
+  "answer": "Week of 5\u201311 Sep 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 41,
+  "cat": "temporal",
+  "answer": "Around 14 Sep 2022 (shared); tart was a hit 5 Oct 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 42,
+  "cat": "multi-hop",
+  "answer": "Little Women and Inception",
+  "grade": "WRONG",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 43,
+  "cat": "temporal",
+  "answer": "About 2 months (mid-Jul to late Sep 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 44,
+  "cat": "temporal",
+  "answer": "~22\u201329 Sep 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "~22\u201329 Sep 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 46,
+  "cat": "multi-hop",
+  "answer": "Catan and Chess",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 47,
+  "cat": "multi-hop",
+  "answer": "Game convention and gaming tournaments",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 48,
+  "cat": "temporal",
+  "answer": "7 Oct 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 49,
+  "cat": "multi-hop",
+  "answer": "At least 3 times",
+  "grade": "WRONG",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 50,
+  "cat": "multi-hop",
+  "answer": "The stuffed dog (Tilly)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 51,
+  "cat": "multi-hop",
+  "answer": "25 May 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 52,
+  "cat": "multi-hop",
+  "answer": "3",
+  "grade": "WRONG",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 53,
+  "cat": "multi-hop",
+  "answer": "At least 2 times",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 54,
+  "cat": "temporal",
+  "answer": "Between 4 Jun and 23 Oct 2022 (unclear; around Jul 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 55,
+  "cat": "multi-hop",
+  "answer": "Her personal experiences (loss, identity, connection) and nature",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 56,
+  "cat": "multi-hop",
+  "answer": "Turtles",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "Sat 5 Nov 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 58,
+  "cat": "multi-hop",
+  "answer": "A fantasy series, LOTR, Inception, Xenoblade Chronicles, dairy-free recipes, a writing convention",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 59,
+  "cat": "multi-hop",
+  "answer": "Writes down favorite memories and looks back at old notebooks and photos",
+  "grade": "CORRECT",
+  "tokens_in_call": 7593
+ },
+ {
+  "qi": 60,
+  "cat": "open-domain",
+  "answer": "Nintendo (Switch)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 61,
+  "cat": "multi-hop",
+  "answer": "Computer/PC and console (controller)",
+  "grade": "WRONG",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 62,
+  "cat": "multi-hop",
+  "answer": "2",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 63,
+  "cat": "multi-hop",
+  "answer": "CS:GO, Street Fighter, Valorant, Cyberpunk 2077, Xenoblade Chronicles",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 64,
+  "cat": "temporal",
+  "answer": "5 Nov 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 65,
+  "cat": "temporal",
+  "answer": "A big Valorant tournament",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 66,
+  "cat": "open-domain",
+  "answer": "Cooking (teaching dairy-free desserts / cooking show)",
+  "grade": "WRONG",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 67,
+  "cat": "multi-hop",
+  "answer": "Turtles and a dog named Max",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 68,
+  "cat": "open-domain",
+  "answer": "3",
+  "grade": "WRONG",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 69,
+  "cat": "multi-hop",
+  "answer": "3",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 70,
+  "cat": "multi-hop",
+  "answer": "Walks, trips to the park and beach, bathing them",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 71,
+  "cat": "multi-hop",
+  "answer": "Nature",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 72,
+  "cat": "temporal",
+  "answer": "10 Nov 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 73,
+  "cat": "open-domain",
+  "answer": "Indiana",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 74,
+  "cat": "multi-hop",
+  "answer": "A fantasy book series, a romantic drama about memory, Little Women, a classic movie",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 75,
+  "cat": "multi-hop",
+  "answer": "Coconut milk ice cream and dairy-free chocolate mousse",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 76,
+  "cat": "multi-hop",
+  "answer": "His cooking show, teaching people, his vegan diet group, and sharing recipes with Joanna",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 77,
+  "cat": "temporal",
+  "answer": "About 25 Apr 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 78,
+  "cat": "multi-hop",
+  "answer": "10",
+  "grade": "WRONG",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 79,
+  "cat": "multi-hop",
+  "answer": "3",
+  "grade": "CORRECT",
+  "tokens_in_call": 7565
+ },
+ {
+  "qi": 80,
+  "cat": "multi-hop",
+  "answer": "At least 7 (by 5 Nov 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 81,
+  "cat": "multi-hop",
+  "answer": "Dairy-free vanilla cake with strawberry filling and coconut cream frosting, strawberry-chocolate cake, chocolate coconut cupcakes with raspberry frosting, chocolate raspberry tart, chocolate raspberry cake, blueberry coconut milk dessert",
+  "grade": "WRONG",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 82,
+  "cat": "multi-hop",
+  "answer": "Coconut milk ice cream, vegan ice cream, dairy-free chocolate berry cake, chocolate-vanilla swirl ice cream, dairy-free chocolate mousse",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 83,
+  "cat": "multi-hop",
+  "answer": "Gaming tips and making dairy-free desserts (vegan ice cream)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 84,
+  "cat": "open-domain",
+  "answer": "No",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 85,
+  "cat": "open-domain",
+  "answer": "Screenwriter",
+  "grade": "WRONG",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 86,
+  "cat": "temporal",
+  "answer": "10 Nov 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 87,
+  "cat": "open-domain",
+  "answer": "Florida",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Little Women",
+  "grade": "WRONG",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Purple",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "The Lord of the Rings trilogy",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Fantasy",
+  "grade": "WRONG",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Not stated; best guess dimmable/soft lighting",
+  "grade": "WRONG",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Street Fighter",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Loss, identity and connection",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Xenoblade Chronicles",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Action, sci-fi, classics and fantasy",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "Her first full screenplay (printed it)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Drama/romance",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Submit it to film festivals, hoping producers and directors read it",
+  "grade": "CORRECT",
+  "tokens_in_call": 7598
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "Since about January 2019 (around 3 years)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "He loved it; it was delicious",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Coconut milk, chocolate, and mixed berry",
+  "grade": "WRONG",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "A romantic drama about memory and relationships",
+  "grade": "WRONG",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Three sisters (women) growing up and pursuing their own paths; about independence and family",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Chocolate-vanilla swirl",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Her own story, a self-discovery road trip after a loss",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "They are calm, low-maintenance, and soothing",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Calming and relaxing; they are low-maintenance and remind him to slow down",
+  "grade": "WRONG",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "A writing gig",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "He wanted a change and to stand out",
+  "grade": "WRONG",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Coconut milk, vanilla extract, sugar, and a pinch of salt",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Finding Home",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Action",
+  "grade": "WRONG",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Fantasy",
+  "grade": "WRONG",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Dramas, romcoms, and emotional films",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Playing video games",
+  "grade": "WRONG",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Strawberry filling",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Coconut cream frosting",
+  "grade": "CORRECT",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Hike (explore nature and enjoy the scenery)",
+  "grade": "WRONG",
+  "tokens_in_call": 7651
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Making a video/film about hiking (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Joanna",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "Gave Joanna a stuffed dog",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Cute and cuddly, a companion for her writing (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "A gaming party",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "Tournament friends/guys (gamer friends)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Custom gaming controller/snacks (best guess: gaming goodies)",
+  "grade": "WRONG",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "A script she contributed to (screenplay bits)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Spider-Man",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "Iron Man",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Quotes, photos, and keepsakes",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Her family (framed family picture)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Vegan ice cream",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "7",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Vegan (dairy-free) ice cream recipe",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Try making it (bake/make it herself)",
+  "grade": "WRONG",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "4",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "Woodhaven",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "A 1900s book of town stories",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Loss, redemption, and forgiveness",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "A 1900s book of town stories found at the Woodhaven library",
+  "grade": "WRONG",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Won a tournament (played in an online tournament)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Gaming (playing in video game tournaments)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "Comforted and touched",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "Help and comfort people; connect with readers through stories about loss and healing",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "Her blog post about a hard moment",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Her family's love and support, and Nate's support",
+  "grade": "WRONG",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "Coconut milk ice cream",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "Excited and happy",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Her book",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "Baking a dairy-free dessert",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "Don't know; probably celebrated by cooking or baking something sweet",
+  "grade": "WRONG",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 152,
+  "cat": "single-hop",
+  "answer": "She is lactose intolerant (dairy-free)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 153,
+  "cat": "single-hop",
+  "answer": "Dairy-free margarine or coconut oil",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 154,
+  "cat": "single-hop",
+  "answer": "A cooking show",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 155,
+  "cat": "single-hop",
+  "answer": "Coconut milk ice cream",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 156,
+  "cat": "single-hop",
+  "answer": "Dairy-free chocolate mousse",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 157,
+  "cat": "single-hop",
+  "answer": "Chocolate raspberry tart",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 158,
+  "cat": "single-hop",
+  "answer": "Dairy-free chocolate raspberry cake",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 159,
+  "cat": "single-hop",
+  "answer": "Blueberries and coconut milk",
+  "grade": "CORRECT",
+  "tokens_in_call": 7757
+ },
+ {
+  "qi": 160,
+  "cat": "single-hop",
+  "answer": "Inception",
+  "grade": "WRONG",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 161,
+  "cat": "single-hop",
+  "answer": "A bookmark with a plant on top",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 162,
+  "cat": "single-hop",
+  "answer": "Catan",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 163,
+  "cat": "single-hop",
+  "answer": "Inception",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 164,
+  "cat": "single-hop",
+  "answer": "Cyberpunk 2077",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 165,
+  "cat": "single-hop",
+  "answer": "His desk/home gaming setup (two monitors, laptop, headphones, controller)",
+  "grade": "WRONG",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 166,
+  "cat": "single-hop",
+  "answer": "9\u201310/10",
+  "grade": "WRONG",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 167,
+  "cat": "single-hop",
+  "answer": "A big fluffy couch, weighted blanket and dimmable lights",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 168,
+  "cat": "single-hop",
+  "answer": "Her journal",
+  "grade": "WRONG",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 169,
+  "cat": "single-hop",
+  "answer": "Keeps her stuffed dog Tilly with her",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 170,
+  "cat": "single-hop",
+  "answer": "She named it after her dog Tilly from Michigan",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 171,
+  "cat": "single-hop",
+  "answer": "Keeps grinding and stays determined",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 172,
+  "cat": "single-hop",
+  "answer": "Proud/admires her resilience",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 173,
+  "cat": "single-hop",
+  "answer": "Encourages her to keep going and have faith",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 174,
+  "cat": "single-hop",
+  "answer": "His turtles",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 175,
+  "cat": "single-hop",
+  "answer": "Her stuffed dog Tilly",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 176,
+  "cat": "single-hop",
+  "answer": "A script she wrote",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 177,
+  "cat": "single-hop",
+  "answer": "Helping her write; visualizing her characters",
+  "grade": "CORRECT",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 178,
+  "cat": "single-hop",
+  "answer": "Personal experience",
+  "grade": "WRONG",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 179,
+  "cat": "single-hop",
+  "answer": "Happy and fulfilled",
+  "grade": "WRONG",
+  "tokens_in_call": 7703
+ },
+ {
+  "qi": 180,
+  "cat": "single-hop",
+  "answer": "Vegetables, fruits, and insects",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 181,
+  "cat": "single-hop",
+  "answer": "Coconut milk",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 182,
+  "cat": "single-hop",
+  "answer": "Her age-10 story about a brave little turtle",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 183,
+  "cat": "single-hop",
+  "answer": "Xenoblade Chronicles",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 184,
+  "cat": "single-hop",
+  "answer": "A handwritten letter (childhood notes)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 185,
+  "cat": "single-hop",
+  "answer": "A Nintendo role-playing game (JRPG)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 186,
+  "cat": "single-hop",
+  "answer": "Homemade coconut milk ice cream with sprinkles",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 187,
+  "cat": "single-hop",
+  "answer": "A suspenseful thriller set in a small Midwestern town",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 188,
+  "cat": "single-hop",
+  "answer": "Gaming content/videos",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 189,
+  "cat": "single-hop",
+  "answer": "His love of gaming and wanting to share it and connect with fans",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 190,
+  "cat": "single-hop",
+  "answer": "Gaming videos",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 191,
+  "cat": "single-hop",
+  "answer": "Watch other people's videos first to learn what audiences like",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 192,
+  "cat": "single-hop",
+  "answer": "A sunset with sunflowers in a field",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 193,
+  "cat": "single-hop",
+  "answer": "A summer hike near Fort Wayne",
+  "grade": "WRONG",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 194,
+  "cat": "single-hop",
+  "answer": "He bought it on impulse at a pet store",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 195,
+  "cat": "single-hop",
+  "answer": "Watch the turtles (from a distance) and watch a movie or go to the park",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 196,
+  "cat": "single-hop",
+  "answer": "His turtles",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 197,
+  "cat": "single-hop",
+  "answer": "They calm him and remind him to slow down",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ },
+ {
+  "qi": 198,
+  "cat": "single-hop",
+  "answer": "Colorful bowls of coconut milk ice cream with mix-ins",
+  "grade": "CORRECT",
+  "tokens_in_call": 7663
+ }
+]

@@ -1,0 +1,99 @@
+{
+ "per_chat": [
+  {
+   "chat_date": "1:56 pm on 8 May, 2023",
+   "memory_words_after": 53,
+   "tokens_in_call": 1405
+  },
+  {
+   "chat_date": "1:14 pm on 25 May, 2023",
+   "memory_words_after": 104,
+   "tokens_in_call": 1780
+  },
+  {
+   "chat_date": "7:55 pm on 9 June, 2023",
+   "memory_words_after": 168,
+   "tokens_in_call": 2553
+  },
+  {
+   "chat_date": "10:37 am on 27 June, 2023",
+   "memory_words_after": 226,
+   "tokens_in_call": 2209
+  },
+  {
+   "chat_date": "1:36 pm on 3 July, 2023",
+   "memory_words_after": 283,
+   "tokens_in_call": 2091
+  },
+  {
+   "chat_date": "8:18 pm on 6 July, 2023",
+   "memory_words_after": 341,
+   "tokens_in_call": 2257
+  },
+  {
+   "chat_date": "4:33 pm on 12 July, 2023",
+   "memory_words_after": 398,
+   "tokens_in_call": 2953
+  },
+  {
+   "chat_date": "1:51 pm on 15 July, 2023",
+   "memory_words_after": 459,
+   "tokens_in_call": 3778
+  },
+  {
+   "chat_date": "2:31 pm on 17 July, 2023",
+   "memory_words_after": 520,
+   "tokens_in_call": 2610
+  },
+  {
+   "chat_date": "8:56 pm on 20 July, 2023",
+   "memory_words_after": 583,
+   "tokens_in_call": 3374
+  },
+  {
+   "chat_date": "2:24 pm on 14 August, 2023",
+   "memory_words_after": 647,
+   "tokens_in_call": 3283
+  },
+  {
+   "chat_date": "1:50 pm on 17 August, 2023",
+   "memory_words_after": 705,
+   "tokens_in_call": 3294
+  },
+  {
+   "chat_date": "3:31 pm on 23 August, 2023",
+   "memory_words_after": 757,
+   "tokens_in_call": 3495
+  },
+  {
+   "chat_date": "1:33 pm on 25 August, 2023",
+   "memory_words_after": 818,
+   "tokens_in_call": 4771
+  },
+  {
+   "chat_date": "3:19 pm on 28 August, 2023",
+   "memory_words_after": 878,
+   "tokens_in_call": 4167
+  },
+  {
+   "chat_date": "12:09 am on 13 September, 2023",
+   "memory_words_after": 941,
+   "tokens_in_call": 4222
+  },
+  {
+   "chat_date": "10:31 am on 13 October, 2023",
+   "memory_words_after": 990,
+   "tokens_in_call": 4454
+  },
+  {
+   "chat_date": "6:55 pm on 20 October, 2023",
+   "memory_words_after": 1042,
+   "tokens_in_call": 4198
+  },
+  {
+   "chat_date": "9:55 am on 22 October, 2023",
+   "memory_words_after": 1095,
+   "tokens_in_call": 4053
+  }
+ ]
+}

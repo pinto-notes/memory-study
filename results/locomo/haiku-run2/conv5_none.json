@@ -1,0 +1,863 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 1,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 2,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 4,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 5,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 6,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 7,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 8,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 9,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 11,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 12,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 13,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 14,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 15,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 17,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 19,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1133
+ },
+ {
+  "qi": 20,
+  "cat": "open-domain",
+  "answer": "Beef (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 21,
+  "cat": "multi-hop",
+  "answer": "Agility and obedience (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "Lake Tahoe, Aug 5-6, 2023 (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Limited time and space (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Yes (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 25,
+  "cat": "temporal",
+  "answer": "July 15, 2023 (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 26,
+  "cat": "multi-hop",
+  "answer": "Work deadlines (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 27,
+  "cat": "multi-hop",
+  "answer": "Mixed, mostly stressed (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 28,
+  "cat": "multi-hop",
+  "answer": "Bandanas (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 29,
+  "cat": "multi-hop",
+  "answer": "Unknown, no names provided",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 30,
+  "cat": "temporal",
+  "answer": "June 12, 2027 (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 31,
+  "cat": "multi-hop",
+  "answer": "Trained them to hike (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 32,
+  "cat": "multi-hop",
+  "answer": "Floral design (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 33,
+  "cat": "open-domain",
+  "answer": "Daily walks and a dog-friendly home (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "6 months (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 35,
+  "cat": "multi-hop",
+  "answer": "Toby and Buddy",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 36,
+  "cat": "multi-hop",
+  "answer": "Pizza and sushi (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "April 2025 (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "September 2024 (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 39,
+  "cat": "multi-hop",
+  "answer": "Higher vet bills (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1124
+ },
+ {
+  "qi": 40,
+  "cat": "multi-hop",
+  "answer": "Dog park",
+  "grade": "CORRECT",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 41,
+  "cat": "multi-hop",
+  "answer": "Labrador Retrievers (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 42,
+  "cat": "multi-hop",
+  "answer": "Positive reinforcement (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 43,
+  "cat": "open-domain",
+  "answer": "California (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 44,
+  "cat": "open-domain",
+  "answer": "Yosemite National Park (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "3 (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 46,
+  "cat": "temporal",
+  "answer": "2 (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 47,
+  "cat": "temporal",
+  "answer": "6 months (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 48,
+  "cat": "multi-hop",
+  "answer": "Family members (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 49,
+  "cat": "multi-hop",
+  "answer": "Family members (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 50,
+  "cat": "multi-hop",
+  "answer": "Dog first aid (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 51,
+  "cat": "multi-hop",
+  "answer": "Dog toys (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 52,
+  "cat": "open-domain",
+  "answer": "Join a local birding group (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 53,
+  "cat": "open-domain",
+  "answer": "Wildlife biologist (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 54,
+  "cat": "multi-hop",
+  "answer": "Fetch (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "Spring 2023 (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 56,
+  "cat": "multi-hop",
+  "answer": "No",
+  "grade": "CORRECT",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "2023 (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 58,
+  "cat": "temporal",
+  "answer": "Pasta (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 59,
+  "cat": "temporal",
+  "answer": "About 2 years (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1135
+ },
+ {
+  "qi": 60,
+  "cat": "multi-hop",
+  "answer": "2 (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 61,
+  "cat": "single-hop",
+  "answer": "Hummingbird (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 62,
+  "cat": "single-hop",
+  "answer": "Hiking trails with the dog (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 63,
+  "cat": "single-hop",
+  "answer": "Croissants (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 64,
+  "cat": "single-hop",
+  "answer": "Peonies (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 65,
+  "cat": "single-hop",
+  "answer": "Plays fetch (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 66,
+  "cat": "single-hop",
+  "answer": "Small breed (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "Countryside with a large yard (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 68,
+  "cat": "single-hop",
+  "answer": "To improve bonding with her dogs (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "Through a friend (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 70,
+  "cat": "single-hop",
+  "answer": "Positive reinforcement obedience (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 71,
+  "cat": "single-hop",
+  "answer": "Friendly and energetic (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Builds trust and good behavior (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 73,
+  "cat": "single-hop",
+  "answer": "Finding pet-friendly housing (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "Frustrated (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 75,
+  "cat": "single-hop",
+  "answer": "Bouldering (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 76,
+  "cat": "single-hop",
+  "answer": "About 30 minutes (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 77,
+  "cat": "single-hop",
+  "answer": "Dog agility course (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 78,
+  "cat": "single-hop",
+  "answer": "A hidden waterfall (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 79,
+  "cat": "single-hop",
+  "answer": "Chocolate chip cookies (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1193
+ },
+ {
+  "qi": 80,
+  "cat": "single-hop",
+  "answer": "Garlic shrimp scampi",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 81,
+  "cat": "single-hop",
+  "answer": "Went hiking together (17 July 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 82,
+  "cat": "single-hop",
+  "answer": "Max",
+  "grade": "CORRECT",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "Long walks in the park with him",
+  "grade": "CORRECT",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "Playful, calm, curious, affectionate",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "Obedience training classes",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "Three times a week",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "About two hours",
+  "grade": "CORRECT",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Brush his coat regularly",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Regular brushing and baths",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "A joint dog playdate in the park",
+  "grade": "CORRECT",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Added warm blankets to their beds",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Plush and cozy",
+  "grade": "CORRECT",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Gave her a treat and spoke softly",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Twice a day",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Roses",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Ecosystems depend on balance among species",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "Biking instead of driving",
+  "grade": "CORRECT",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Outdoor activities like walking or cycling",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Took the pups to the park (30 Sept to 1 Oct 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1180
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1147
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Puzzle toys and scent games (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 765
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Taking them on a hike (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 765
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "An indoor playpen (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 765
+ }
+]

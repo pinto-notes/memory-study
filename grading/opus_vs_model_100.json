@@ -1,0 +1,902 @@
+[
+ {
+  "n": 1,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 51
+ },
+ {
+  "n": 2,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "notebook",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 142
+ },
+ {
+  "n": 3,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 81
+ },
+ {
+  "n": 4,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 40
+ },
+ {
+  "n": 5,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 84
+ },
+ {
+  "n": 6,
+  "run": "haiku-run1",
+  "conv": 2,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 93
+ },
+ {
+  "n": 7,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 6
+ },
+ {
+  "n": 8,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 81
+ },
+ {
+  "n": 9,
+  "run": "haiku-run1",
+  "conv": 6,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 55
+ },
+ {
+  "n": 10,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 26
+ },
+ {
+  "n": 11,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "none",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 76
+ },
+ {
+  "n": 12,
+  "run": "haiku-run1",
+  "conv": 5,
+  "cond": "none",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 102
+ },
+ {
+  "n": 13,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 112
+ },
+ {
+  "n": 14,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 112
+ },
+ {
+  "n": 15,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 22
+ },
+ {
+  "n": 16,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 37
+ },
+ {
+  "n": 17,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 54
+ },
+ {
+  "n": 18,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 105
+ },
+ {
+  "n": 19,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 116
+ },
+ {
+  "n": 20,
+  "run": "haiku-run1",
+  "conv": 6,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 43
+ },
+ {
+  "n": 21,
+  "run": "haiku-run1",
+  "conv": 2,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 22
+ },
+ {
+  "n": 22,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 8
+ },
+ {
+  "n": 23,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 62
+ },
+ {
+  "n": 24,
+  "run": "haiku-run1",
+  "conv": 5,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 97
+ },
+ {
+  "n": 25,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 84
+ },
+ {
+  "n": 26,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 156
+ },
+ {
+  "n": 27,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 91
+ },
+ {
+  "n": 28,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 47
+ },
+ {
+  "n": 29,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 136
+ },
+ {
+  "n": 30,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 120
+ },
+ {
+  "n": 31,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "notebook",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 16
+ },
+ {
+  "n": 32,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 93
+ },
+ {
+  "n": 33,
+  "run": "haiku-run1",
+  "conv": 6,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 34
+ },
+ {
+  "n": 34,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 10
+ },
+ {
+  "n": 35,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 151
+ },
+ {
+  "n": 36,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 184
+ },
+ {
+  "n": 37,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 61
+ },
+ {
+  "n": 38,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 9
+ },
+ {
+  "n": 39,
+  "run": "haiku-run1",
+  "conv": 2,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 100
+ },
+ {
+  "n": 40,
+  "run": "haiku-run1",
+  "conv": 5,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 16
+ },
+ {
+  "n": 41,
+  "run": "haiku-run1",
+  "conv": 6,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 149
+ },
+ {
+  "n": 42,
+  "run": "haiku-run1",
+  "conv": 2,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 101
+ },
+ {
+  "n": 43,
+  "run": "haiku-run1",
+  "conv": 5,
+  "cond": "notebook",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 16
+ },
+ {
+  "n": 44,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 21
+ },
+ {
+  "n": 45,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "notebook",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 8
+ },
+ {
+  "n": 46,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "full",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 116
+ },
+ {
+  "n": 47,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 174
+ },
+ {
+  "n": 48,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 83
+ },
+ {
+  "n": 49,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 13
+ },
+ {
+  "n": 50,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 65
+ },
+ {
+  "n": 51,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 54
+ },
+ {
+  "n": 52,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 111
+ },
+ {
+  "n": 53,
+  "run": "haiku-run1",
+  "conv": 5,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 13
+ },
+ {
+  "n": 54,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 17
+ },
+ {
+  "n": 55,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 114
+ },
+ {
+  "n": 56,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 58
+ },
+ {
+  "n": 57,
+  "run": "haiku-run1",
+  "conv": 5,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 103
+ },
+ {
+  "n": 58,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 161
+ },
+ {
+  "n": 59,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 57
+ },
+ {
+  "n": 60,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 143
+ },
+ {
+  "n": 61,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 3
+ },
+ {
+  "n": 62,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 55
+ },
+ {
+  "n": 63,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 57
+ },
+ {
+  "n": 64,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 174
+ },
+ {
+  "n": 65,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 72
+ },
+ {
+  "n": 66,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 134
+ },
+ {
+  "n": 67,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 44
+ },
+ {
+  "n": 68,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 60
+ },
+ {
+  "n": 69,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 75
+ },
+ {
+  "n": 70,
+  "run": "haiku-run1",
+  "conv": 5,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 15
+ },
+ {
+  "n": 71,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 46
+ },
+ {
+  "n": 72,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "full",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 74
+ },
+ {
+  "n": 73,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 63
+ },
+ {
+  "n": 74,
+  "run": "haiku-run1",
+  "conv": 4,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 163
+ },
+ {
+  "n": 75,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 128
+ },
+ {
+  "n": 76,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "full",
+  "model_grade": "WRONG",
+  "opus_grade": "CORRECT",
+  "qi": 167
+ },
+ {
+  "n": 77,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 66
+ },
+ {
+  "n": 78,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 61
+ },
+ {
+  "n": 79,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 171
+ },
+ {
+  "n": 80,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 39
+ },
+ {
+  "n": 81,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 95
+ },
+ {
+  "n": 82,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 156
+ },
+ {
+  "n": 83,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 147
+ },
+ {
+  "n": 84,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 146
+ },
+ {
+  "n": 85,
+  "run": "haiku-run1",
+  "conv": 6,
+  "cond": "full",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 61
+ },
+ {
+  "n": 86,
+  "run": "haiku-run1",
+  "conv": 2,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 117
+ },
+ {
+  "n": 87,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "notebook",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 91
+ },
+ {
+  "n": 88,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 104
+ },
+ {
+  "n": 89,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "none",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 126
+ },
+ {
+  "n": 90,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 184
+ },
+ {
+  "n": 91,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "notebook",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 88
+ },
+ {
+  "n": 92,
+  "run": "haiku-run1",
+  "conv": 2,
+  "cond": "facts",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 85
+ },
+ {
+  "n": 93,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "none",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 178
+ },
+ {
+  "n": 94,
+  "run": "haiku-run1",
+  "conv": 7,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 81
+ },
+ {
+  "n": 95,
+  "run": "haiku-run1",
+  "conv": 2,
+  "cond": "none",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 52
+ },
+ {
+  "n": 96,
+  "run": "haiku-run1",
+  "conv": 3,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 55
+ },
+ {
+  "n": 97,
+  "run": "haiku-run1",
+  "conv": 8,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 101
+ },
+ {
+  "n": 98,
+  "run": "haiku-run1",
+  "conv": 9,
+  "cond": "facts",
+  "model_grade": "WRONG",
+  "opus_grade": "WRONG",
+  "qi": 54
+ },
+ {
+  "n": 99,
+  "run": "haiku-run1",
+  "conv": 1,
+  "cond": "notebook",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 11
+ },
+ {
+  "n": 100,
+  "run": "haiku-run1",
+  "conv": 0,
+  "cond": "full",
+  "model_grade": "CORRECT",
+  "opus_grade": "CORRECT",
+  "qi": 146
+ }
+]

@@ -1,0 +1,149 @@
+{
+ "per_chat": [
+  {
+   "chat_date": "7:48 pm on 21 May, 2023",
+   "memory_words_after": 60,
+   "tokens_in_call": 1572
+  },
+  {
+   "chat_date": "5:08 pm on 15 June, 2023",
+   "memory_words_after": 114,
+   "tokens_in_call": 1777
+  },
+  {
+   "chat_date": "4:21 pm on 16 July, 2023",
+   "memory_words_after": 187,
+   "tokens_in_call": 2791
+  },
+  {
+   "chat_date": "4:17 pm on 2 August, 2023",
+   "memory_words_after": 248,
+   "tokens_in_call": 1655
+  },
+  {
+   "chat_date": "10:29 am on 9 August, 2023",
+   "memory_words_after": 309,
+   "tokens_in_call": 2087
+  },
+  {
+   "chat_date": "1:08 pm on 11 August, 2023",
+   "memory_words_after": 377,
+   "tokens_in_call": 2675
+  },
+  {
+   "chat_date": "7:54 pm on 17 August, 2023",
+   "memory_words_after": 441,
+   "tokens_in_call": 2373
+  },
+  {
+   "chat_date": "4:29 pm on 21 August, 2023",
+   "memory_words_after": 515,
+   "tokens_in_call": 3682
+  },
+  {
+   "chat_date": "6:59 pm on 26 August, 2023",
+   "memory_words_after": 589,
+   "tokens_in_call": 2535
+  },
+  {
+   "chat_date": "2:52 pm on 31 August, 2023",
+   "memory_words_after": 659,
+   "tokens_in_call": 2595
+  },
+  {
+   "chat_date": "8:17 pm on 21 September, 2023",
+   "memory_words_after": 724,
+   "tokens_in_call": 3508
+  },
+  {
+   "chat_date": "3:00 pm on 2 October, 2023",
+   "memory_words_after": 787,
+   "tokens_in_call": 3660
+  },
+  {
+   "chat_date": "1:50 pm on 13 October, 2023",
+   "memory_words_after": 836,
+   "tokens_in_call": 3251
+  },
+  {
+   "chat_date": "1:50 pm on 17 October, 2023",
+   "memory_words_after": 889,
+   "tokens_in_call": 3411
+  },
+  {
+   "chat_date": "5:51 pm on 21 October, 2023",
+   "memory_words_after": 968,
+   "tokens_in_call": 4624
+  },
+  {
+   "chat_date": "11:41 am on 6 November, 2023",
+   "memory_words_after": 1049,
+   "tokens_in_call": 3702
+  },
+  {
+   "chat_date": "3:36 pm on 11 November, 2023",
+   "memory_words_after": 1092,
+   "tokens_in_call": 3728
+  },
+  {
+   "chat_date": "3:59 pm on 16 November, 2023",
+   "memory_words_after": 1148,
+   "tokens_in_call": 3527
+  },
+  {
+   "chat_date": "10:22 am on 21 November, 2023",
+   "memory_words_after": 1220,
+   "tokens_in_call": 4455
+  },
+  {
+   "chat_date": "9:52 am on 1 December, 2023",
+   "memory_words_after": 1290,
+   "tokens_in_call": 5042
+  },
+  {
+   "chat_date": "5:34 pm on 6 December, 2023",
+   "memory_words_after": 1367,
+   "tokens_in_call": 4368
+  },
+  {
+   "chat_date": "7:42 pm on 8 December, 2023",
+   "memory_words_after": 1432,
+   "tokens_in_call": 4467
+  },
+  {
+   "chat_date": "8:28 pm on 11 December, 2023",
+   "memory_words_after": 1499,
+   "tokens_in_call": 4445
+  },
+  {
+   "chat_date": "3:37 pm on 16 December, 2023",
+   "memory_words_after": 1562,
+   "tokens_in_call": 4549
+  },
+  {
+   "chat_date": "10:04 am on 19 December, 2023",
+   "memory_words_after": 1630,
+   "tokens_in_call": 4592
+  },
+  {
+   "chat_date": "3:35 pm on 26 December, 2023",
+   "memory_words_after": 1699,
+   "tokens_in_call": 5777
+  },
+  {
+   "chat_date": "5:26 pm on 2 January, 2024",
+   "memory_words_after": 1772,
+   "tokens_in_call": 6291
+  },
+  {
+   "chat_date": "5:24 pm on 7 January, 2024",
+   "memory_words_after": 1826,
+   "tokens_in_call": 4969
+  },
+  {
+   "chat_date": "1:41 pm on 12 January, 2024",
+   "memory_words_after": 1868,
+   "tokens_in_call": 5047
+  }
+ ]
+}

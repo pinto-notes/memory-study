@@ -1,0 +1,863 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "2020",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 1,
+  "cat": "temporal",
+  "answer": "March 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 2,
+  "cat": "multi-hop",
+  "answer": "Board games (with Toby), cooking/picnics",
+  "grade": "WRONG",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "Cafes and places to eat",
+  "grade": "WRONG",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 4,
+  "cat": "temporal",
+  "answer": "Not stated; best guess: around spring 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 5,
+  "cat": "temporal",
+  "answer": "Late April 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 6,
+  "cat": "temporal",
+  "answer": "April 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 7,
+  "cat": "temporal",
+  "answer": "About 2 years (three dogs in 2020, Pixie in 2023: ~3 years)",
+  "grade": "WRONG",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 8,
+  "cat": "temporal",
+  "answer": "No",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 9,
+  "cat": "multi-hop",
+  "answer": "Positive reinforcement workshop, dog training course, agility classes, grooming course, dog owners group",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 11,
+  "cat": "temporal",
+  "answer": "11 June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 12,
+  "cat": "multi-hop",
+  "answer": "Rock climbing, kayaking, camping, fishing",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 13,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 14,
+  "cat": "multi-hop",
+  "answer": "Nature and hiking",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 15,
+  "cat": "multi-hop",
+  "answer": "Finding dog-friendly places in the city",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 17,
+  "cat": "multi-hop",
+  "answer": "Three times",
+  "grade": "CORRECT",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "Not stated; likely a nearby breeder or shelter",
+  "grade": "WRONG",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 19,
+  "cat": "open-domain",
+  "answer": "Cooking-free option: playing board games with Toby",
+  "grade": "WRONG",
+  "tokens_in_call": 5175
+ },
+ {
+  "qi": 20,
+  "cat": "open-domain",
+  "answer": "Chicken",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 21,
+  "cat": "multi-hop",
+  "answer": "Positive reinforcement training, dog training course, agility classes, grooming course",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "Camping trip with his girlfriend and Toby (weekend of 5-6 August 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Difficulty finding a dog-friendly apartment in the city",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Audrey did (Max); Andrew did too (his family's dog)",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 25,
+  "cat": "temporal",
+  "answer": "Weekend of 19-20 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 26,
+  "cat": "multi-hop",
+  "answer": "Stressful work",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 27,
+  "cat": "multi-hop",
+  "answer": "Stressed and overwhelmed",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 28,
+  "cat": "multi-hop",
+  "answer": "Party hats",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 29,
+  "cat": "multi-hop",
+  "answer": "Pepper, Precious, Panda, Pixie",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 30,
+  "cat": "temporal",
+  "answer": "November 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 31,
+  "cat": "multi-hop",
+  "answer": "Hiking, walks, exploring trails, camping, board games, beach trip plans",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 32,
+  "cat": "multi-hop",
+  "answer": "Tattoos of her dogs",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 33,
+  "cat": "open-domain",
+  "answer": "Take dogs to parks/trails, get houseplants, coffee mornings and lunchtime walks, cooking",
+  "grade": "WRONG",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "3 months",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 35,
+  "cat": "multi-hop",
+  "answer": "Toby, Buddy, Scout",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 36,
+  "cat": "multi-hop",
+  "answer": "Chicken Pot Pie, garlic roasted chicken, sushi, muffins and baked treats",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "Weekend of 21-22 October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 39,
+  "cat": "multi-hop",
+  "answer": "Companionship, joy, and love (plus a lot of responsibility)",
+  "grade": "CORRECT",
+  "tokens_in_call": 5166
+ },
+ {
+  "qi": 40,
+  "cat": "multi-hop",
+  "answer": "Dog park",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 41,
+  "cat": "multi-hop",
+  "answer": "Jack Russell mixes, Chihuahua mixes, and Lab mixes",
+  "grade": "WRONG",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 42,
+  "cat": "multi-hop",
+  "answer": "Positive reinforcement",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 43,
+  "cat": "open-domain",
+  "answer": "Colorado",
+  "grade": "WRONG",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 44,
+  "cat": "open-domain",
+  "answer": "Rocky Mountain National Park",
+  "grade": "WRONG",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "3",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 46,
+  "cat": "temporal",
+  "answer": "1",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 47,
+  "cat": "temporal",
+  "answer": "4 months",
+  "grade": "WRONG",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 48,
+  "cat": "multi-hop",
+  "answer": "Family",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 49,
+  "cat": "multi-hop",
+  "answer": "Family",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 50,
+  "cat": "multi-hop",
+  "answer": "Dog grooming",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 51,
+  "cat": "multi-hop",
+  "answer": "Collars, tags, wooden name tags, shoes, party hats, toys, cozy beds, agility equipment",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 52,
+  "cat": "open-domain",
+  "answer": "Lunchtime walks in parks with binoculars and a notebook",
+  "grade": "WRONG",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 53,
+  "cat": "open-domain",
+  "answer": "Wildlife conservationist",
+  "grade": "WRONG",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 54,
+  "cat": "multi-hop",
+  "answer": "Fetch and frisbee",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "Not mentioned in memory",
+  "grade": "WRONG",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 56,
+  "cat": "multi-hop",
+  "answer": "No",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "November 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 58,
+  "cat": "temporal",
+  "answer": "Not mentioned in memory",
+  "grade": "WRONG",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 59,
+  "cat": "temporal",
+  "answer": "About 4 months",
+  "grade": "CORRECT",
+  "tokens_in_call": 5177
+ },
+ {
+  "qi": 60,
+  "cat": "multi-hop",
+  "answer": "3",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 61,
+  "cat": "single-hop",
+  "answer": "Eagles",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 62,
+  "cat": "single-hop",
+  "answer": "The peacefulness of hiking with the dog",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 63,
+  "cat": "single-hop",
+  "answer": "Not known; best guess: croissants",
+  "grade": "WRONG",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 64,
+  "cat": "single-hop",
+  "answer": "Not known; best guess: Peruvian Lilies",
+  "grade": "WRONG",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 65,
+  "cat": "single-hop",
+  "answer": "Her dogs play with other dogs (doggie playdates) at the dog park",
+  "grade": "WRONG",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 66,
+  "cat": "single-hop",
+  "answer": "A smaller dog",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "Near a park or woods, outside the city",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 68,
+  "cat": "single-hop",
+  "answer": "To bond with her dogs using positive reinforcement",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "Found the flyer at her local pet store",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 70,
+  "cat": "single-hop",
+  "answer": "Positive reinforcement training",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 71,
+  "cat": "single-hop",
+  "answer": "Not known; best guess: sweet and playful",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Believes in positive reinforcement and never punishment; it builds bonding and trust",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 73,
+  "cat": "single-hop",
+  "answer": "Finding a dog-friendly apartment in the city",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "Discouraged but determined",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 75,
+  "cat": "single-hop",
+  "answer": "Kayaking and maybe bungee jumping",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 76,
+  "cat": "single-hop",
+  "answer": "About an hour daily",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 77,
+  "cat": "single-hop",
+  "answer": "A doggy play area with agility equipment and toys",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 78,
+  "cat": "single-hop",
+  "answer": "Not known; best guess: a mountain lake",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 79,
+  "cat": "single-hop",
+  "answer": "Chicken Pot Pie",
+  "grade": "CORRECT",
+  "tokens_in_call": 5235
+ },
+ {
+  "qi": 80,
+  "cat": "single-hop",
+  "answer": "Mediterranean garlic Roasted Chicken",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 81,
+  "cat": "single-hop",
+  "answer": "Volunteered at a pet shelter (24 July 2023 was a Monday; they volunteered on Monday 24 July)",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 82,
+  "cat": "single-hop",
+  "answer": "Max",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "Long neighborhood walks with Max, and confiding in him as a kid",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "Relaxed oldest, playful second, naughty cuddly third, adventurous youngest",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "Agility classes",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "Twice a week",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "About 3 hours",
+  "grade": "WRONG",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Don't rush; build the bond slowly with patience",
+  "grade": "WRONG",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Daily brushing, regular baths, and nail trims",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "A doggy playdate",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Bought new cozy beds for them",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Cozy",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Petted and hugged her, spoke calmly, and walked slowly",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "About an hour daily",
+  "grade": "WRONG",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Peruvian Lilies",
+  "grade": "CORRECT",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "How interconnected ecosystems are and why protecting nature matters",
+  "grade": "WRONG",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "Recycling",
+  "grade": "WRONG",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Hiking/outdoor activities",
+  "grade": "WRONG",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Took them to the nearby dog park with a big grassy area",
+  "grade": "WRONG",
+  "tokens_in_call": 5222
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "Knee injury",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Jewelry from recycled items (bottle caps, buttons, broken jewelry)",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "To recycle and care for nature/animals (sells it, donates profits to a shelter)",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "An animal shelter",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Donates part of her jewelry profits",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Fetch and frisbee",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Cookies",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "They hate it; confused",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Hate snow, confused at a snowy park",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Hiking and outdoor adventures",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Walking and exploring new hiking trails",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Exploring new hiking trails",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Sushi",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "California or salmon rolls",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "A picnic date",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Dog hike on a dog-friendly trail by a lake",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Colorful fall foliage",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Joined a dog owners group",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Weekly",
+  "grade": "CORRECT",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Indoor activities: toys, puzzles, training, hide-and-seek",
+  "grade": "WRONG",
+  "tokens_in_call": 5189
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Toys, puzzles, training, and hide-and-seek",
+  "grade": "CORRECT",
+  "tokens_in_call": 4807
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Take them to a nearby small park (Scout stays leashed)",
+  "grade": "CORRECT",
+  "tokens_in_call": 4807
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "A bed, toys, and puppy pads",
+  "grade": "CORRECT",
+  "tokens_in_call": 4807
+ }
+]

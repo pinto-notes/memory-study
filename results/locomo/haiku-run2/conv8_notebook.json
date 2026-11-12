@@ -1,0 +1,1094 @@
+[
+ {
+  "qi": 0,
+  "cat": "multi-hop",
+  "answer": "Toyota Prius",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 1,
+  "cat": "multi-hop",
+  "answer": "Prius (broke down 5 Dec 2023); knee (hurt 25 Sep-1 Oct 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 2,
+  "cat": "multi-hop",
+  "answer": "Rockies, Banff, Jasper",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "1",
+  "grade": "WRONG",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 4,
+  "cat": "temporal",
+  "answer": "Painting (new to it, 24 May 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 5,
+  "cat": "open-domain",
+  "answer": "Canada",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 6,
+  "cat": "multi-hop",
+  "answer": "1 (Jasper, 20-21 May 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 7,
+  "cat": "multi-hop",
+  "answer": "Skiing, kayaking, weightlifting, painting",
+  "grade": "WRONG",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 8,
+  "cat": "multi-hop",
+  "answer": "Watercolour painting",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 9,
+  "cat": "temporal",
+  "answer": "20-21 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 10,
+  "cat": "open-domain",
+  "answer": "Camping trip in the outdoors",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 11,
+  "cat": "multi-hop",
+  "answer": "Weight problem (overweight)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "20-22 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 13,
+  "cat": "temporal",
+  "answer": "29 May-4 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 14,
+  "cat": "multi-hop",
+  "answer": "Not recorded; best guess: poutine",
+  "grade": "WRONG",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 15,
+  "cat": "multi-hop",
+  "answer": "Soda and candy",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 16,
+  "cat": "multi-hop",
+  "answer": "Self-checkouts broken or failing",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 17,
+  "cat": "temporal",
+  "answer": "21 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "Flavoured seltzer instead of soda; high-cocoa dark chocolate instead of candy; air-popped popcorn and fruit as snacks",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 19,
+  "cat": "open-domain",
+  "answer": "Take it slow, one day at a time; find joy in small things; keep trying new things",
+  "grade": "CORRECT",
+  "tokens_in_call": 7770
+ },
+ {
+  "qi": 20,
+  "cat": "open-domain",
+  "answer": "Fitness watch or activity tracker",
+  "grade": "WRONG",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 21,
+  "cat": "multi-hop",
+  "answer": "Love at first sight; she \"gets\" him",
+  "grade": "WRONG",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "On his Canada trip, about 31 Jul-6 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 23,
+  "cat": "temporal",
+  "answer": "28 July 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 24,
+  "cat": "temporal",
+  "answer": "New diet and routine began, 21 Aug 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 25,
+  "cat": "temporal",
+  "answer": "2021",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 26,
+  "cat": "multi-hop",
+  "answer": "2023 health scare (heart palpitations, 29 May-4 Jun), a \"serious wake-up call\"",
+  "grade": "WRONG",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 27,
+  "cat": "open-domain",
+  "answer": "Fitness watch",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 28,
+  "cat": "multi-hop",
+  "answer": "Journaling and creative writing",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 29,
+  "cat": "multi-hop",
+  "answer": "Met a Canadian woman; likely came back with her",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 30,
+  "cat": "temporal",
+  "answer": "6 August 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 31,
+  "cat": "open-domain",
+  "answer": "They turn to nature, exercise, painting or writing, and lean on support",
+  "grade": "WRONG",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 32,
+  "cat": "multi-hop",
+  "answer": "Losing his keys (weekly)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 33,
+  "cat": "multi-hop",
+  "answer": "Flying over skyscrapers (first dreamt 12 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 34,
+  "cat": "multi-hop",
+  "answer": "Fell off his bike, 12 Dec 2023 (crutches)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "12 August 2023 (ankle)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 36,
+  "cat": "multi-hop",
+  "answer": "Grilled chicken and veggie stir-fry; roasted vegetables",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 37,
+  "cat": "multi-hop",
+  "answer": "Grilled salmon with veggies; grilled chicken and veggie stir-fry",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 38,
+  "cat": "open-domain",
+  "answer": "Brings peace, clarity and relaxation; a \"great healer\"",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 39,
+  "cat": "temporal",
+  "answer": "About 3 months (late May to early Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7804
+ },
+ {
+  "qi": 40,
+  "cat": "temporal",
+  "answer": "15-17 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 41,
+  "cat": "temporal",
+  "answer": "Painting classes (watercolour)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 42,
+  "cat": "multi-hop",
+  "answer": "Inspired by a friend's work (~2020-21)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 43,
+  "cat": "open-domain",
+  "answer": "Irregularly; last recorded check-up 2 Oct 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 44,
+  "cat": "multi-hop",
+  "answer": "Landscapes and sunsets (cacti, mountains, ocean)",
+  "grade": "WRONG",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "Rocky Mountains (road trip, July 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 46,
+  "cat": "open-domain",
+  "answer": "Painting, drawing, and journaling to relieve stress",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 47,
+  "cat": "temporal",
+  "answer": "Before 19 Aug 2023 (exact dates not recorded)",
+  "grade": "WRONG",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 48,
+  "cat": "multi-hop",
+  "answer": "Healthier diet and new routine from 19-21 Aug 2023 (gym from 28 Jul 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 49,
+  "cat": "multi-hop",
+  "answer": "Evan's son: ankle (12 Aug 2023), bike fall (12 Dec 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 50,
+  "cat": "multi-hop",
+  "answer": "Watercolour painting, hiking, weightlifting, yoga, reading",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 51,
+  "cat": "open-domain",
+  "answer": "Weight, sugary cravings, low motivation; meal plan, workout schedule, and running (from 10 Jan 2024)",
+  "grade": "WRONG",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 52,
+  "cat": "temporal",
+  "answer": "Painting together (likely Sat 16 Sep 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 53,
+  "cat": "temporal",
+  "answer": "Decided 11 Sep 2023 for Sat 16 Sep 2023 (assumed)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 54,
+  "cat": "multi-hop",
+  "answer": "Heart palpitations (29 May-4 Jun 2023); hospital scare (13-19 Nov 2023); knee injuries (25 Aug 2023; 25 Sep-1 Oct 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 55,
+  "cat": "multi-hop",
+  "answer": "Helping lost tourists (22 Sep and 17 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 56,
+  "cat": "multi-hop",
+  "answer": "Navigation app keeps malfunctioning",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 57,
+  "cat": "open-domain",
+  "answer": "California (Lake Tahoe trip, mentioned 14 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 58,
+  "cat": "temporal",
+  "answer": "About Oct 2022 (lifting about a year as of 8 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 59,
+  "cat": "temporal",
+  "answer": "14 Oct 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7711
+ },
+ {
+  "qi": 60,
+  "cat": "temporal",
+  "answer": "Weightlifting (interest from 8 Oct 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 61,
+  "cat": "temporal",
+  "answer": "Work stress (14 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 62,
+  "cat": "multi-hop",
+  "answer": "Evan: heart palpitations (29 May-4 Jun 2023) and a suspicious hospital finding (13-19 Nov 2023). Sam: gastritis (14-15 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 63,
+  "cat": "temporal",
+  "answer": "14-15 Oct 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 64,
+  "cat": "multi-hop",
+  "answer": "Unspecified serious health risk (not named; flagged 2 Oct 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 65,
+  "cat": "open-domain",
+  "answer": "Beach",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 66,
+  "cat": "temporal",
+  "answer": "Oct 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 67,
+  "cat": "temporal",
+  "answer": "December 2023 (planned, said 9 Nov 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 68,
+  "cat": "temporal",
+  "answer": "Attended Weight Watchers",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 69,
+  "cat": "multi-hop",
+  "answer": "Getting married (~18-25 Dec 2023) and partner's pregnancy (reported 9 Dec 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 70,
+  "cat": "temporal",
+  "answer": "About 4-5 months (met ~31 Jul-6 Aug 2023; married ~Dec 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 71,
+  "cat": "open-domain",
+  "answer": "Christmas season",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 72,
+  "cat": "multi-hop",
+  "answer": "Hiking (reported 17 Dec 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 73,
+  "cat": "temporal",
+  "answer": "Summer 2024",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 74,
+  "cat": "temporal",
+  "answer": "Tue 12 Dec 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 75,
+  "cat": "temporal",
+  "answer": "Fri 5 Jan 2024",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 76,
+  "cat": "temporal",
+  "answer": "Not recorded (exhibited ~13-15 Dec 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 77,
+  "cat": "multi-hop",
+  "answer": "Snowshoeing together (weekend 6-7 Jan 2024)",
+  "grade": "WRONG",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 78,
+  "cat": "multi-hop",
+  "answer": "Work friends (late Dec 2023) and extended family (5 Jan 2024)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 79,
+  "cat": "temporal",
+  "answer": "Feb 2024",
+  "grade": "CORRECT",
+  "tokens_in_call": 7708
+ },
+ {
+  "qi": 80,
+  "cat": "temporal",
+  "answer": "Tuesday 9 January 2024",
+  "grade": "WRONG",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 81,
+  "cat": "multi-hop",
+  "answer": "Watercolour painting",
+  "grade": "WRONG",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 82,
+  "cat": "multi-hop",
+  "answer": "Running (mornings, since about December 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "None; he repaired his Prius and planned to sell it (best guess, not stated)",
+  "grade": "WRONG",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "Inspired by a friend's work (about 2020-21)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "Watercolour painting",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "Keep trying new things (26 December 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "Jasper, Alberta (Icefields Parkway), 20-21 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Cosy cabin, glaciers and lakes; a real retreat",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Cutting sugary drinks and snacks (soda and candy)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Swap soda for flavoured seltzer and candy for high-cocoa dark chocolate (6 June 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Flavoured seltzer (best guess; his response isn't recorded)",
+  "grade": "WRONG",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Self-checkouts broken (6 June 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "The Great Gatsby (27 July 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Flavoured seltzer",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Visual progress reminders (7 August 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Strength and resilience",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "To symbolise strength and resilience (best guess, not stated)",
+  "grade": "WRONG",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Taking the first step (best guess; Sam's wording was 'Don't fear it, just take the first step', 13 August 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "A dream interpretation book (13 August 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7733
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "His keys (lost 13 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Cooking class",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Grilled chicken and veggie stir-fry (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "Roasted vegetable recipe",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Grilled chicken and veggie stir-fry (19 Aug 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Watercolour (classes around 15-17 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Watercolour (inspired by a friend's work)",
+  "grade": "WRONG",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Light and flow (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Sunset landscapes, especially ocean sunsets",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Rockies road trip (July 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Twisted knee (25 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Swimming",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Rest it (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Painting",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Acrylics, brushes, canvas or paper, and a palette",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Swimming, with knee physio",
+  "grade": "WRONG",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Sunset (14 Oct 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Journal and creative writing",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Phone navigation app malfunctioning",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Lifting weights at the gym (started about Oct 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7783
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Find a trainer; start small (8 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Lake Tahoe (14 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "Gastritis (reported 17 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Canada travel and outdoor adventures",
+  "grade": "WRONG",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "Lifting for about one year (8 Oct 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "Changed diet and started morning walks (about Oct 2021)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "1968 Kustom K-200A vintage guitar (9 Nov 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Lost his job in downsizing (Oct 2023) and personal challenges",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "A little slice of paradise (21 Nov 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "Repeated breakdowns and unreliability (5 Dec 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Best guess: as a learning experience",
+  "grade": "WRONG",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Yoga",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Best guess: tips or joining him for a session",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Partner is pregnant",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Family reunion (summer 2024)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "\"Bring it on Home\" (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "Your worth is not defined by your weight (17 Dec 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "A close female friend (name not given)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "Running in the mornings (since about Dec 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Best guess: get a GPS tracker",
+  "grade": "CORRECT",
+  "tokens_in_call": 7748
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Joy and freedom",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Keep trying new things",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "A stress-buster (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "His marriage",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "Photos (best guess; hike not yet recorded)",
+  "grade": "WRONG",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "His cookie recipe",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Their pregnancy news (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "Two ginger snaps a day",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "Snowshoeing",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Balanced diet and low-impact exercise advice",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "Swimming, yoga, walking, beach walks",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "The Godfather",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 152,
+  "cat": "single-hop",
+  "answer": "Yoga",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 153,
+  "cat": "single-hop",
+  "answer": "Sunset kayaking (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 154,
+  "cat": "single-hop",
+  "answer": "Urinated near someone's roses after drinking (he apologised to the owner, not his partner)",
+  "grade": "WRONG",
+  "tokens_in_call": 7681
+ },
+ {
+  "qi": 155,
+  "cat": "single-hop",
+  "answer": "Truly unforgettable and so peaceful",
+  "grade": "CORRECT",
+  "tokens_in_call": 7681
+ }
+]

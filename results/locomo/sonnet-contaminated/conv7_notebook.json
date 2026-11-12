@@ -1,0 +1,1339 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "Sustainable water purifier for a rural community (engineering project)",
+  "grade": "WRONG",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 1,
+  "cat": "multi-hop",
+  "answer": "Her mother, her father, and her friend Karlie",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 2,
+  "cat": "temporal",
+  "answer": "A few years before January 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 3,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 4,
+  "cat": "temporal",
+  "answer": "2010",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 5,
+  "cat": "open-domain",
+  "answer": "France",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 6,
+  "cat": "multi-hop",
+  "answer": "Pendants (Deborah's pendant from her mother; Jolene's heart-shaped pendant with a bird)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 7,
+  "cat": "temporal",
+  "answer": "France",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 8,
+  "cat": "multi-hop",
+  "answer": "Yoga (also meditation, memories, gardening)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 9,
+  "cat": "temporal",
+  "answer": "25 January 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "1993",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 11,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "Around 26 January 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 13,
+  "cat": "multi-hop",
+  "answer": "Mother's old house and bench, the park, the beach, and the water spot near her mother's old house",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 14,
+  "cat": "multi-hop",
+  "answer": "Art, flowers, reading, travel, cooking",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 15,
+  "cat": "single-hop",
+  "answer": "Two snakes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 16,
+  "cat": "single-hop",
+  "answer": "Susie and Seraphim",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 17,
+  "cat": "temporal",
+  "answer": "Around January 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 18,
+  "cat": "open-domain",
+  "answer": "France",
+  "grade": "CORRECT",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 19,
+  "cat": "multi-hop",
+  "answer": "At least once",
+  "grade": "WRONG",
+  "tokens_in_call": 8871
+ },
+ {
+  "qi": 20,
+  "cat": "multi-hop",
+  "answer": "Detroit, Walking Dead, It Takes Two, Overcooked 2",
+  "grade": "WRONG",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "Planned for Sat 28 Jan 2023 (started that day)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "31 Jan 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 23,
+  "cat": "open-domain",
+  "answer": "Busy schedule/stress from studies and work (exams, projects)",
+  "grade": "WRONG",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Dancer Pose and tree pose (on the beach)",
+  "grade": "WRONG",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 25,
+  "cat": "single-hop",
+  "answer": "Sapiens, Avalanche (Neal Stephenson)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "Avalanche by Neal Stephenson",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 27,
+  "cat": "temporal",
+  "answer": "Summer 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 28,
+  "cat": "open-domain",
+  "answer": "Colombia",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 29,
+  "cat": "temporal",
+  "answer": "Wed 1 Feb 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 30,
+  "cat": "temporal",
+  "answer": "Not known; unsure",
+  "grade": "WRONG",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "Summer 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 32,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 33,
+  "cat": "single-hop",
+  "answer": "About 3 years (as of Feb 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "2019 or 2020",
+  "grade": "WRONG",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "24 Feb 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 36,
+  "cat": "open-domain",
+  "answer": "Around 22-24",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "Not known; unsure",
+  "grade": "WRONG",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "Around 10-13 Mar 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 39,
+  "cat": "multi-hop",
+  "answer": "Pomodoro (25/5), Eisenhower Matrix, planners, bullet journal, scheduling",
+  "grade": "CORRECT",
+  "tokens_in_call": 8873
+ },
+ {
+  "qi": 40,
+  "cat": "open-domain",
+  "answer": "Beach",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 41,
+  "cat": "multi-hop",
+  "answer": "Candles, essential oils, soft music; props; practicing in nature (beach, park)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 42,
+  "cat": "single-hop",
+  "answer": "Mellow instrumental music, e.g., \"Savana\" and the album \"Sleep\"",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 43,
+  "cat": "temporal",
+  "answer": "Week of 27 Mar\u20132 Apr 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 44,
+  "cat": "temporal",
+  "answer": "9 Apr 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "Around 1 Feb 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 46,
+  "cat": "temporal",
+  "answer": "About a week (late Jan\u20131 Feb 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 47,
+  "cat": "temporal",
+  "answer": "5 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 48,
+  "cat": "open-domain",
+  "answer": "Alaska",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 49,
+  "cat": "single-hop",
+  "answer": "About 3 years",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 50,
+  "cat": "temporal",
+  "answer": "2020",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 51,
+  "cat": "temporal",
+  "answer": "24 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 52,
+  "cat": "temporal",
+  "answer": "Week of 24\u201330 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 53,
+  "cat": "temporal",
+  "answer": "About Aug 2021",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 54,
+  "cat": "temporal",
+  "answer": "Susie",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "Seraphim",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 56,
+  "cat": "temporal",
+  "answer": "Week of 7\u201313 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "17 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 58,
+  "cat": "single-hop",
+  "answer": "Zelda: Breath of the Wild, Animal Crossing: New Horizons, Overcooked 2",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 59,
+  "cat": "single-hop",
+  "answer": "They used to play video games in turns (detective games) and enjoy the outdoors",
+  "grade": "CORRECT",
+  "tokens_in_call": 8921
+ },
+ {
+  "qi": 60,
+  "cat": "temporal",
+  "answer": "Week of 14\u201320 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 61,
+  "cat": "single-hop",
+  "answer": "Not known; likely sustainable engineering/green tech projects (e.g., solar, clean water) and more internships",
+  "grade": "WRONG",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 62,
+  "cat": "single-hop",
+  "answer": "Luna from a shelter; Max was her mother's cat (taken in when her mother died)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 63,
+  "cat": "single-hop",
+  "answer": "Luna is 5, Max is 8",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 64,
+  "cat": "single-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 65,
+  "cat": "temporal",
+  "answer": "Brazil",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 66,
+  "cat": "temporal",
+  "answer": "29 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "Yoga classes, visiting cafes, and an old temple with stairs",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 68,
+  "cat": "temporal",
+  "answer": "Around 2020 (Rio de Janeiro trip)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "Yes, both have been to Rio",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 70,
+  "cat": "open-domain",
+  "answer": "Yes, he is deceased",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 71,
+  "cat": "temporal",
+  "answer": "Fri 1 Sep 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "When she was 10 years old",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 73,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "Coffee and fresh pastries, plus her scheduling method and books; also the cat card game",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 75,
+  "cat": "open-domain",
+  "answer": "A card game about cats (name forgotten) where you take cards one by one from the deck and attack the opponent",
+  "grade": "WRONG",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 76,
+  "cat": "temporal",
+  "answer": "Around Fri 15 Sep 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 77,
+  "cat": "multi-hop",
+  "answer": "Not stated; a dive spot she found (location unknown)",
+  "grade": "WRONG",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 78,
+  "cat": "temporal",
+  "answer": "Thailand (Phuket meditation retreat)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 79,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8898
+ },
+ {
+  "qi": 80,
+  "cat": "multi-hop",
+  "answer": "No, not yet (she has a board and a guide but hasn't surfed)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 81,
+  "cat": "temporal",
+  "answer": "17 Sep 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 82,
+  "cat": "multi-hop",
+  "answer": "Old home living room by window, park, Bali, beach",
+  "grade": "WRONG",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 83,
+  "cat": "multi-hop",
+  "answer": "Internships at an engineering firm, virtual conference presentation",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 84,
+  "cat": "multi-hop",
+  "answer": "Water purifier, robotics project, solar-powered vehicle, aerial surveillance prototype",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 85,
+  "cat": "multi-hop",
+  "answer": "Yoga in the park, running group, community classes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 86,
+  "cat": "multi-hop",
+  "answer": "Pendant from her mother, bouquet from a friend",
+  "grade": "WRONG",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 87,
+  "cat": "multi-hop",
+  "answer": "Indonesia (Bali) and Brazil",
+  "grade": "WRONG",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 88,
+  "cat": "multi-hop",
+  "answer": "Gardening, jogging/running, meditation, reading, surfing",
+  "grade": "WRONG",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Susie and Seraphim",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Sapiens, Avalanche (Neal Stephenson)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Mellow instrumental music, 'Savana', album 'Sleep'",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Zelda: Breath of the Wild, Animal Crossing: New Horizons, Overcooked 2",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Not stated; maybe more internships and a nature trip/surfing in Oct 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Luna from a shelter; Max was her mother's cat",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Luna is 5, Max is 8",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Yoga classes, visiting cafes, old temple with stairs",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "Yes, both have been",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "When she was 10",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Coffee, fresh pastries, and books, plus Jolene's scheduling method",
+  "grade": "CORRECT",
+  "tokens_in_call": 8894
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "Sustainable water purifier for a rural community",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Around January 2022 (Seraphim, bought in Paris)",
+  "grade": "CORRECT",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Robotics project from her professor",
+  "grade": "CORRECT",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "At a yoga class in the park (31 January 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Camping/little beach trips together",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Not in notes; best guess: finished robotics project",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Avalanche by Neal Stephenson (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Her pendant from her mother",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Need to relax, self-care and balance; a clearer perspective on life",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Built a sustainable water purifier / assessed life (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Engineers teaching STEM to underprivileged kids",
+  "grade": "CORRECT",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Engineers volunteer to teach and mentor the kids (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Memories of her mother among the roses and dahlias",
+  "grade": "CORRECT",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "To feel nostalgic and connected to her mother",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "In an engineering class in college",
+  "grade": "CORRECT",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Yoga",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Better/more energized and less stressed (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Her pets",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Lasagna",
+  "grade": "CORRECT",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Not in notes; best guess: a plant growing from a building corner",
+  "grade": "WRONG",
+  "tokens_in_call": 9013
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Eisenhower Matrix and Pomodoro (breaking study into pieces, planners)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Help with study tips for exams (studying and time management)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "Eisenhower Matrix",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Life stories, loved ones and finding peace (best guess: Deborah's sunset talk with Anna, about their mothers/life)",
+  "grade": "WRONG",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "Using a beginners' surfing guide and learning step by step; plans to surf with Deborah",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "A candle (and essential oils)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Mellow instrumental music",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Nils Frahm and Olafur Arnalds",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Sleep",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "An art show",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "It reminds her of her mother and her love of art",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Calming and peaceful, like a cozy, comforting time together",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Playing video games together (or relaxing with snakes/yoga)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Interning at a well-known engineering firm",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "About 1.5 years (since Jan 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Calm and peaceful",
+  "grade": "WRONG",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "Dancer Pose",
+  "grade": "WRONG",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "A running group",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "Running together with Anna provided support and motivation",
+  "grade": "CORRECT",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "She was lonely and wanted company",
+  "grade": "WRONG",
+  "tokens_in_call": 8989
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "It Takes Two",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Runs with them in the park (mornings and evenings)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Relief",
+  "grade": "WRONG",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "Exercise and companionship; to stay active and enjoy time together outdoors",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "Adopted her around August 2021 when she was lonely",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "Gaming, reading, yoga and meditation",
+  "grade": "WRONG",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Gentle flow",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "Notebooks with galaxy/circuitry designs",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "Bullet journal",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Animal Crossing: New Horizons",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "Zelda: Breath of the Wild",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "Video games, taking turns (detective games)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 152,
+  "cat": "single-hop",
+  "answer": "Her mother sat there; Deborah feels connected to her there",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 153,
+  "cat": "single-hop",
+  "answer": "Their dreams",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 154,
+  "cat": "single-hop",
+  "answer": "Nostalgia and gratitude (bittersweet)",
+  "grade": "WRONG",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 155,
+  "cat": "single-hop",
+  "answer": "Yoga and meditation",
+  "grade": "WRONG",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 156,
+  "cat": "single-hop",
+  "answer": "Savasana",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 157,
+  "cat": "single-hop",
+  "answer": "About 3 years",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 158,
+  "cat": "single-hop",
+  "answer": "Meditation/yoga retreat in Phuket (September 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 159,
+  "cat": "single-hop",
+  "answer": "Thrilled",
+  "grade": "CORRECT",
+  "tokens_in_call": 8977
+ },
+ {
+  "qi": 160,
+  "cat": "single-hop",
+  "answer": "A virtual conference presentation",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 161,
+  "cat": "single-hop",
+  "answer": "Helping others",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 162,
+  "cat": "single-hop",
+  "answer": "Sustainable engineering and green tech for communities in need (solar, clean water)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 163,
+  "cat": "single-hop",
+  "answer": "Adopted her from a shelter",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 164,
+  "cat": "single-hop",
+  "answer": "8 years old",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 165,
+  "cat": "single-hop",
+  "answer": "Yoga classes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 166,
+  "cat": "single-hop",
+  "answer": "A tranquil pond",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 167,
+  "cat": "single-hop",
+  "answer": "Nurturing herself and fresh starts",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 168,
+  "cat": "single-hop",
+  "answer": "To symbolize self-care and a fresh start",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 169,
+  "cat": "single-hop",
+  "answer": "Yoga, meditation and self-care for balance",
+  "grade": "WRONG",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 170,
+  "cat": "single-hop",
+  "answer": "She was her biggest fan and came to her classes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 171,
+  "cat": "single-hop",
+  "answer": "Nintendo",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 172,
+  "cat": "single-hop",
+  "answer": "Monster Hunter: World",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 173,
+  "cat": "single-hop",
+  "answer": "A meditation course at a lake retreat",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 174,
+  "cat": "single-hop",
+  "answer": "Busy schedule with studies and finals (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 175,
+  "cat": "single-hop",
+  "answer": "Phuket",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 176,
+  "cat": "single-hop",
+  "answer": "Releasing expectations and judgments, savoring the present and appreciating the journey",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 177,
+  "cat": "single-hop",
+  "answer": "Very positive; it brought a new level of joy and happiness",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 178,
+  "cat": "single-hop",
+  "answer": "Felt peaceful and connected to nature and herself",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 179,
+  "cat": "single-hop",
+  "answer": "A card game about cats",
+  "grade": "CORRECT",
+  "tokens_in_call": 8997
+ },
+ {
+  "qi": 180,
+  "cat": "single-hop",
+  "answer": "Reconnected with them and heard their stories",
+  "grade": "WRONG",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 181,
+  "cat": "single-hop",
+  "answer": "On a special beach (where she discovered surfing)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 182,
+  "cat": "single-hop",
+  "answer": "Peace, relaxation, and self-care",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 183,
+  "cat": "single-hop",
+  "answer": "A \"little haven\"",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 184,
+  "cat": "single-hop",
+  "answer": "A free community gardening class",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 185,
+  "cat": "single-hop",
+  "answer": "Art, flowers, reading, and travel",
+  "grade": "WRONG",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 186,
+  "cat": "single-hop",
+  "answer": "Pineapple birthday cakes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 187,
+  "cat": "single-hop",
+  "answer": "Chocolate chip cookies",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 188,
+  "cat": "single-hop",
+  "answer": "Surfing",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 189,
+  "cat": "single-hop",
+  "answer": "Dancing",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ },
+ {
+  "qi": 190,
+  "cat": "single-hop",
+  "answer": "Dancing to the music with her pals",
+  "grade": "CORRECT",
+  "tokens_in_call": 8732
+ }
+]

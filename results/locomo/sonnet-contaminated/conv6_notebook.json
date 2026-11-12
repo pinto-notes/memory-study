@@ -1,0 +1,1052 @@
+[
+ {
+  "qi": 0,
+  "cat": "open-domain",
+  "answer": "Not mentioned; possibly stress/overwhelm (no health problems noted)",
+  "grade": "WRONG",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 1,
+  "cat": "temporal",
+  "answer": "Bowling",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 2,
+  "cat": "multi-hop",
+  "answer": "McGee's Pub (27 Aug 2022); baseball game (11 Sep 2022); VR session (26 Mar 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "No, only James has pets (John has no dog yet)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 4,
+  "cat": "temporal",
+  "answer": "About late Feb 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 5,
+  "cat": "multi-hop",
+  "answer": "James: Apex Legends; John: CS:GO (both love Witcher 3)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 6,
+  "cat": "open-domain",
+  "answer": "Unknown, probably not (no evidence)",
+  "grade": "WRONG",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 7,
+  "cat": "open-domain",
+  "answer": "Stamford shelter (Connecticut)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 8,
+  "cat": "multi-hop",
+  "answer": "Three",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 9,
+  "cat": "multi-hop",
+  "answer": "Max, Daisy, Ned",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "Around 5-11 April 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 11,
+  "cat": "temporal",
+  "answer": "Not known; likely busy with programming course",
+  "grade": "WRONG",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 12,
+  "cat": "open-domain",
+  "answer": "No",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 13,
+  "cat": "temporal",
+  "answer": "2021",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 14,
+  "cat": "temporal",
+  "answer": "26 April 2022 (approx.)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 15,
+  "cat": "temporal",
+  "answer": "Late March 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 16,
+  "cat": "open-domain",
+  "answer": "Unknown; strategy card game (board/card games with friends)",
+  "grade": "WRONG",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 17,
+  "cat": "open-domain",
+  "answer": "Impostor (Among Us-style party game)",
+  "grade": "WRONG",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "The Name of the Wind; The Stormlight Archive; Kingkiller Chronicle; The Expanse",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 19,
+  "cat": "open-domain",
+  "answer": "Probably yes, not clearly stated",
+  "grade": "CORRECT",
+  "tokens_in_call": 8376
+ },
+ {
+  "qi": 20,
+  "cat": "multi-hop",
+  "answer": "2",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "7 May 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 22,
+  "cat": "multi-hop",
+  "answer": "A dog shelter near his street, the homeless (leftover food), and a children's hospital",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 23,
+  "cat": "temporal",
+  "answer": "July 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "A Unity strategy game and a 2D puzzle adventure game",
+  "grade": "WRONG",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 25,
+  "cat": "open-domain",
+  "answer": "No (James: Liverpool, John: Man City)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 26,
+  "cat": "multi-hop",
+  "answer": "Italy, Turkey, Mexico, Canada, Greenland",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 27,
+  "cat": "multi-hop",
+  "answer": "Cooking class (also a gaming and programming course)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 28,
+  "cat": "temporal",
+  "answer": "May 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 29,
+  "cat": "temporal",
+  "answer": "11 July 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 30,
+  "cat": "open-domain",
+  "answer": "Canada",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "10 days",
+  "grade": "WRONG",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 32,
+  "cat": "temporal",
+  "answer": "In Canada (on his trip)",
+  "grade": "WRONG",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 33,
+  "cat": "open-domain",
+  "answer": "No",
+  "grade": "WRONG",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 34,
+  "cat": "multi-hop",
+  "answer": "Canada and Greenland",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 35,
+  "cat": "open-domain",
+  "answer": "Greenland (Nuuk)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 36,
+  "cat": "open-domain",
+  "answer": "Someone close to John, probably his girlfriend (relationship not stated)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "Around 21 July 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 38,
+  "cat": "multi-hop",
+  "answer": "Left his IT job and started a dream job in July 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 39,
+  "cat": "temporal",
+  "answer": "Around 2019",
+  "grade": "CORRECT",
+  "tokens_in_call": 8366
+ },
+ {
+  "qi": 40,
+  "cat": "multi-hop",
+  "answer": "Sit, stay, paw, rollover",
+  "grade": "WRONG",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 41,
+  "cat": "temporal",
+  "answer": "9 Aug 2022 (at the dog beach)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 42,
+  "cat": "temporal",
+  "answer": "9 Aug 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 43,
+  "cat": "temporal",
+  "answer": "September 2022 (gaming night with siblings)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 44,
+  "cat": "open-domain",
+  "answer": "Not in my notes; best guess: he doesn't like coffee",
+  "grade": "WRONG",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 45,
+  "cat": "multi-hop",
+  "answer": "Not in my notes; best guess: stout and lager",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 46,
+  "cat": "temporal",
+  "answer": "27 Aug 2022 (planned; outcome unconfirmed)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 47,
+  "cat": "temporal",
+  "answer": "3 Sep 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 48,
+  "cat": "temporal",
+  "answer": "11 Sep 2022 (planned; outcome unknown)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 49,
+  "cat": "multi-hop",
+  "answer": "Gaming PC with powerful graphics card, headset, gaming chair, keyboard, refurbished desk, Sennheiser headphones, Logitech mouse",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 50,
+  "cat": "temporal",
+  "answer": "2 Sep 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 51,
+  "cat": "multi-hop",
+  "answer": "Witcher 3, Cyberpunk 2077 (also Assassin's Creed Valhalla, FIFA 23, chess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 52,
+  "cat": "temporal",
+  "answer": "Not in my notes; best guess: around mid-2022 (announced 20 Sep 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 53,
+  "cat": "temporal",
+  "answer": "Not in my notes; best guess: several months",
+  "grade": "WRONG",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 54,
+  "cat": "multi-hop",
+  "answer": "Programming seminar (10-16 Oct 2022) and online competition with programmer friends",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "3-9 Oct 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 56,
+  "cat": "multi-hop",
+  "answer": "Sister (~21 Jul 2022) and mother (19 Oct 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "19 Oct 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 58,
+  "cat": "temporal",
+  "answer": "20 Oct 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 59,
+  "cat": "temporal",
+  "answer": "30 Oct 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8420
+ },
+ {
+  "qi": 60,
+  "cat": "multi-hop",
+  "answer": "CS:GO, Fortnite, Overwatch, Apex Legends",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 61,
+  "cat": "temporal",
+  "answer": "Moved in together (rented an apartment near McGee's bar)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 62,
+  "cat": "temporal",
+  "answer": "About two months (3 Sep to 31 Oct 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 63,
+  "cat": "temporal",
+  "answer": "Fri 4 Nov 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 64,
+  "cat": "temporal",
+  "answer": "About two months (since ~July 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 65,
+  "cat": "temporal",
+  "answer": "Mon 7 Nov 2022 (around 5-7 Nov 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 66,
+  "cat": "temporal",
+  "answer": "Weekend of 5-6 Nov 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "Python and C++",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 68,
+  "cat": "single-hop",
+  "answer": "Dog walking / pet care app",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "Not in notes; best guess: customizable pet-care profiles with walk tracking",
+  "grade": "WRONG",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 70,
+  "cat": "single-hop",
+  "answer": "Caps and coins",
+  "grade": "WRONG",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 71,
+  "cat": "single-hop",
+  "answer": "Help him find the right pet",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Drums",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 73,
+  "cat": "single-hop",
+  "answer": "About a month (since late Feb 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "CS:GO",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 75,
+  "cat": "single-hop",
+  "answer": "Apex Legends",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 76,
+  "cat": "single-hop",
+  "answer": "Voice chat",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 77,
+  "cat": "single-hop",
+  "answer": "Communicate and never put ego above the team",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 78,
+  "cat": "single-hop",
+  "answer": "A pup (dog)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 79,
+  "cat": "single-hop",
+  "answer": "Ned",
+  "grade": "CORRECT",
+  "tokens_in_call": 8441
+ },
+ {
+  "qi": 80,
+  "cat": "single-hop",
+  "answer": "She inspired him; love at first sight, he used her look for the character",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 81,
+  "cat": "single-hop",
+  "answer": "The Witcher 3",
+  "grade": "WRONG",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 82,
+  "cat": "single-hop",
+  "answer": "Italy",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "Megacities, technology, and street food",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "Coding: a new algorithm he was stuck on",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "Labrador",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "Pepperoni",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "Hawaiian",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "A CS:GO charity tournament (7 May 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Gave leftover food to the homeless",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Support a dog shelter",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Replacing paper records with an app",
+  "grade": "WRONG",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "An app/system replacing paper records",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Prize money and a trophy",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "A football simulator (player databases)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Liverpool",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Manchester City",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "Liverpool vs Man City: bet on who finishes higher",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Playing frisbee and fetch (swimming too)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Giving gifts to the less fortunate",
+  "grade": "CORRECT",
+  "tokens_in_call": 8427
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "No, no interview needed",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Playing video games",
+  "grade": "WRONG",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Skateboarding",
+  "grade": "WRONG",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "Rope jumping",
+  "grade": "WRONG",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Vancouver",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "20 July 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Chess",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "He wanted more meaningful work",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Fortnite",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Ned's exam and vaccination went fine",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Strategy and RPG",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "The Witcher 3",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Story, choices and atmosphere (monster hunting)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Samantha's",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Call her on 11 August 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "A gaming night",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Dark beer",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Balancing the game mechanics",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Coding",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Basic games and stories",
+  "grade": "CORRECT",
+  "tokens_in_call": 8447
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Sennheiser",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Theater (they both love it)",
+  "grade": "WRONG",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "$10",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Dough",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "He never liked cooking and wanted to try something new",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "Omelette",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Dungeons of the Dragon",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Books, movies, and dreams",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "A medieval castle with a labyrinth of puzzles and traps",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "Electronic and rock",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Guitar",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Drums",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Started a startup making portable smokers (19 Sep 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "2D adventure with puzzles and exploration",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Reads a game design book, tutorials, forums, and a game-dev magazine",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Programming mentor, teaching coding",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "Very excited",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "Newer, graphically demanding RPGs like Cyberpunk 2077",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "The Witcher 3",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Playing Mario and Zelda on Nintendo",
+  "grade": "CORRECT",
+  "tokens_in_call": 8425
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Unsaved game progress (at the big reveal of the game he was playing)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Fortnite, Overwatch, Apex Legends, and others",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Raising money for a children's hospital (charity)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "To move in together",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "An apartment near McGee's bar",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "It's close to McGee's bar, which they both like to go to",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "FIFA 23",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "Using the gamepad controls and timing",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "An online board game",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Luna",
+  "grade": "CORRECT",
+  "tokens_in_call": 8277
+ }
+]

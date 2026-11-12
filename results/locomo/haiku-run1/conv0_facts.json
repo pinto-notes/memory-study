@@ -1,0 +1,1066 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "7 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 1,
+  "cat": "temporal",
+  "answer": "Not recorded; Melanie's paintings include a lake sunset and a sunset with palm tree",
+  "grade": "WRONG",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 2,
+  "cat": "open-domain",
+  "answer": "Counseling or mental health work",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "Adoption agencies",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 4,
+  "cat": "multi-hop",
+  "answer": "Transgender woman",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 5,
+  "cat": "temporal",
+  "answer": "Around 20 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 6,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 7,
+  "cat": "multi-hop",
+  "answer": "Single parent",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 8,
+  "cat": "temporal",
+  "answer": "Early June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 9,
+  "cat": "temporal",
+  "answer": "No specific date recorded; she contacted her mentor around 13 October 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "Four years",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 11,
+  "cat": "multi-hop",
+  "answer": "Her home country (not named); possibly Sweden, where her grandmother lives (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 13,
+  "cat": "multi-hop",
+  "answer": "Counseling (mental health work)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 14,
+  "cat": "open-domain",
+  "answer": "Unlikely; her counseling goal grew from the support she received",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 15,
+  "cat": "multi-hop",
+  "answer": "Running, reading, playing violin, painting, pottery, and clarinet",
+  "grade": "WRONG",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "2 July 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 17,
+  "cat": "temporal",
+  "answer": "July 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "The mountains (mid-June 2023); also a camping trip in 2022",
+  "grade": "WRONG",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 19,
+  "cat": "multi-hop",
+  "answer": "Dinosaurs, painting nature-inspired works, pottery, and the beach",
+  "grade": "CORRECT",
+  "tokens_in_call": 3580
+ },
+ {
+  "qi": 20,
+  "cat": "temporal",
+  "answer": "Around 5 July 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "Late June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 22,
+  "cat": "open-domain",
+  "answer": "Likely yes (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Charlotte's Web (as a child)",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Runs longer distances",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 25,
+  "cat": "temporal",
+  "answer": "Around 10 July 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "No record found",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 27,
+  "cat": "open-domain",
+  "answer": "Unlikely (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 28,
+  "cat": "temporal",
+  "answer": "Around 7 July 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 29,
+  "cat": "temporal",
+  "answer": "Around 7 July 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 30,
+  "cat": "open-domain",
+  "answer": "Unlikely (no indication)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "Mid-June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 32,
+  "cat": "multi-hop",
+  "answer": "Support group (May 2023), counseling workshop (23 June 2023), pride parade (late June 2023), LGBTQ conference (around 10 July 2023), Connected LGBTQ Activists group (around 18 July 2023), pride parade (around 11 August 2023), transgender poetry reading (early October 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 33,
+  "cat": "temporal",
+  "answer": "Late June 2023; around 11 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 34,
+  "cat": "multi-hop",
+  "answer": "Volunteers at LGBTQ+ youth center; planning kids' talent show; mentors a transgender teen",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "No July 2023 camping recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 36,
+  "cat": "temporal",
+  "answer": "Around 10 July 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 37,
+  "cat": "multi-hop",
+  "answer": "Flower-patterned plate (around 24 August 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 38,
+  "cat": "multi-hop",
+  "answer": "Camping and hiking (June 2023), museum dinosaur exhibit (5 July 2023), pottery and painting with kids (July 2023), concert (13 August 2023), park visit (27 August 2023), homeless shelter volunteering (24 August 2023), Grand Canyon road trip (October 2023), nature trail walk (19 October 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 39,
+  "cat": "multi-hop",
+  "answer": "Attends pride parades and LGBTQ events, joined activist group, mentors a trans teen, volunteers at youth center, gave a school talk, plans LGBTQ art show",
+  "grade": "CORRECT",
+  "tokens_in_call": 3590
+ },
+ {
+  "qi": 40,
+  "cat": "multi-hop",
+  "answer": "Once or twice",
+  "grade": "WRONG",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 41,
+  "cat": "temporal",
+  "answer": "18 July 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 42,
+  "cat": "open-domain",
+  "answer": "National park",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 43,
+  "cat": "multi-hop",
+  "answer": "LGBTQ+-themed paintings",
+  "grade": "WRONG",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 44,
+  "cat": "temporal",
+  "answer": "Around 13 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "11 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 46,
+  "cat": "open-domain",
+  "answer": "Likely yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 47,
+  "cat": "multi-hop",
+  "answer": "Friends, family, and mentors",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 48,
+  "cat": "multi-hop",
+  "answer": "Painted bowls and flower-patterned plates",
+  "grade": "WRONG",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 49,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 50,
+  "cat": "open-domain",
+  "answer": "Progressive/liberal",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 51,
+  "cat": "multi-hop",
+  "answer": "Landscapes, like a lake sunset",
+  "grade": "WRONG",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 52,
+  "cat": "multi-hop",
+  "answer": "Luna (dog), Oliver and Bailey (cats)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 53,
+  "cat": "temporal",
+  "answer": "Week of 23 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 54,
+  "cat": "temporal",
+  "answer": "August 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 55,
+  "cat": "multi-hop",
+  "answer": "Sunsets",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 56,
+  "cat": "multi-hop",
+  "answer": "Cross-and-heart necklace",
+  "grade": "WRONG",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "Mid-August 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 58,
+  "cat": "temporal",
+  "answer": "Around 24 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 59,
+  "cat": "open-domain",
+  "answer": "Likely yes, faith-oriented",
+  "grade": "WRONG",
+  "tokens_in_call": 3598
+ },
+ {
+  "qi": 60,
+  "cat": "multi-hop",
+  "answer": "Clarinet and violin",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 61,
+  "cat": "multi-hop",
+  "answer": "None recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 62,
+  "cat": "temporal",
+  "answer": "27 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 63,
+  "cat": "temporal",
+  "answer": "Not recorded (date unknown)",
+  "grade": "WRONG",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 64,
+  "cat": "open-domain",
+  "answer": "Likely yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 65,
+  "cat": "multi-hop",
+  "answer": "Some close friends stopped supporting her after transition",
+  "grade": "WRONG",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 66,
+  "cat": "multi-hop",
+  "answer": "Nature trail walks and camping",
+  "grade": "WRONG",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 67,
+  "cat": "temporal",
+  "answer": "Early September 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 68,
+  "cat": "temporal",
+  "answer": "Seven years",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 69,
+  "cat": "open-domain",
+  "answer": "Courageous, determined, compassionate",
+  "grade": "WRONG",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 70,
+  "cat": "multi-hop",
+  "answer": "Transgender poetry reading (early October 2023); transgender conference (July 2023, planned); school talk on transgender journey (early June 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 71,
+  "cat": "multi-hop",
+  "answer": "Not recorded (best guess: Becoming Nicole)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 72,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 73,
+  "cat": "temporal",
+  "answer": "September 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 74,
+  "cat": "temporal",
+  "answer": "October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 75,
+  "cat": "multi-hop",
+  "answer": "At least two (exact number not recorded)",
+  "grade": "WRONG",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 76,
+  "cat": "multi-hop",
+  "answer": "19 October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 77,
+  "cat": "open-domain",
+  "answer": "Possibly; no plan recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 78,
+  "cat": "multi-hop",
+  "answer": "New running shoes; wooden figurine dolls (21 October 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 79,
+  "cat": "temporal",
+  "answer": "Around 20 October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3593
+ },
+ {
+  "qi": 80,
+  "cat": "temporal",
+  "answer": "21 October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 81,
+  "cat": "open-domain",
+  "answer": "No (no evidence)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 82,
+  "cat": "single-hop",
+  "answer": "Mental health",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "Mental health matters (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "Daily me-time: running, reading, violin",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "Pride events, conference, art show",
+  "grade": "WRONG",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "LGBTQ+ adoptive families",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "Supports LGBTQ+ adoptive families",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Giving back and showing love",
+  "grade": "WRONG",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Supportive (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Five years",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Love, faith, strength",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Sweden",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Cross-and-heart necklace",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Friendship (friend's 18th birthday gift)",
+  "grade": "WRONG",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Camping and hiking in mountains",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Trans self-acceptance and mental health counseling",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "LGBTQ+ counseling workshop",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Self-acceptance and mental health (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Her own mental health struggles and the support she received",
+  "grade": "CORRECT",
+  "tokens_in_call": 3606
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "Safe, accepting space",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "No, hers was colorful",
+  "grade": "WRONG",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Children's books",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "Charlotte's Web",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Becoming Nicole",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Self-acceptance and courage",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Running longer distances",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "To destress",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Destressing",
+  "grade": "WRONG",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Clay pottery pieces",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Bowl",
+  "grade": "WRONG",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Nature-inspired paintings",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Nature-inspired painting (sunset)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Adoption process information",
+  "grade": "WRONG",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Hope and happiness",
+  "grade": "WRONG",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Beauty and calm",
+  "grade": "WRONG",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "LGBTQ center visit",
+  "grade": "WRONG",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Once or twice a year",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Perseid meteor shower",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Amazed and happy",
+  "grade": "CORRECT",
+  "tokens_in_call": 3626
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Her daughter's, around 13 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "To express emotions and feel calm (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Guinea pig named Oscar",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "Dog Luna; cats Oliver and Bailey",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Riding horses",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Stained glass window",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "\"Brave\" by Sara Bareilles",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Bach and Mozart",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Ed Sheeran",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Seven years",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Research agencies, pick one supporting LGBTQ+ families, and ask a mentor (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Son's car accident, October 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "Running, reading, or playing violin",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Transgender experiences, early October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3630
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Not recorded (guess: messages of identity and self-expression)",
+  "grade": "WRONG",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Freedom and being real",
+  "grade": "CORRECT",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Supporting each other through challenges (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "Car accident during October 2023 road trip",
+  "grade": "CORRECT",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "Resiliently (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "Strengthened by her family (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Tough and resilient",
+  "grade": "CORRECT",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "Grateful and strengthened (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "Joyful and proud (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Strength to keep going",
+  "grade": "CORRECT",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "Grateful and loved",
+  "grade": "CORRECT",
+  "tokens_in_call": 3449
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "Nature trail walk on 19 October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 3449
+ }
+]

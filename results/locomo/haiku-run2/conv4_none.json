@@ -1,0 +1,1248 @@
+[
+ {
+  "qi": 0,
+  "cat": "multi-hop",
+  "answer": "Play in the NBA",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 1,
+  "cat": "multi-hop",
+  "answer": "Build a business",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 2,
+  "cat": "multi-hop",
+  "answer": "Sneakers",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 3,
+  "cat": "open-domain",
+  "answer": "C. S. Lewis",
+  "grade": "CORRECT",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 4,
+  "cat": "multi-hop",
+  "answer": "Harry Potter",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 5,
+  "cat": "open-domain",
+  "answer": "Strand Bookstore",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 6,
+  "cat": "temporal",
+  "answer": "March",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 7,
+  "cat": "multi-hop",
+  "answer": "California, New York",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 8,
+  "cat": "open-domain",
+  "answer": "Patagonia",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 9,
+  "cat": "multi-hop",
+  "answer": "Nike",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "March 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 11,
+  "cat": "multi-hop",
+  "answer": "Surfing, soccer",
+  "grade": "CORRECT",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "2018",
+  "grade": "CORRECT",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 13,
+  "cat": "multi-hop",
+  "answer": "Reading novels",
+  "grade": "CORRECT",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 14,
+  "cat": "multi-hop",
+  "answer": "Fan fiction",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 15,
+  "cat": "open-domain",
+  "answer": "A friend",
+  "grade": "CORRECT",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "Three weeks",
+  "grade": "CORRECT",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 17,
+  "cat": "multi-hop",
+  "answer": "Two games",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "C. S. Lewis, J. K. Rowling",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 19,
+  "cat": "open-domain",
+  "answer": "Boys & Girls Clubs of America, for youth sports mentoring",
+  "grade": "WRONG",
+  "tokens_in_call": 1051
+ },
+ {
+  "qi": 20,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 21,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 23,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 24,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 25,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 26,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 27,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 28,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 29,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 30,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 32,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 33,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 34,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 35,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 36,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 38,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 39,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1093
+ },
+ {
+  "qi": 40,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 41,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 42,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 43,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 44,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 46,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 47,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 48,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 49,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 50,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 51,
+  "cat": "open-domain",
+  "answer": "Power yoga",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 52,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 53,
+  "cat": "open-domain",
+  "answer": "Plyometrics",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 54,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 56,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 57,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 58,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 59,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1034
+ },
+ {
+  "qi": 60,
+  "cat": "temporal",
+  "answer": "15 March 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 61,
+  "cat": "multi-hop",
+  "answer": "Harry Potter series",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 62,
+  "cat": "multi-hop",
+  "answer": "Coaching youth clinics",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 63,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 64,
+  "cat": "temporal",
+  "answer": "July",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 65,
+  "cat": "multi-hop",
+  "answer": "Harry Potter films",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 66,
+  "cat": "open-domain",
+  "answer": "Star Wars: Thrawn",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 67,
+  "cat": "open-domain",
+  "answer": "Photography",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 68,
+  "cat": "temporal",
+  "answer": "1 September 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 69,
+  "cat": "temporal",
+  "answer": "January 2027",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 70,
+  "cat": "open-domain",
+  "answer": "Skellig Michael",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 71,
+  "cat": "single-hop",
+  "answer": "Chicago Bulls",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Point guard",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 73,
+  "cat": "single-hop",
+  "answer": "Shoulder injury",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "Magical creatures and spells",
+  "grade": "CORRECT",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 75,
+  "cat": "single-hop",
+  "answer": "Star Wars fan forum",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 76,
+  "cat": "single-hop",
+  "answer": "Photo of bookshelf",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 77,
+  "cat": "single-hop",
+  "answer": "42 points",
+  "grade": "WRONG",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 78,
+  "cat": "single-hop",
+  "answer": "Team victory",
+  "grade": "CORRECT",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 79,
+  "cat": "single-hop",
+  "answer": "Endorsement deals",
+  "grade": "CORRECT",
+  "tokens_in_call": 1075
+ },
+ {
+  "qi": 80,
+  "cat": "single-hop",
+  "answer": "Los Angeles",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 81,
+  "cat": "single-hop",
+  "answer": "Five years",
+  "grade": "CORRECT",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 82,
+  "cat": "single-hop",
+  "answer": "Free and relaxed",
+  "grade": "CORRECT",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "Travel features",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "Harry Potter and The Hobbit",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "Basketball",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "His game highlights",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "Like a family",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Through school gym class",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Play professionally",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Boys & Girls Clubs",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "August 15, 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "A signed basketball",
+  "grade": "CORRECT",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "To show their support",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Meeting other writers and publishers",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Playing the piano",
+  "grade": "CORRECT",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Harry Potter",
+  "grade": "CORRECT",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "Watching it with family as a child",
+  "grade": "CORRECT",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Home Alone",
+  "grade": "CORRECT",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Family dinner together",
+  "grade": "WRONG",
+  "tokens_in_call": 1095
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "Four years",
+  "grade": "CORRECT",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Exciting and memorable",
+  "grade": "CORRECT",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Great food and energy",
+  "grade": "CORRECT",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "Tomato basil soup",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Smoked paprika",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "The Harry Potter area",
+  "grade": "CORRECT",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Chicago",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Chicago",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Coach youth basketball",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Choose brands you believe in",
+  "grade": "CORRECT",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Atomic Habits",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Outdoor garden venue",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Beachside at sunset",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Los Angeles Lakers",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Travel",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Long, competitive, and demanding",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "With focus and teamwork",
+  "grade": "CORRECT",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Wanting to win championships",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Regional championship",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Colorado Rockies",
+  "grade": "WRONG",
+  "tokens_in_call": 1063
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Proud and honored",
+  "grade": "CORRECT",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Seeing them improve",
+  "grade": "CORRECT",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "Build skills and confidence",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Fantasy",
+  "grade": "CORRECT",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "J.R.R. Tolkien",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "\"It is our choices that show what we truly are\"",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "His goals",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Fishing",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Chili",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "By email",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Writer's block",
+  "grade": "CORRECT",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Championship trophy",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "His work ethic",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Breathtaking",
+  "grade": "CORRECT",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Game of Thrones",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Taking short breaks",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "It's healing",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "Lost draft files",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "Physical therapy and rest",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Personal goals",
+  "grade": "WRONG",
+  "tokens_in_call": 1152
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Practiced free throws relentlessly",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "The Alchemist",
+  "grade": "CORRECT",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Encouraged him to chase dreams",
+  "grade": "CORRECT",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "Yoga",
+  "grade": "CORRECT",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "30 seconds",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "Redwood National Park",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Spanish",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "Guitar",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "Two years",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Atomic Habits",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "The Martian",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "Travel plans",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 152,
+  "cat": "single-hop",
+  "answer": "Playoff game",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 153,
+  "cat": "single-hop",
+  "answer": "Journaling",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 154,
+  "cat": "single-hop",
+  "answer": "Electric and intense",
+  "grade": "CORRECT",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 155,
+  "cat": "single-hop",
+  "answer": "Relieved and grateful",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 156,
+  "cat": "single-hop",
+  "answer": "Sponsorship deal",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 157,
+  "cat": "single-hop",
+  "answer": "Los Angeles studio",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 158,
+  "cat": "single-hop",
+  "answer": "Defensive teamwork",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 159,
+  "cat": "single-hop",
+  "answer": "Leadership seminars",
+  "grade": "WRONG",
+  "tokens_in_call": 1154
+ },
+ {
+  "qi": 160,
+  "cat": "single-hop",
+  "answer": "Planned a hike",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 161,
+  "cat": "single-hop",
+  "answer": "Children's education",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 162,
+  "cat": "single-hop",
+  "answer": "The Wheel of Time",
+  "grade": "CORRECT",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 163,
+  "cat": "single-hop",
+  "answer": "Italian",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 164,
+  "cat": "single-hop",
+  "answer": "English",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 165,
+  "cat": "single-hop",
+  "answer": "Italian cookbook",
+  "grade": "CORRECT",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 166,
+  "cat": "single-hop",
+  "answer": "The Lord of the Rings",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 167,
+  "cat": "single-hop",
+  "answer": "Aragorn",
+  "grade": "CORRECT",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 168,
+  "cat": "single-hop",
+  "answer": "Loyal and brave",
+  "grade": "CORRECT",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 169,
+  "cat": "single-hop",
+  "answer": "Portrait",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 170,
+  "cat": "single-hop",
+  "answer": "Courage",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 171,
+  "cat": "single-hop",
+  "answer": "Map of Ireland",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 172,
+  "cat": "single-hop",
+  "answer": "Ireland",
+  "grade": "CORRECT",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 173,
+  "cat": "single-hop",
+  "answer": "Dublin",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 174,
+  "cat": "single-hop",
+  "answer": "Charity gala",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 175,
+  "cat": "single-hop",
+  "answer": "Promotion",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 176,
+  "cat": "single-hop",
+  "answer": "Elated",
+  "grade": "WRONG",
+  "tokens_in_call": 1047
+ },
+ {
+  "qi": 177,
+  "cat": "single-hop",
+  "answer": "Barcelona",
+  "grade": "CORRECT",
+  "tokens_in_call": 1047
+ }
+]

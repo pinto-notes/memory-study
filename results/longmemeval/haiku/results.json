@@ -1,0 +1,1298 @@
+[
+ {
+  "id": "06878be2",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Based on our earlier chats, your photography setup includes a Sony A7R IV, a Sony 24-70mm f/2.8 lens, a Godox V1 flash, and a Gitzo GT3543LS tripod. I've also suggested a flash case, external battery packs, and a camera bag, but I don't know which of these you've bought, so I can't tell what you already have.\n\nAccessories that would complement that gear include:\n- **Flash modifiers**: a softbox or diffuser for the Godox V1 for softer light.\n- **Wireless flash trigger**: a Godox trigger for off-camera flash, if you don't already have one.\n- **Extra batteries**: spare Sony NP-FZ100 batteries, which the A7R IV needs.\n- **Memory cards**: fast UHS-II SD cards for the A7R IV's large raw files.\n- **Lens filters**: a UV or circular polarizer for the 24-70mm, sized to its filter thread.\n- **Ballhead**: a head for the Gitzo tripod, such as the Gitzo GH3382QD I mentioned earlier.\n- **Cable release or remote**: for sharp shots on the tripod.\n- **Lens hood**: to reduce flare with the 24-70mm.\n\nTell me which items you already own and I can narrow this down.",
+  "correct": true,
+  "tokens_in_call": 169565
+ },
+ {
+  "id": "06878be2",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know your current photography setup, since you haven't told me what camera, lenses, or gear you use. If you share your camera model, lenses, and what you shoot (portraits, landscapes, video, etc.), I can suggest accessories that complement it.",
+  "correct": false,
+  "tokens_in_call": 653
+ },
+ {
+  "id": "06878be2",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Based on what you've told me, these would complement your Sony A7R IV and 24-70mm f/2.8:\n\n- **Flash modifiers:** You chose the Godox V1, so a softbox or diffuser would help with direct-flash light.\n- **Battery pack or USB-C power:** You haven't picked one yet. I believe the A7R IV can charge over USB-C, but please verify that for your body.\n- **Tripod:** You're considering the Gitzo GT3543LS. I'm not certain of its material or weight, so check the specs before buying.\n- **Camera bag:** You're undecided among Think Tank, Lowepro, F-Stop, Peak Design, and MindShift. Comfort and durability are your main criteria.\n- **Spare batteries:** I don't know whether you have a spare battery. A second one is a common addition for shoots away from power.\n- **Filters:** I don't know your lens's filter thread size, so check it before buying any filter.\n\nYour notes also mention a lens-cleaning routine. I don't know whether you already have the cleaning supplies.",
+  "correct": true,
+  "tokens_in_call": 10379
+ },
+ {
+  "id": "07b6f563",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know your phone's make or model, and you haven't mentioned any phone accessories in our past chats, so I can't tailor suggestions to your device. Two things you have mentioned that could be relevant: your iPhone 13 Pro, and your cracked screen protector that needs replacing. In general, useful accessories for an iPhone 13 Pro include a tempered glass screen protector, a protective case, a wireless or portable power bank, and a wallet case. If you tell me what you're after (protection, charging, storage, etc.), I can narrow it down.",
+  "correct": true,
+  "tokens_in_call": 168741
+ },
+ {
+  "id": "07b6f563",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know which phone you have, so these suggestions are general:\n\n- **Case**: protects against drops and scratches.\n- **Screen protector**: tempered glass guards against cracks.\n- **Charger and cable**: a fast-charging adapter and a durable cable (USB-C or Lightning, depending on the phone).\n- **Wireless charging pad or stand**: convenient for desks and nightstands.\n- **Power bank**: useful when you're away from outlets.\n- **Earbuds or headphones**: wired, Bluetooth, or noise-cancelling.\n- **Phone mount or stand**: for car, desk, or video calls.\n- **MagSafe-style accessories** (if your phone supports magnetic charging): wallets, mounts, and chargers that attach magnetically.\n\nIf you tell me the phone model, I can suggest more specific accessories.",
+  "correct": false,
+  "tokens_in_call": 649
+ },
+ {
+  "id": "07b6f563",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Based on what you've shared, here are useful accessories for your iPhone 13 Pro:\n\n- **Screen protector:** You mentioned a cracked one needs replacing. Look for tempered glass rated 9H, and confirm it's sized for the iPhone 13 Pro. Brands you were considering: Zagg, TechArmor, Spigen, Skinomi.\n- **Wallet case:** Useful if you want to carry cards and cash. Look for RFID blocking, 3\u20134 card slots, and raised edges. Brands you were considering: Nomad, Bellroy, Speck, Spigen, Tech21. The OtterBox wallet case is durable but bulkier and heavier.\n- **Wireless power bank:** Check for Qi certification from the WPC, at least 5W output, high mAh, and PD or QC fast charging. Tradeoffs are higher price, slower charging, lower capacity, and more heat. You already own a Best Buy power bank that works well, so this would be an add-on.\n\nI don't know which of these you've already bought.",
+  "correct": true,
+  "tokens_in_call": 10641
+ },
+ {
+  "id": "08f4fc43",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "full",
+  "answer": "30 days. You mentioned attending Sunday mass at St. Mary's Church on January 2nd and the Ash Wednesday service at the cathedral on February 1st, and January has 31 days.",
+  "correct": true,
+  "tokens_in_call": 169266
+ },
+ {
+  "id": "08f4fc43",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, and no information about a Sunday mass at St. Mary's Church or an Ash Wednesday service at the cathedral has been provided.",
+  "correct": false,
+  "tokens_in_call": 673
+ },
+ {
+  "id": "08f4fc43",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Based on your stated dates, 30 days passed (January 2 to February 1). However, the February 1 date for Ash Wednesday is unverified. Ash Wednesday in 2023 fell on February 22, which would make it 51 days after the January 2 mass. I also can't confirm the January 2 mass was a Sunday in 2023, since January 2, 2023 was a Monday.",
+  "correct": true,
+  "tokens_in_call": 10198
+ },
+ {
+  "id": "0a34ad58",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Here are some practical tips for getting around Tokyo:\n\n- **Get a Suica card** (you already have one). Tap in and out at every station and bus, and use it at convenience stores and vending machines.\n- **Use Google Maps or a transit app** like Navitime or Jorudan. They show train platforms, transfers, and fares, and they are very reliable in Tokyo.\n- **Pick up a tourist pass if it suits you.** The Tokyo Subway Ticket covers unlimited rides on Tokyo Metro and Toei subway lines for a set number of days.\n- **Learn the station layout.** Shinjuku Station is one of the busiest in the world. Follow the color-coded lines and the numbered exits, and allow extra time to transfer.\n- **Avoid rush hour if you can.** Trains are very crowded roughly 7:30\u20139:30 am and 5\u20137 pm. Women-only cars are sometimes available on certain lines.\n- **Stand on the correct side of escalators.** In Tokyo, stand on the left and walk on the right.\n- **Keep quiet on trains** and don't eat while riding.\n- **Ask station staff for help.** Many can speak basic English, and the staff are usually very helpful.\n- **Use taxis for late nights or heavy luggage.** Taxi doors open automatically, so don't try to close them yourself.\n- **Download an offline map** in case your connection drops.\n\nSince you're nervous, you might also do a practice trip from your hotel to a nearby station before your first full day out.",
+  "correct": true,
+  "tokens_in_call": 170016
+ },
+ {
+  "id": "0a34ad58",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "none",
+  "answer": "Here are some tips for getting around Tokyo:\n\n- **Get an IC card** like Suica or Pasmo. Tap it on trains, subway, and buses, and use it at convenience stores and vending machines. You can add it to Apple Wallet or Google Wallet.\n- **Use a transit app.** Google Maps, Navitime, or Jorudan (Japan Travel by NAVITIME) give accurate routes, platforms, and fares. Google Maps works well offline if you download the map ahead of time.\n- **Look for English signs.** Major stations and lines use English and numbered station codes, so you can follow the code letter and number (for example, \"H-12\") on signs.\n- **Watch the last train.** Most lines stop running around midnight, and some earlier. Since it's already late, check your last train time now. Taxis are available but more expensive.\n- **Use the exit map.** Big stations like Shinjuku or Tokyo have many exits. Check the exit number before you go up so you come out near your destination.\n- **Stand on the left** on escalators in Tokyo (the right side is often used for walking in Osaka).\n- **Keep quiet on trains** and avoid phone calls. Priority seats are for elderly and disabled passengers.\n- **Allow extra time.** Trains are very punctual, but stations are large and transfers can involve long walks.\n\nIf you tell me where you're staying and where you're headed, I can help you plan a route.",
+  "correct": false,
+  "tokens_in_call": 662
+ },
+ {
+  "id": "0a34ad58",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Tokyo's train system is easier than it looks. Some tips:\n\n- **Use Google Maps or Navitime for routes.** They show train lines, platforms, fares, and exits, and they work well offline if you download the Tokyo map beforehand.\n- **Use your Suica card.** It works on subway, JR, and most buses, and you can tap it at convenience stores and vending machines. Load it at the station machines.\n- **Learn the exit numbers.** Shinjuku Station is huge, and the exit number matters more than the station name. Check the exit number on your map before you go up.\n- **Avoid rush hour** (roughly 7:30\u20139:30 AM and 5\u20137 PM) if you can. Trains are packed, and a few cars are often reserved for women at peak times.\n- **Stand on the left** on escalators in Tokyo, and keep the right side clear for people walking.\n- **Plan for the early Tsukiji trip.** Trains may not run yet at 5 AM, so a taxi may be simpler. Taxis are reliable but pricier.\n- **Keep your hotel card handy.** Show it to a taxi driver or station staff if you get lost. Shinjuku station staff generally speak some English, and signs are bilingual.\n- **Last trains** usually stop around midnight, so check the schedule if you're out late.\n\nI don't know the exact dates of your Tokyo trip or the current train schedules, so check those closer to your travel dates.",
+  "correct": true,
+  "tokens_in_call": 9912
+ },
+ {
+  "id": "0ddfec37",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "full",
+  "answer": "You added 20 autographed baseballs to your collection in the first three months of collecting, according to your message from the 2023/12/30 chat. Note that you also mentioned 15 autographed baseballs in an earlier conversation on 2023/07/11, which was about three months into your collecting. The 20 figure is the one you gave for the past few months.",
+  "correct": false,
+  "tokens_in_call": 163545
+ },
+ {
+  "id": "0ddfec37",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, I have no memory of earlier conversations, and you haven't shared your collection records or the relevant details here.",
+  "correct": false,
+  "tokens_in_call": 657
+ },
+ {
+  "id": "0ddfec37",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know. My notes show 15 autographed baseballs by about April 2023 and 20 by December 30, 2023, but they don't say when the collection started, so I can't tell how many you added in the first three months.",
+  "correct": false,
+  "tokens_in_call": 10899
+ },
+ {
+  "id": "1568498a",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "full",
+  "answer": "My move after 27. Kg2 Bd5+ was 28. Kg3. Black then replied 28...Be6.",
+  "correct": true,
+  "tokens_in_call": 165757
+ },
+ {
+  "id": "1568498a",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, and I have no memory of our previous game, so I can't tell you what I played after 27. Kg2 Bd5+. If you paste the move list or the position, I can analyze it with you.",
+  "correct": false,
+  "tokens_in_call": 673
+ },
+ {
+  "id": "1568498a",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "My move after 27...Bd5+ was 28. Kg3. Black then played 28...Be6.",
+  "correct": true,
+  "tokens_in_call": 9826
+ },
+ {
+  "id": "184da446",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "full",
+  "answer": "You mentioned that you're on page 220 of \"A Short History of Nearly Everything\" (in chats from May 2023). I don't know how many pages you've read since then, so I can't say how many you've read in total.",
+  "correct": true,
+  "tokens_in_call": 166175
+ },
+ {
+  "id": "184da446",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, I have no memory of earlier conversations, and you haven't told me how far you've read in *A Short History of Nearly Everything*.",
+  "correct": false,
+  "tokens_in_call": 658
+ },
+ {
+  "id": "184da446",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Your most recent logged bookmark is page 220 of *A Short History of Nearly Everything*, noted on May 29, 2023. I don't have any later updates, so you may be further along now.",
+  "correct": true,
+  "tokens_in_call": 10924
+ },
+ {
+  "id": "18dcd5a5",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "full",
+  "answer": "The party will face 4 mummies in the temple, according to the stat blocks in the earlier one-shot.",
+  "correct": true,
+  "tokens_in_call": 169762
+ },
+ {
+  "id": "18dcd5a5",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new conversation, and I have no access to our earlier chat about the Lost Temple of the Djinn one-shot, so I can't tell how many mummies were planned. If you paste your notes or the earlier details here, I can help you work it out.",
+  "correct": false,
+  "tokens_in_call": 682
+ },
+ {
+  "id": "18dcd5a5",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Four mummies. The draft of \"The Lost Temple of the Djinn\" included 4 mummies with Curse of the Pharaohs and Mummy Rot. The same draft also has the djinn Zoltar, 2 construct guardians, and 6 skeletal warriors.",
+  "correct": true,
+  "tokens_in_call": 9902
+ },
+ {
+  "id": "1903aded",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "full",
+  "answer": "The 7th job in that list was **Transcriptionist**.",
+  "correct": true,
+  "tokens_in_call": 167645
+ },
+ {
+  "id": "1903aded",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, so I have no record of a earlier discussion about work-from-home jobs for seniors, and I can't see a list or its 7th item.",
+  "correct": false,
+  "tokens_in_call": 672
+ },
+ {
+  "id": "1903aded",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know. My notes show you asked about work-from-home ideas for seniors on 2023/05/26, but they don't record the list or its items, so I can't tell you what the 7th job was. If you paste the list here, I can help with it.",
+  "correct": false,
+  "tokens_in_call": 8339
+ },
+ {
+  "id": "1a1907b4",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know the details of your get-together, such as how many guests there will be, the occasion, or what they like to drink, so I can't say for certain. Based on what you've told me before, the Pimm's Cup with a Twist is a good pick. You were excited about it, and the Ruby Red grapefruit simple syrup, muddled cucumber, and Collins glass make it a crowd-pleaser. If you want something lighter or easier to batch for a group, the Cucumber Gimlet or the Rose Petal Spritz are good alternatives with Hendrick's. Tell me more about the guests and the setting, and I can narrow it down.",
+  "correct": true,
+  "tokens_in_call": 169426
+ },
+ {
+  "id": "1a1907b4",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know the details of your get-together, like the number of guests, the season, or what people like to drink, so here are some crowd-pleasers that suit most gatherings:\n\n- **Margarita**: easy to batch in a pitcher ahead of time.\n- **Old Fashioned**: classic and simple, but a bit stronger.\n- **Mojito**: refreshing and fun to make with a crowd, though muddling takes some time.\n- **Espresso Martini**: a good pick if guests want something after dinner.\n- **Sangria**: a make-ahead option that's easy to serve in large amounts.\n\nIf you tell me how many people are coming, what they usually drink, and whether you want something light or strong, I can narrow it down.",
+  "correct": false,
+  "tokens_in_call": 675
+ },
+ {
+  "id": "1a1907b4",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Go with the **Pimm's Cup with a Twist**, the Hendrick's version you picked earlier. It's a good fit for a summer get-together.\n\n**Ingredients:**\n- 1 \u00bd oz Hendrick's gin\n- \u00bd oz fresh lemon juice\n- \u00bd oz simple syrup\n- \u00bd oz Pimm's No. 1\n- Splash of ginger beer\n- Muddled cucumber\n- Grapefruit syrup (for the pink hue): 1 cup sugar, 1 cup water, \u00bd cup grapefruit juice. Steep at least 30 minutes, then refrigerate for up to 2 weeks.\n\n**Method:** Muddle cucumber in a Collins glass, add the gin, lemon, simple syrup, Pimm's, and grapefruit syrup, then fill with ice and top with ginger beer.\n\nIf you want something lighter or different, the other options from our earlier chats were the Cucumber Gimlet, Rose Petal Spritz, Gin-Gin Mule, Summer Solstice, and Hendrick's High Tea.\n\nI don't know how many guests you're expecting, so let me know if you want the recipe scaled up for a batch.",
+  "correct": true,
+  "tokens_in_call": 9595
+ },
+ {
+  "id": "1d4e3b97",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know. Your chats mention a new chain and cassette you installed on February 1st, which may explain better performance on your bike, but nothing you've shared links that to your Sunday group rides or explains why they feel faster.",
+  "correct": true,
+  "tokens_in_call": 167136
+ },
+ {
+  "id": "1d4e3b97",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. I have no information about your bike, your Sunday rides, or what has changed. If you tell me more, such as what \"performing better\" means to you, I can suggest possible explanations.",
+  "correct": false,
+  "tokens_in_call": 667
+ },
+ {
+  "id": "1d4e3b97",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know why your Sunday group rides feel faster. Your notes don't mention those rides.\n\nTwo things in your notes could explain a general improvement, though I can't tie them to Sunday specifically:\n- You replaced the chain and cassette on 2024-02-01, and the bike performed better afterward.\n- You have a new Garmin bike computer, so your pacing and data may be more accurate now.\n\nGroup rides can also help through drafting, which reduces the effort needed at a given speed. Wind, route, and how rested you are on the day could matter too.\n\nAlso, my notes on your cycling setup came from a chat that wasn't confirmed as yours, so check that these details are yours.",
+  "correct": true,
+  "tokens_in_call": 9085
+ },
+ {
+  "id": "2698e78f",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Your most recent mention, on November 3, 2023, was that you see Dr. Smith every week. Earlier, in April 2023, you said your sessions were every two weeks, so the more recent statement is likely the current schedule.",
+  "correct": true,
+  "tokens_in_call": 167108
+ },
+ {
+  "id": "2698e78f",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned how often you see Dr. Smith in this chat, and I have no memory of previous conversations.",
+  "correct": false,
+  "tokens_in_call": 650
+ },
+ {
+  "id": "2698e78f",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Weekly. Your notebook says you moved from every two weeks to weekly as of November 3, 2023.",
+  "correct": true,
+  "tokens_in_call": 10921
+ },
+ {
+  "id": "26bdc477",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "full",
+  "answer": "You've taken your Canon EOS 80D on five trips so far: three to Yellowstone, Yosemite, and the Grand Canyon, plus others you mentioned in our chat on 2023/05/30.",
+  "correct": true,
+  "tokens_in_call": 167365
+ },
+ {
+  "id": "26bdc477",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, I have no memory of past conversations, and you haven't mentioned your trips in this one.",
+  "correct": false,
+  "tokens_in_call": 654
+ },
+ {
+  "id": "26bdc477",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "According to my notes, you've taken your Canon EOS 80D on five trips, as of May 30, 2023. I don't have a record of any trips since then.",
+  "correct": true,
+  "tokens_in_call": 9486
+ },
+ {
+  "id": "2e6d26dc",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "full",
+  "answer": "5 babies: Jasper (David's son), Max (your cousin Rachel's son), Charlotte (Mike and Emma's daughter), and the twins Ava and Lily (your aunt's daughters). Sarah's daughter Aaliyah was adopted, and her birth timing wasn't mentioned, so she isn't counted.",
+  "correct": true,
+  "tokens_in_call": 165289
+ },
+ {
+  "id": "2e6d26dc",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned any births in this conversation, and I have no memory of earlier chats.",
+  "correct": false,
+  "tokens_in_call": 650
+ },
+ {
+  "id": "2e6d26dc",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "5 babies were born to friends and family in the last few months, according to the notebook:\n- Jasper, David's third child (late April 2023)\n- Charlotte, daughter of friends Mike and Emma (about March 2023)\n- Max, son of cousin Rachel (March 2023)\n- Ava and Lily, twins of your aunt (April 2023)\n\nSarah's adopted daughter, Aaliyah, is not counted because she was adopted rather than born to Sarah.",
+  "correct": true,
+  "tokens_in_call": 9939
+ },
+ {
+  "id": "311778f1",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "full",
+  "answer": "10 hours. In a earlier conversation, you mentioned spending around 10 hours last month watching documentaries on Netflix.",
+  "correct": true,
+  "tokens_in_call": 171092
+ },
+ {
+  "id": "311778f1",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat with no access to your Netflix viewing history, and you haven't shared that information here. You could check your viewing activity on Netflix's account page (under \"Profile\" > \"Viewing activity\") to find out.",
+  "correct": false,
+  "tokens_in_call": 654
+ },
+ {
+  "id": "311778f1",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "About 10 hours of documentary watching in April 2023, according to my notes. The notes don't give an exact figure.",
+  "correct": true,
+  "tokens_in_call": 7577
+ },
+ {
+  "id": "352ab8bd",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know. Earlier I said the HAMT agent gave an average framerate improvement of about 20%, but the paper's text was never shared in our conversation, only its section titles. That figure wasn't drawn from the source, so please check the paper's Experimental Results section directly.",
+  "correct": false,
+  "tokens_in_call": 167863
+ },
+ {
+  "id": "352ab8bd",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. I have no record of this submission or its HAMT results, and this chat has no memory of earlier conversations or attached documents. If you share the paper or its results section, I can look up the framerate numbers.",
+  "correct": false,
+  "tokens_in_call": 715
+ },
+ {
+  "id": "352ab8bd",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't have a record of a \"Hardware-Aware Modular Training (HAMT)\" agent. My notes on the paper \"To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation\" (HAMLET) list an unverified framerate gain of about 20%. They don't attribute that figure to HAMT, so I can't confirm that it applies to the agent you're asking about. The notes also list a roughly 4x gain, but that was for Active Training Modulation, not HAMT. Please check the paper itself for the HAMT figure.",
+  "correct": false,
+  "tokens_in_call": 10225
+ },
+ {
+  "id": "36b9f61e",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "full",
+  "answer": "About $2,500, based on the three luxury purchases you mentioned: a $1,200 Gucci handbag, an $800 evening gown, and $500 leather boots from a high-end Italian designer. You didn't give exact purchase dates, so I can't confirm all three fall within the past few months.",
+  "correct": true,
+  "tokens_in_call": 167061
+ },
+ {
+  "id": "36b9f61e",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat with no access to your purchase history or past conversations, and you haven't shared any spending records. If you share your transactions or receipts, I can total up the luxury items.",
+  "correct": false,
+  "tokens_in_call": 652
+ },
+ {
+  "id": "36b9f61e",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "About **$2,500**: $1,200 (Gucci handbag) + $800 (luxury evening gown) + $500 (Italian designer leather boots). The H&M tees ($20) aren't luxury. The boots' purchase date isn't recorded, so I can't confirm all three fall within the past few months.",
+  "correct": true,
+  "tokens_in_call": 8500
+ },
+ {
+  "id": "3f1e9474",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "full",
+  "answer": "You had a conversation about destiny with your friend Sarah. She said that everything happens for a reason, which got you thinking about your own beliefs on destiny.",
+  "correct": true,
+  "tokens_in_call": 166819
+ },
+ {
+  "id": "3f1e9474",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, I have no memory of earlier conversations, and nothing in this conversation mentions a discussion about destiny.",
+  "correct": false,
+  "tokens_in_call": 647
+ },
+ {
+  "id": "3f1e9474",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "My notes don't say who you talked with about destiny. The entry \"Thinking about destiny\" appears under beliefs (2023/05/22), but no person is named. The closest match is your friend Sarah, who said \"everything happens for a reason\" that same day, but the notes don't connect that remark to destiny.",
+  "correct": false,
+  "tokens_in_call": 11135
+ },
+ {
+  "id": "488d3006",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "full",
+  "answer": "The trail I recommended was the **GR-90**. However, I'm not confident in the details I gave about it, including its length, its circular route, and the Fuenfr\u00eda waterfall. Please verify the trail name, route, and conditions with the Moncayo Natural Park authorities or a current local hiking map before you go.",
+  "correct": true,
+  "tokens_in_call": 170588
+ },
+ {
+  "id": "488d3006",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, so I have no record of a previous recommendation. If you tell me where you found it, or describe the trail, I can help you identify it or suggest well-known routes in the Moncayo Natural Park.",
+  "correct": false,
+  "tokens_in_call": 718
+ },
+ {
+  "id": "488d3006",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "The trail I recommended was the GR-90 loop. I haven't verified that it's the route with the most stunning landscapes or panoramic views, so please check the trail details with official park sources before you go.",
+  "correct": true,
+  "tokens_in_call": 10174
+ },
+ {
+  "id": "4b24c848",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Five. In the 2023/09/30 chat you said you'd already got five tops from H&M, so that's the most recent count I have.",
+  "correct": true,
+  "tokens_in_call": 168262
+ },
+ {
+  "id": "4b24c848",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, I have no memory of past conversations, and you haven't told me how many tops you've bought from H&M.",
+  "correct": false,
+  "tokens_in_call": 647
+ },
+ {
+  "id": "4b24c848",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know. My notes say you owned five tops as of 2023-09-30, but they don't say how many of those came from H&M. I also don't have a record of a purchase from your planned mall trip.",
+  "correct": false,
+  "tokens_in_call": 8488
+ },
+ {
+  "id": "505af2f5",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "full",
+  "answer": "From the earlier chats, you've made a homemade flavored creamer with almond milk, vanilla extract, and honey, and you wanted it healthier. The tips I gave included swapping in a lower-sugar sweetener like stevia or monk fruit, using unsweetened almond milk, reducing the sweetener, adding spices like cinnamon or cardamom, trying other extracts like almond or hazelnut, and storing it in a reusable glass or stainless container. I don't know of any other creamer recipes you've mentioned, so I don't have details on any new one you're considering. If you tell me the flavor or base you want, I can suggest a recipe for it.",
+  "correct": true,
+  "tokens_in_call": 170336
+ },
+ {
+  "id": "505af2f5",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "none",
+  "answer": "Here are a few easy homemade creamers to try:\n\n- **Vanilla:** Combine 1 cup half-and-half, \u00bd cup milk, 2 tbsp maple syrup or sugar, and 1 tsp vanilla extract. Shake or whisk until dissolved.\n- **Brown sugar cinnamon:** Warm 1 cup milk with \u00bc cup brown sugar and \u00bc tsp cinnamon until the sugar dissolves. Cool, then stir in \u00bd cup half-and-half.\n- **Sweetened condensed milk:** Mix one 14-oz can of sweetened condensed milk with 1\u00bd cups milk and 1 tsp vanilla. It's very sweet, so start with less if you prefer milder coffee.\n\nStore any of these in the fridge for about 1 to 2 weeks. I don't know your taste preferences or dietary needs, so tell me if you'd like a dairy-free or less sweet option.",
+  "correct": false,
+  "tokens_in_call": 659
+ },
+ {
+  "id": "505af2f5",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Since you already make a creamer with almond milk, vanilla, and honey, you could try:\n\n- **Cinnamon-maple:** warm almond milk with a cinnamon stick and a little maple syrup, then strain.\n- **Fresh mint:** steep a few mint leaves from your garden in warm almond milk for 10 to 15 minutes, then strain and add a touch of vanilla.\n- **Lower sugar:** keep the vanilla but cut the honey, or use a few drops of stevia or monk fruit. This fits your goal of cutting sugar.\n\nStore any of these in the fridge and use within about a week.",
+  "correct": true,
+  "tokens_in_call": 10870
+ },
+ {
+  "id": "6ae235be",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Earlier, I listed these processes for the Lake Charles Refinery:\n\n- Atmospheric distillation\n- Fluid catalytic cracking (FCC)\n- Alkylation\n- Hydrotreating\n\nThat list was general, not drawn from CITGO's own published details, so check CITGO's official materials if you need accurate specifics.",
+  "correct": true,
+  "tokens_in_call": 166949
+ },
+ {
+  "id": "6ae235be",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't have any record of that earlier conversation, so I can't confirm what I told you about CITGO's refineries or the Lake Charles Refinery. I don't know what processes were discussed. If you share the earlier answer, I can help you check it, or I can look up the current process details for that refinery.",
+  "correct": false,
+  "tokens_in_call": 685
+ },
+ {
+  "id": "6ae235be",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't have that. My notes from our May 28 conversation list CITGO's three refineries (Lake Charles, LA; Lemont, IL; Corpus Christi, TX), but they don't record which processes are used at Lake Charles. The only process-related points I noted were general yield recommendations: process optimization, feedstock quality, maintenance, FCC catalyst selection, and coke reduction. Those weren't tied to a specific refinery. For Lake Charles details, CITGO's website or its public filings would be the best source.",
+  "correct": false,
+  "tokens_in_call": 9005
+ },
+ {
+  "id": "71315a70",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "full",
+  "answer": "You've spent about 10-12 hours on it, as you told me on June 17, 2023.",
+  "correct": true,
+  "tokens_in_call": 169009
+ },
+ {
+  "id": "71315a70",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, I have no memory of past conversations, and you haven't told me how long you've spent on your sculpture.",
+  "correct": false,
+  "tokens_in_call": 653
+ },
+ {
+  "id": "71315a70",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Your notes say about 10-12 hours as of June 17, 2023. The sculpture is still in progress, and I don't have a more recent total.",
+  "correct": true,
+  "tokens_in_call": 10749
+ },
+ {
+  "id": "73d42213",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know. You never mentioned what time you reached the clinic on Monday. You did say you left home at 7 AM for the appointment and that the trip took about two hours last time, but you didn't give an arrival time.",
+  "correct": false,
+  "tokens_in_call": 164971
+ },
+ {
+  "id": "73d42213",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned your clinic visit in this chat, and I have no memory of earlier conversations.",
+  "correct": false,
+  "tokens_in_call": 647
+ },
+ {
+  "id": "73d42213",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know. Your notes say you had a doctor's appointment on Monday, 2023/05/15, that you left home at 7 AM, and that you were back at the office around 1 PM. They don't record when you reached the clinic.",
+  "correct": false,
+  "tokens_in_call": 9767
+ },
+ {
+  "id": "86b68151",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "full",
+  "answer": "The new bookshelf was from IKEA. You mentioned this in our May 21, 2023 conversation about organizing your living room.",
+  "correct": true,
+  "tokens_in_call": 166810
+ },
+ {
+  "id": "86b68151",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned buying a bookshelf in this chat, and I have no memory of earlier conversations.",
+  "correct": false,
+  "tokens_in_call": 647
+ },
+ {
+  "id": "86b68151",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "You bought your new bookshelf from IKEA. Your notes don't say which store location.",
+  "correct": true,
+  "tokens_in_call": 7147
+ },
+ {
+  "id": "94f70d80",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "full",
+  "answer": "It took you 4 hours to assemble the IKEA bookshelf.",
+  "correct": true,
+  "tokens_in_call": 165644
+ },
+ {
+  "id": "94f70d80",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, and you haven't told me how long the IKEA bookshelf took to assemble.",
+  "correct": false,
+  "tokens_in_call": 653
+ },
+ {
+  "id": "94f70d80",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "You built the IKEA bookshelf in about 4 hours, and you said it \"wasn't too bad.\"",
+  "correct": true,
+  "tokens_in_call": 8673
+ },
+ {
+  "id": "9ea5eabc",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Paris, France. You mentioned in a May 28, 2023 chat that you had just gone there as a family the previous month. Earlier chats also mention a family trip to Hawaii and a family trip to Japan, but Paris is the most recent one.",
+  "correct": true,
+  "tokens_in_call": 166706
+ },
+ {
+  "id": "9ea5eabc",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat with no memory of earlier conversations, and you haven't told me about your family trips here.",
+  "correct": false,
+  "tokens_in_call": 646
+ },
+ {
+  "id": "9ea5eabc",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Your most recent family trip in my notes was to Japan, which came right after a 10-day island-hopping trip to Hawaii. I don't have exact dates for either. The Paris trip with the kids was around April 2023, so it may be more recent than the Hawaii and Japan trips. My notes also have a conflict: one entry mentions a solo Japan trip \"last year,\" so the Japan details may need checking.",
+  "correct": false,
+  "tokens_in_call": 10054
+ },
+ {
+  "id": "a06e4cfe",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know. You mentioned a 3:1 gin-to-vermouth ratio with a dash of citrus bitters for your classic martini, but you never said whether that's your preferred ratio.",
+  "correct": true,
+  "tokens_in_call": 167188
+ },
+ {
+  "id": "a06e4cfe",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned your preferred gin-to-vermouth ratio in this chat, and I have no memory of earlier conversations. If you tell me your ratio, I can use it from here on.",
+  "correct": false,
+  "tokens_in_call": 659
+ },
+ {
+  "id": "a06e4cfe",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Your notebook records a classic martini at 3:1 gin to vermouth, with citrus bitters and a pickled onion garnish (which you chose on 2023/05/22). It doesn't say whether 3:1 is a ratio you specifically prefer or one you were given.",
+  "correct": true,
+  "tokens_in_call": 9658
+ },
+ {
+  "id": "ad7109d1",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Your new internet plan is 500 Mbps. You mentioned upgrading to it about three weeks before our May 24, 2023 chat.",
+  "correct": true,
+  "tokens_in_call": 163550
+ },
+ {
+  "id": "ad7109d1",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned your internet plan in this conversation, and I have no memory of earlier chats. Check your provider's account page, bill, or welcome email for the plan speed.",
+  "correct": false,
+  "tokens_in_call": 643
+ },
+ {
+  "id": "ad7109d1",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "500 Mbps. You upgraded your home internet to that speed around May 3, 2023.",
+  "correct": true,
+  "tokens_in_call": 7591
+ },
+ {
+  "id": "af8d2e46",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "full",
+  "answer": "You packed 7 shirts for your Costa Rica trip. You wore only 3 of them.",
+  "correct": true,
+  "tokens_in_call": 163950
+ },
+ {
+  "id": "af8d2e46",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned your packing in this chat, and I have no memory of earlier conversations.",
+  "correct": false,
+  "tokens_in_call": 657
+ },
+ {
+  "id": "af8d2e46",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "You packed 7 shirts for the Costa Rica trip. You wore 3 of them. My notes don't record the trip's length, so I can't confirm it was 5 days.",
+  "correct": true,
+  "tokens_in_call": 10259
+ },
+ {
+  "id": "b0479f84",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Since you've enjoyed Tiger King, Free Solo, and Our Planet, here are a few picks for tonight:\n\n- **Chasing Coral** (Netflix): Stunning underwater footage about coral reef decline.\n- **Dynasties** (BBC/Netflix): Intimate looks at animal family life, narrated by David Attenborough.\n- **Making a Murderer** (Netflix): A true-crime series if you want something like Tiger King's appeal.\n- **Fyre** (Netflix): The chaotic story of a failed festival.\n\nI don't know which services you subscribe to, and availability changes often, so check your streaming apps before you start.",
+  "correct": true,
+  "tokens_in_call": 167891
+ },
+ {
+  "id": "b0479f84",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know what kinds of documentaries you like, so here are a few well-regarded picks across different genres:\n\n- **Free Solo** (2018): a climber attempts to scale El Capitan without ropes.\n- **Planet Earth II** (2016): stunning nature footage, good for winding down.\n- **Man on Wire** (2008): the story of Philippe Petit's high-wire walk between the World Trade Center towers.\n- **The Social Dilemma** (2020): a look at how social media platforms affect society.\n- **Won't You Be My Neighbor?** (2018): a portrait of Fred Rogers.\n\nIf you tell me what you enjoy, such as history, science, crime, or music, I can narrow these down.",
+  "correct": false,
+  "tokens_in_call": 651
+ },
+ {
+  "id": "b0479f84",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Based on what you've liked before (nature, wildlife, and conservation, plus some true crime), here are a few options:\n\n- **The Cave** (2019): A Syrian veterinarian runs an animal hospital during the war. Good if you want something moving.\n- **The Last Lions** (2011): Follows a lioness and her cubs in the Serengeti.\n- **The Jinx** (2015): A true-crime series with a twisty ending. Good if you want something gripping.\n- **The Staircase** (2004 onward): Long-running true crime, though it's a lot of episodes.\n- **Free Solo** (2018): Since you liked it, you might also enjoy similar climbing docs.\n\nFor a quick night, I'd pick **The Cave** or **The Jinx**. I don't have current streaming availability or runtimes for these, so check your services before you start.",
+  "correct": true,
+  "tokens_in_call": 12054
+ },
+ {
+  "id": "c5e8278d",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Your last name before the change was Johnson. You mentioned on 2023/05/28 that you had recently changed it to Winters.",
+  "correct": true,
+  "tokens_in_call": 168625
+ },
+ {
+  "id": "c5e8278d",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned your previous last name in this conversation, and I have no memory of earlier chats.",
+  "correct": false,
+  "tokens_in_call": 643
+ },
+ {
+  "id": "c5e8278d",
+  "type": "single-session-user",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Johnson. You changed it to Winters.",
+  "correct": true,
+  "tokens_in_call": 8384
+ },
+ {
+  "id": "c8090214",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "full",
+  "answer": "7 days. You attended the Holiday Market a week before Black Friday, and you bought the iPhone 13 Pro on Black Friday.",
+  "correct": true,
+  "tokens_in_call": 161156
+ },
+ {
+  "id": "c8090214",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, and I have no record of when you bought the iPhone 13 Pro or when you attended the Holiday Market.",
+  "correct": false,
+  "tokens_in_call": 662
+ },
+ {
+  "id": "c8090214",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "7 days. You attended the Holiday Market at the local mall on about November 17, 2023, and bought the iPhone 13 Pro on November 24, 2023. Both dates are approximate in your notes.",
+  "correct": true,
+  "tokens_in_call": 8169
+ },
+ {
+  "id": "d6062bb9",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know. The chats mention a Luna laser pointer TikTok video with 1,456 views and a YouTube social media analytics tutorial with 542 views, but nothing about your most popular videos on either platform as a combined total, so I can't give a total.",
+  "correct": false,
+  "tokens_in_call": 170062
+ },
+ {
+  "id": "d6062bb9",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't shared your YouTube or TikTok view counts, and this is a new chat, so I have no access to your accounts or earlier conversations.",
+  "correct": false,
+  "tokens_in_call": 657
+ },
+ {
+  "id": "d6062bb9",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "About 1,998 views combined, based on my notes: your top YouTube video (social media analytics tutorial) had 542 views, and your TikTok (the Luna laser-pointer video) had 1,456 views. Those counts are from May 2023, so they may be out of date, and I have no record of any other TikTok or YouTube videos.",
+  "correct": true,
+  "tokens_in_call": 11183
+ },
+ {
+  "id": "d6233ab6",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know the details of your reunion, like who's attending, how long it's been, or how you feel about your old classmates, so I can't say for sure. You mentioned happy memories from high school, such as debate team and AP economics, so going could be a nice way to reconnect with that. If you'd enjoy seeing people and aren't dreading it, it's probably worth going. If you feel pressure or worry about comparisons, you can skip it or stop by briefly.",
+  "correct": true,
+  "tokens_in_call": 169077
+ },
+ {
+  "id": "d6233ab6",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know whether it's a good idea for you specifically, since you haven't told me how you feel about your classmates, whether you'd like to see particular people, or what the reunion involves. If you're feeling nostalgic and curious about old friends, it may be worth going, even briefly. If you'd dread the comparisons or the small talk, you could skip it or reach out to a few people directly instead.",
+  "correct": false,
+  "tokens_in_call": 667
+ },
+ {
+  "id": "d6233ab6",
+  "type": "single-session-preference",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know the details of your reunion, such as when it is, who will be there, or how you felt about your high school years, so I can't say whether it's right for you. I also haven't seen anything in our earlier conversations about your school or reunion.\n\nIn general, a reunion can be a good idea if you want to reconnect with particular people or revisit that time with curiosity. It may be worth skipping if you'd mainly feel pressure to compare yourself to others. Going for a short time, with a friend or family member, can make it easier.\n\nIf you tell me more about how you're feeling and what's drawing you to the idea, I can help you think it through.",
+  "correct": false,
+  "tokens_in_call": 10970
+ },
+ {
+  "id": "dd2973ad",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "full",
+  "answer": "You went to bed at about 2 AM, in the early hours of Thursday, the day of your 10 AM doctor's appointment. You mentioned this in a May 29 conversation, saying you didn't get to bed until 2 AM \"last Wednesday.\"",
+  "correct": true,
+  "tokens_in_call": 166780
+ },
+ {
+  "id": "dd2973ad",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, and you haven't told me about your bedtime or your doctor's appointment.",
+  "correct": false,
+  "tokens_in_call": 655
+ },
+ {
+  "id": "dd2973ad",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know. My notes don't record when you went to bed on May 17, 2023, the day before your May 18 blood test. The only bedtime I have is 2 AM on Wednesday, May 24.",
+  "correct": false,
+  "tokens_in_call": 10205
+ },
+ {
+  "id": "e5ba910e_abs",
+  "type": "multi-session",
+  "abstention": true,
+  "cond": "full",
+  "answer": "I don't know. The conversation history doesn't mention an iPad purchase, and the only headphones mentioned are the Sony WH-1000XM4, which you said cost $378. Without the iPad's price, I can't give a total.",
+  "correct": true,
+  "tokens_in_call": 164402
+ },
+ {
+  "id": "e5ba910e_abs",
+  "type": "multi-session",
+  "abstention": true,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat with no memory of earlier conversations, and you haven't shared the prices or receipts for the headphones or the iPad. If you paste the amounts here, I can add them up for you.",
+  "correct": true,
+  "tokens_in_call": 654
+ },
+ {
+  "id": "e5ba910e_abs",
+  "type": "multi-session",
+  "abstention": true,
+  "cond": "notebook",
+  "answer": "I can't give a total. Your notebook lists the Sony WH-1000XM4 headphones at $378, but I don't have any record of an iPad purchase or its price.",
+  "correct": true,
+  "tokens_in_call": 8648
+ },
+ {
+  "id": "e9327a54",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "full",
+  "answer": "The dessert shop with giant milkshakes we discussed was **The Sugar Factory**, located at Icon Park in Orlando. I suggested it in our earlier conversation about family-friendly dessert spots. Since that was a while ago, check that it's still open before you go.",
+  "correct": true,
+  "tokens_in_call": 166298
+ },
+ {
+  "id": "e9327a54",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know which dessert shop you mean. This is a new chat, and I don't have any record of our earlier conversation. If you tell me the name, location, or anything else you remember about it, I can help with your Orlando plans. I can also suggest well-known Orlando dessert spots with large milkshakes, though you should check their current hours and menus before you go.",
+  "correct": false,
+  "tokens_in_call": 682
+ },
+ {
+  "id": "e9327a54",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "My notes don't say which dessert shop had giant milkshakes, so I can't confirm it. The Orlando dessert spots I have recorded are The Sugar Factory, Wondermade, Gideon's Bakehouse, Voodoo Doughnut, The Glass Knife, Better Than Sex, and The Greenery Creamery. The Sugar Factory is known for oversized milkshakes, so it may be the one you mean, but please check its current menu before you go.",
+  "correct": false,
+  "tokens_in_call": 9372
+ },
+ {
+  "id": "eace081b",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know. You mentioned you're staying on Oahu, but you never named a specific hotel, neighborhood, or other accommodation for the trip.",
+  "correct": true,
+  "tokens_in_call": 171942
+ },
+ {
+  "id": "eace081b",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned where you're planning to stay for your birthday trip to Hawaii, and I have no memory of earlier conversations.",
+  "correct": false,
+  "tokens_in_call": 655
+ },
+ {
+  "id": "eace081b",
+  "type": "knowledge-update",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know the specific place. You said on 2023/05/25 that you'd be staying on Oahu, but you haven't mentioned a hotel, neighborhood, or rental.",
+  "correct": true,
+  "tokens_in_call": 9181
+ },
+ {
+  "id": "fca762bc",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "full",
+  "answer": "Memrise uses mnemonics to help learners memorize words, phrases, and grammatical concepts. It was one of the language learning apps I listed in our earlier conversation on 2023/05/25.",
+  "correct": true,
+  "tokens_in_call": 170093
+ },
+ {
+  "id": "fca762bc",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, so I have no record of a previous conversation or of any language learning apps I mentioned. If you tell me what you remember about the app, such as its name or features, I can help you identify it or compare options.",
+  "correct": false,
+  "tokens_in_call": 699
+ },
+ {
+  "id": "fca762bc",
+  "type": "single-session-assistant",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know which app was described as using mnemonics. My notes from our earlier language-learning chat list Duolingo, Babbel, and Memrise, but they don't record which one was linked to mnemonics. From general knowledge, Memrise is the one best known for mnemonic-style memory aids, but that's not something I can confirm from our previous conversation.",
+  "correct": true,
+  "tokens_in_call": 8629
+ },
+ {
+  "id": "gpt4_2f91af09",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know for certain. Your conversations mention 17 poems written in the two weeks before May 21, five short stories written \"so far\" as of May 28, and one writing-challenge piece, \"The Smell of Old Books.\" Those add up to 23 if none overlap, but the conversations never state when you restarted writing, so I can't confirm that total covers exactly the last three weeks.",
+  "correct": true,
+  "tokens_in_call": 167203
+ },
+ {
+  "id": "gpt4_2f91af09",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, and you haven't told me about your writing in this conversation, so I have no record of your short stories, poems, or challenge pieces.",
+  "correct": false,
+  "tokens_in_call": 678
+ },
+ {
+  "id": "gpt4_2f91af09",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know the total. My notes don't give a combined count, and they don't record when you restarted writing.\n\nThe partial counts I have are:\n- **Short stories:** five, as of 2023-05-28. It's unclear whether all five were written since you restarted.\n- **Poems:** 17, written in the two weeks before 2023-05-21.\n- **Challenge pieces:** at least one, \"The Smell of Old Books,\" for the \"forgotten memories\" prompt.\n\nYour current story was still in progress as of 2023-05-28, so I haven't counted it.",
+  "correct": false,
+  "tokens_in_call": 8893
+ },
+ {
+  "id": "gpt4_4fc4f797",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "full",
+  "answer": "I don't know the exact number. The date you received the judges' feedback was never given. The closest I can estimate is 38 days: you first mentioned the feedback in our 2023/03/17 chat, and you said the track day was \"tomorrow\" in our 2023/04/23 chat, which puts it on 2023/04/24. The feedback may have arrived earlier, so the real gap could be longer.",
+  "correct": true,
+  "tokens_in_call": 166624
+ },
+ {
+  "id": "gpt4_4fc4f797",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned the feedback or the suspension test in this chat, and I have no memory of earlier chats.",
+  "correct": false,
+  "tokens_in_call": 666
+ },
+ {
+  "id": "gpt4_4fc4f797",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know. The notebook records the judges' feedback that the suspension was too soft, but it doesn't give the date of that feedback. The only nearby date, 2023-03-17, is when you ordered the coilovers. The suspension test at VIR is recorded for 2023-04-24, so I can't calculate the number of days between them.",
+  "correct": false,
+  "tokens_in_call": 10250
+ },
+ {
+  "id": "gpt4_61e13b3c",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "full",
+  "answer": "About 3 weeks. You sold baked goods at the Farmers' Market on February 26, 2023, and attended the Spring Fling Market on March 20, 2023, which is 22 days apart.",
+  "correct": true,
+  "tokens_in_call": 170718
+ },
+ {
+  "id": "gpt4_61e13b3c",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, and you haven't told me about your Farmers' Market sales or the Spring Fling Market, so I have no dates to compare.",
+  "correct": false,
+  "tokens_in_call": 682
+ },
+ {
+  "id": "gpt4_61e13b3c",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "About 3 weeks. Your last recorded Farmers' Market baked-goods sale was on 2023/02/26, and you sold at the Spring Fling Market on 2023/03/20. That is 22 days, or roughly 3 weeks and 1 day.",
+  "correct": true,
+  "tokens_in_call": 11402
+ },
+ {
+  "id": "gpt4_6dc9b45b",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "full",
+  "answer": "About 4 months ago. You attended SIFF on June 1, 2021, when you saw \"Coda.\"",
+  "correct": true,
+  "tokens_in_call": 164170
+ },
+ {
+  "id": "gpt4_6dc9b45b",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat with no memory of earlier conversations, and you haven't told me when you attended the Seattle International Film Festival.",
+  "correct": false,
+  "tokens_in_call": 653
+ },
+ {
+  "id": "gpt4_6dc9b45b",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "About 4 months ago. You attended the Seattle International Film Festival from May 25 to June 1, 2021, and today is October 2, 2021 per your message. My system date is November 5, 2026, which would make it about 65 months ago, so please confirm the current date.",
+  "correct": true,
+  "tokens_in_call": 10189
+ },
+ {
+  "id": "gpt4_7fce9456",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "full",
+  "answer": "The chats don't give a total count. They mention at least four other properties you viewed before the Brookside townhouse:\n\n1. A 3-bedroom bungalow in Oakwood (January 22)\n2. A property in Cedar Creek (February 1), which was out of budget\n3. A 1-bedroom downtown condo (February 10), ruled out because of highway noise\n4. A 2-bedroom condo (February 15), where your offer was rejected on February 17\n\nYou then viewed the Brookside townhouse on February 22 and made your offer on February 25. You said you'd been house hunting for a while, so you may have seen others that weren't mentioned.",
+  "correct": true,
+  "tokens_in_call": 168750
+ },
+ {
+  "id": "gpt4_7fce9456",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, I have no memory of earlier conversations, and you haven't shared any details about properties you viewed.",
+  "correct": false,
+  "tokens_in_call": 662
+ },
+ {
+  "id": "gpt4_7fce9456",
+  "type": "multi-session",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "Four. Your notebook lists the Oakwood bungalow (2023-01-22), the Cedar Creek property (2023-02-01), the 1-bed downtown condo (2023-02-10), and the 2-bed condo (2023-02-15) before the Brookside townhouse (2023-02-22). The notebook doesn't explicitly say you toured each one, so this count is based on those entries.",
+  "correct": true,
+  "tokens_in_call": 7087
+ },
+ {
+  "id": "gpt4_8279ba02",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "full",
+  "answer": "10 days ago. You said you got your smoker on March 15, 2023, and today is March 25, 2023.",
+  "correct": true,
+  "tokens_in_call": 163893
+ },
+ {
+  "id": "gpt4_8279ba02",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. This is a new chat, I have no memory of past conversations, and you haven't mentioned buying a smoker here.",
+  "correct": false,
+  "tokens_in_call": 646
+ },
+ {
+  "id": "gpt4_8279ba02",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "I don't know. Your notes say you got a smoker, but they don't record when you bought it. The only date attached is 2023-03-15, which is when that note was saved, not necessarily when you bought it. If you tell me the purchase date, I can work out the number of days.",
+  "correct": false,
+  "tokens_in_call": 8700
+ },
+ {
+  "id": "gpt4_a2d1d1f6",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "full",
+  "answer": "3 days ago. You harvested your first batch of herbs on April 15, 2023, and you've told me today is April 18, 2023.",
+  "correct": true,
+  "tokens_in_call": 169779
+ },
+ {
+  "id": "gpt4_a2d1d1f6",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned your herb garden kit or the date of your first harvest in this chat, and I have no memory of earlier conversations.",
+  "correct": false,
+  "tokens_in_call": 662
+ },
+ {
+  "id": "gpt4_a2d1d1f6",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "3 days ago, on 15 April 2023, you harvested your first basil and thyme from the herb garden kit.",
+  "correct": true,
+  "tokens_in_call": 11721
+ },
+ {
+  "id": "gpt4_b0863698",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "full",
+  "answer": "7 days ago. You completed the 5K charity run on March 19, 2023, finishing in 27:12.",
+  "correct": true,
+  "tokens_in_call": 171703
+ },
+ {
+  "id": "gpt4_b0863698",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "none",
+  "answer": "I don't know. You haven't mentioned a 5K charity run in this chat, and I have no memory of earlier conversations.",
+  "correct": false,
+  "tokens_in_call": 650
+ },
+ {
+  "id": "gpt4_b0863698",
+  "type": "temporal-reasoning",
+  "abstention": false,
+  "cond": "notebook",
+  "answer": "7 days ago. Your notebook records the 5K charity run on 2023/03/19, and today is 2023/03/26.",
+  "correct": true,
+  "tokens_in_call": 8720
+ }
+]

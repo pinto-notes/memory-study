@@ -1,0 +1,1066 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 1,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 2,
+  "cat": "open-domain",
+  "answer": "Counseling or psychology",
+  "grade": "CORRECT",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 4,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 5,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 6,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 7,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 8,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 9,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 11,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 13,
+  "cat": "multi-hop",
+  "answer": "Counseling",
+  "grade": "CORRECT",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 14,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 15,
+  "cat": "multi-hop",
+  "answer": "Painting, running, camping, pottery",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 17,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 19,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1042
+ },
+ {
+  "qi": 20,
+  "cat": "temporal",
+  "answer": "July 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "June 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 22,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Harry Potter series",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Running",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 25,
+  "cat": "temporal",
+  "answer": "June 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "March 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 27,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 28,
+  "cat": "temporal",
+  "answer": "August 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 29,
+  "cat": "temporal",
+  "answer": "May 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 30,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "June 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 32,
+  "cat": "multi-hop",
+  "answer": "Pride parade",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 33,
+  "cat": "temporal",
+  "answer": "July 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 34,
+  "cat": "multi-hop",
+  "answer": "Volunteering at children's shelter",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "July 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 36,
+  "cat": "temporal",
+  "answer": "January 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 37,
+  "cat": "multi-hop",
+  "answer": "Sunset landscape",
+  "grade": "CORRECT",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 38,
+  "cat": "multi-hop",
+  "answer": "Camping trips",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 39,
+  "cat": "multi-hop",
+  "answer": "Attends LGBTQ conferences and pride events",
+  "grade": "WRONG",
+  "tokens_in_call": 1052
+ },
+ {
+  "qi": 40,
+  "cat": "multi-hop",
+  "answer": "Twice",
+  "grade": "CORRECT",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 41,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 42,
+  "cat": "open-domain",
+  "answer": "National park",
+  "grade": "CORRECT",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 43,
+  "cat": "multi-hop",
+  "answer": "Paintings",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 44,
+  "cat": "temporal",
+  "answer": "August 13",
+  "grade": "CORRECT",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "August 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 46,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 47,
+  "cat": "multi-hop",
+  "answer": "Melanie",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 48,
+  "cat": "multi-hop",
+  "answer": "Bowls and cups",
+  "grade": "CORRECT",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 49,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 50,
+  "cat": "open-domain",
+  "answer": "Progressive",
+  "grade": "CORRECT",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 51,
+  "cat": "multi-hop",
+  "answer": "Sunsets",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 52,
+  "cat": "multi-hop",
+  "answer": "Luna and Oliver",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 53,
+  "cat": "temporal",
+  "answer": "Late 2022",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 54,
+  "cat": "temporal",
+  "answer": "2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 55,
+  "cat": "multi-hop",
+  "answer": "Sunsets",
+  "grade": "CORRECT",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 56,
+  "cat": "multi-hop",
+  "answer": "Rainbows",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "Fall 2022",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 58,
+  "cat": "temporal",
+  "answer": "July 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 59,
+  "cat": "open-domain",
+  "answer": "Probably not",
+  "grade": "WRONG",
+  "tokens_in_call": 1060
+ },
+ {
+  "qi": 60,
+  "cat": "multi-hop",
+  "answer": "Piano",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 61,
+  "cat": "multi-hop",
+  "answer": "Coldplay",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 62,
+  "cat": "temporal",
+  "answer": "June 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 63,
+  "cat": "temporal",
+  "answer": "December 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 64,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 65,
+  "cat": "multi-hop",
+  "answer": "Name and appearance changes",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 66,
+  "cat": "multi-hop",
+  "answer": "Picnics and nature walks",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 67,
+  "cat": "temporal",
+  "answer": "June 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 68,
+  "cat": "temporal",
+  "answer": "Since 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 69,
+  "cat": "open-domain",
+  "answer": "Kind, supportive, caring",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 70,
+  "cat": "multi-hop",
+  "answer": "Trans support group meetings",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 71,
+  "cat": "multi-hop",
+  "answer": "Becoming Nicole",
+  "grade": "CORRECT",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 72,
+  "cat": "temporal",
+  "answer": "2025",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 73,
+  "cat": "temporal",
+  "answer": "Summer 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 74,
+  "cat": "temporal",
+  "answer": "Summer 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 75,
+  "cat": "multi-hop",
+  "answer": "Two",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 76,
+  "cat": "multi-hop",
+  "answer": "July 2026",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 77,
+  "cat": "open-domain",
+  "answer": "No, not soon",
+  "grade": "CORRECT",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 78,
+  "cat": "multi-hop",
+  "answer": "Running shoes",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 79,
+  "cat": "temporal",
+  "answer": "Late 2025",
+  "grade": "WRONG",
+  "tokens_in_call": 1055
+ },
+ {
+  "qi": 80,
+  "cat": "temporal",
+  "answer": "Summer 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 81,
+  "cat": "open-domain",
+  "answer": "No",
+  "grade": "CORRECT",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 82,
+  "cat": "single-hop",
+  "answer": "Mental health awareness",
+  "grade": "CORRECT",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "Self-care matters",
+  "grade": "CORRECT",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "Daily me-time",
+  "grade": "CORRECT",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "Family trip, summer 2027",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "LGBTQ+ individuals and families",
+  "grade": "CORRECT",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "Inclusive, supportive values",
+  "grade": "CORRECT",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Meeting her future child",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Supportive",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "About 10 years",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Love and family",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Sweden",
+  "grade": "CORRECT",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "A handmade quilt",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Family and happy memories",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Hiking and stargazing",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "LGBTQ+ and trauma counseling",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "LGBTQ+ counseling workshop",
+  "grade": "CORRECT",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Coming out and community support",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Helping others through hardship",
+  "grade": "WRONG",
+  "tokens_in_call": 1068
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "A welcoming, inclusive community space",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Mostly fiction novels",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "Charlotte's Web",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Becoming Nicole",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Acceptance and compassion for others",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Running",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Improving her health and clearing her mind",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Her mental health",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "A ceramic bowl",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "A small bowl",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Painting",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Sunflower paintings",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Support for local families",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Hope and positivity",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "They bring beauty and joy",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Nature and the changing seasons",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Once a month",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Shooting stars and the Milky Way",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Amazed and peaceful",
+  "grade": "CORRECT",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Poetry matters",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Friendship",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Side by side",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "Broke his arm",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "Calmly",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "Grateful",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Supportively",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "Relieved",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "Delighted",
+  "grade": "CORRECT",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Love and support",
+  "grade": "WRONG",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "Grateful",
+  "grade": "CORRECT",
+  "tokens_in_call": 911
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "Went hiking",
+  "grade": "CORRECT",
+  "tokens_in_call": 911
+ }
+]

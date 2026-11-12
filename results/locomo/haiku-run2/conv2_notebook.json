@@ -1,0 +1,1066 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "Her mom (cooking together; best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 1,
+  "cat": "temporal",
+  "answer": "21 Dec 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 2,
+  "cat": "multi-hop",
+  "answer": "Kickboxing and taekwondo",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "Homeless shelter volunteering",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 4,
+  "cat": "temporal",
+  "answer": "c. 25 Dec 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 5,
+  "cat": "temporal",
+  "answer": "2022 (solo trip to Spain)",
+  "grade": "WRONG",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 6,
+  "cat": "multi-hop",
+  "answer": "Homeless shelter, gym and church",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 7,
+  "cat": "multi-hop",
+  "answer": "None recorded (best guess: a school photo)",
+  "grade": "WRONG",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 8,
+  "cat": "open-domain",
+  "answer": "Strained after losing his job (5 Aug 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 9,
+  "cat": "multi-hop",
+  "answer": "Her aunt",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "24 Feb 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 11,
+  "cat": "multi-hop",
+  "answer": "Jean, David, Laura, Cindy and a sad girl (~8)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 12,
+  "cat": "multi-hop",
+  "answer": "Military aptitude test",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 13,
+  "cat": "temporal",
+  "answer": "Week of 27 Feb 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 14,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 15,
+  "cat": "multi-hop",
+  "answer": "Creative writing (25 Feb 2023) and poetry (2 Apr 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "Week of 26 Mar 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 17,
+  "cat": "open-domain",
+  "answer": "Mechanical engineering (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "Colleague Rob",
+  "grade": "CORRECT",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 19,
+  "cat": "multi-hop",
+  "answer": "Broke down on 7 Apr 2023; costly fix",
+  "grade": "WRONG",
+  "tokens_in_call": 8044
+ },
+ {
+  "qi": 20,
+  "cat": "temporal",
+  "answer": "Trip ended 16 Dec 2022 (start date unknown)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 21,
+  "cat": "multi-hop",
+  "answer": "Pacific Northwest, California, East Coast (planned)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "March 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Peach cobbler and cakes",
+  "grade": "WRONG",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 24,
+  "cat": "temporal",
+  "answer": "April 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 25,
+  "cat": "multi-hop",
+  "answer": "England and Spain",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 26,
+  "cat": "multi-hop",
+  "answer": "Bought a cross necklace",
+  "grade": "WRONG",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 27,
+  "cat": "temporal",
+  "answer": "19 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 28,
+  "cat": "multi-hop",
+  "answer": "Veterans' rights, education, infrastructure",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 29,
+  "cat": "multi-hop",
+  "answer": "Chili cook-off and ring-toss tournament",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 30,
+  "cat": "multi-hop",
+  "answer": "Homeless shelter and local dog shelter",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "Not recorded; c. 2013 (best guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 32,
+  "cat": "multi-hop",
+  "answer": "Mountaineering and waterfall hike",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 33,
+  "cat": "multi-hop",
+  "answer": "Aerial yoga and kundalini yoga",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "Early June 2023 (c. 5\u201311 Jun)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 35,
+  "cat": "multi-hop",
+  "answer": "Florida and Oregon",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 36,
+  "cat": "multi-hop",
+  "answer": "Family live music event, wk 19\u201325 Jun 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 37,
+  "cat": "multi-hop",
+  "answer": "Veterans party (19 May 2023), veterans' rights march, veterans' hospital visit (wk 10\u201316 Jul 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "2 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 39,
+  "cat": "open-domain",
+  "answer": "None; 2 Jul is just before Independence Day",
+  "grade": "CORRECT",
+  "tokens_in_call": 8075
+ },
+ {
+  "qi": 40,
+  "cat": "multi-hop",
+  "answer": "Kyle and Sara",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 41,
+  "cat": "open-domain",
+  "answer": "Unknown; best guess: mountains",
+  "grade": "WRONG",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 42,
+  "cat": "multi-hop",
+  "answer": "West County",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 43,
+  "cat": "temporal",
+  "answer": "Week of 26 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 44,
+  "cat": "multi-hop",
+  "answer": "Camping (10\u201311 Jun 2023), hike and picnic with charades and scavenger hunt (15\u201316 Jul 2023), community work (4 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 45,
+  "cat": "open-domain",
+  "answer": "Unknown; no evidence either way",
+  "grade": "WRONG",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 46,
+  "cat": "temporal",
+  "answer": "15\u201316 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 47,
+  "cat": "multi-hop",
+  "answer": "Kickboxing, taekwondo, yoga, weight training, family boot camp, mountaineering",
+  "grade": "WRONG",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 48,
+  "cat": "temporal",
+  "answer": "Sun 30 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 49,
+  "cat": "multi-hop",
+  "answer": "Baked goods (week of 24\u201330 Jul 2023; specific item not recorded)",
+  "grade": "WRONG",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 50,
+  "cat": "open-domain",
+  "answer": "Caring, determined, positive, community-minded, passionate",
+  "grade": "WRONG",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 51,
+  "cat": "temporal",
+  "answer": "c. 22 Dec 2022 (on 3 Aug 2023 she said about a year ago, c. Aug 2022)",
+  "grade": "WRONG",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 52,
+  "cat": "multi-hop",
+  "answer": "Laura (gratitude letter) and Cindy (gratitude note)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 53,
+  "cat": "temporal",
+  "answer": "2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 54,
+  "cat": "temporal",
+  "answer": "4 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "Week of 31 Jul\u20136 Aug 2023 (reported 9 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 56,
+  "cat": "temporal",
+  "answer": "5\u20136 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 57,
+  "cat": "multi-hop",
+  "answer": "Veterans, domestic-abuse victims, education, flood relief, homelessness and food drives",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 58,
+  "cat": "temporal",
+  "answer": "c. 28 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 59,
+  "cat": "temporal",
+  "answer": "Summer 2022",
+  "grade": "CORRECT",
+  "tokens_in_call": 8065
+ },
+ {
+  "qi": 60,
+  "cat": "multi-hop",
+  "answer": "Coco and Shadow",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 61,
+  "cat": "temporal",
+  "answer": "c. 6\u201312 Aug 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 62,
+  "cat": "multi-hop",
+  "answer": "None confirmed (0)",
+  "grade": "WRONG",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 63,
+  "cat": "temporal",
+  "answer": "About 2 weeks (c. 9\u201315 days)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 64,
+  "cat": "open-domain",
+  "answer": "Unknown; best guess social worker",
+  "grade": "WRONG",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 65,
+  "cat": "single-hop",
+  "answer": "Education and infrastructure",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 66,
+  "cat": "single-hop",
+  "answer": "Growing up with poor schools and crumbling infrastructure",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 68,
+  "cat": "single-hop",
+  "answer": "Aerial yoga (began c. Dec 2022, not 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "An old car (donated 21 Dec 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 70,
+  "cat": "single-hop",
+  "answer": "Not recorded",
+  "grade": "WRONG",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 71,
+  "cat": "single-hop",
+  "answer": "An online service group",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Shelter visit, toy drive, food drive for jobless neighbours",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 73,
+  "cat": "single-hop",
+  "answer": "Her aunt",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "To comfort a sad, alone girl (~8) (event was Jan 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 75,
+  "cat": "single-hop",
+  "answer": "Divorce, lost job, homelessness",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 76,
+  "cat": "single-hop",
+  "answer": "Passion for politics; running again was a dream come true",
+  "grade": "WRONG",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 77,
+  "cat": "single-hop",
+  "answer": "Yoga (class started 25 Feb 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 78,
+  "cat": "single-hop",
+  "answer": "None recorded as one; son Kyle (b. 6 Mar 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 79,
+  "cat": "single-hop",
+  "answer": "Several times a week",
+  "grade": "CORRECT",
+  "tokens_in_call": 8150
+ },
+ {
+  "qi": 80,
+  "cat": "single-hop",
+  "answer": "Castle shadow box",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 81,
+  "cat": "single-hop",
+  "answer": "Castles seen on her England trip (c. Mar 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 82,
+  "cat": "single-hop",
+  "answer": "University graduation (Mar 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "Education and infrastructure",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "5K charity run for the shelter (c. 1\u20132 Apr 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "5K charity run for veterans and families (5\u20136 Aug 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "Car repair after breakdown (7 Apr 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "Pacific Northwest coast and national parks (trip ended 16 Dec 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Politics and government",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Interest in politics and government; best guess: to build toward policymaking",
+  "grade": "WRONG",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Local politics (education and infrastructure)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 91,
+  "cat": "temporal",
+  "answer": "A convention (Mar 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Three times a week (family boot camp)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "More energy, strength and endurance",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Pizza and salads (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Cooking together (3 May 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Bought a cross necklace",
+  "grade": "WRONG",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "To feel closer to her faith and community (best guess; joined 5 May 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "A veterans party (Fri 19 May 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Socialised and shared food and games (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8138
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "Passionate, hopeful (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Chili cook-off fundraiser",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Chili cook-off fundraiser (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "Max",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "About 10 years",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Adopting a rescue dog (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Compassion and responsibility (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Volunteering at a local dog shelter monthly",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Like I was in a fairy tale",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Switched off, relaxed (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Family vacation in Florida",
+  "grade": "WRONG",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Kundalini yoga",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Assistant manager",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Long wait for recognition (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Maria's support keeps him going",
+  "grade": "WRONG",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Live music event",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Cousin left home in a hurry",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Veterans' rights march",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Passion for veterans' rights (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Weekly",
+  "grade": "CORRECT",
+  "tokens_in_call": 8226
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Flood",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Homes were ruined",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "West County flood damage",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Dinner with gym friends",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "Charades and a scavenger hunt",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "It filled him with hope",
+  "grade": "WRONG",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Hope, from meeting veteran Samuel",
+  "grade": "WRONG",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Not recorded; he joined the fire brigade instead",
+  "grade": "WRONG",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Hike and picnic",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "Supportive; he advises Maria on new classes",
+  "grade": "WRONG",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Weight training",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Baking drop-off for the homeless shelter",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "After seeing a struggling family on the streets",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Visited a military memorial",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Awestruck and humbled",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Not recorded; best guess: to learn about sacrifice",
+  "grade": "WRONG",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "Veterans should be supported and valued (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "He lost his job when the engineering company tanked",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "Church community work",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Renovated the rundown community centre",
+  "grade": "CORRECT",
+  "tokens_in_call": 8203
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Veterans and their families",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "A local domestic-abuse victims' organisation (name unknown)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "A medal (Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "Coco (c. 28 Jul 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "Camping, including hiking, swimming and campfires (summer 2022)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "\"A blast\"",
+  "grade": "WRONG",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Tough times lately; feels he isn't making enough impact (11 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "Shadow (adopted c. 6\u201312 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "Full of energy; learning commands and house training; gets along with Coco",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Volunteering with the fire brigade (plus school mentoring from c. 11\u201313 Aug 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "Hikes, parks, picnics, board games and movie nights",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "A brand-new fire truck",
+  "grade": "CORRECT",
+  "tokens_in_call": 8011
+ }
+]

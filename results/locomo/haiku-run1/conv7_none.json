@@ -1,0 +1,1339 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 1,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 2,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 3,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 4,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 5,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 6,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 7,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 8,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 9,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 11,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 13,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 14,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 15,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 16,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 17,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 18,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 19,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1065
+ },
+ {
+  "qi": 20,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 23,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 25,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 27,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 28,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 29,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 30,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 32,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 33,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 36,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 39,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1067
+ },
+ {
+  "qi": 40,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 41,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 42,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 43,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 44,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 45,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 46,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 47,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 48,
+  "cat": "open-domain",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 49,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 50,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 51,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 52,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 53,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 54,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 56,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 58,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 59,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1115
+ },
+ {
+  "qi": 60,
+  "cat": "temporal",
+  "answer": "Unknown (guess: March 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 61,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: a new book)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 62,
+  "cat": "single-hop",
+  "answer": "Animal shelter (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 63,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: 2 years old)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 64,
+  "cat": "single-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 65,
+  "cat": "temporal",
+  "answer": "Brazil",
+  "grade": "CORRECT",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 66,
+  "cat": "temporal",
+  "answer": "Unknown (guess: 30 September 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "Vacationing together (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 68,
+  "cat": "temporal",
+  "answer": "August 2023 (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 70,
+  "cat": "open-domain",
+  "answer": "No (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 71,
+  "cat": "temporal",
+  "answer": "Unknown (guess: June 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: December 1995)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 73,
+  "cat": "multi-hop",
+  "answer": "Yes (guess)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "Try a new coffee drink (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 75,
+  "cat": "open-domain",
+  "answer": "Poker (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 76,
+  "cat": "temporal",
+  "answer": "Unknown (guess: September 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 77,
+  "cat": "multi-hop",
+  "answer": "Unknown (guess: Abrolhos, Brazil)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 78,
+  "cat": "temporal",
+  "answer": "Rio de Janeiro, Brazil (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 79,
+  "cat": "multi-hop",
+  "answer": "Unknown (guess: No)",
+  "grade": "WRONG",
+  "tokens_in_call": 1092
+ },
+ {
+  "qi": 80,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 81,
+  "cat": "temporal",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 82,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 83,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 84,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 85,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 86,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 87,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 88,
+  "cat": "multi-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "Unknown",
+  "grade": "WRONG",
+  "tokens_in_call": 1088
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Unknown (no info provided)",
+  "grade": "WRONG",
+  "tokens_in_call": 1207
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Guess: Pomodoro technique",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "Guess: Reviewing a work presentation",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "Guess: Eisenhower Matrix",
+  "grade": "CORRECT",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Guess: Future travel plans",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "Guess: Booking weekend surf lessons",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "Guess: A new yoga mat",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Guess: Instrumental ambient music",
+  "grade": "CORRECT",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Guess: Enya and Sigur R\u00f3s",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Guess: Brian Eno, Music for Airports",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "Guess: A play",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "Guess: Quiet inspiration and reflection",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "Guess: Calm and peaceful",
+  "grade": "CORRECT",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Guess: Cooking dinner together",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Guess: Training for a half-marathon, June 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Guess: About two years",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Guess: Calm and happy",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "Guess: Tree pose",
+  "grade": "CORRECT",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "Guess: Weekly book club",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "Guess: Supportive, friendly members",
+  "grade": "CORRECT",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Guess: She wanted a low-maintenance pet",
+  "grade": "WRONG",
+  "tokens_in_call": 1183
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Mario Kart",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Chasing a laser pointer",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Relief mixed with worry",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "To keep them fit and healthy",
+  "grade": "CORRECT",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "Adopted from a shelter",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "Reading novels",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Gentle morning flow",
+  "grade": "CORRECT",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "A rocket-inspired logo design",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "Bullet journal",
+  "grade": "CORRECT",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "Animal Crossing",
+  "grade": "CORRECT",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "Zelda: Breath of the Wild",
+  "grade": "CORRECT",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "Mario Kart",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 152,
+  "cat": "single-hop",
+  "answer": "Engraved memorial plaque",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 153,
+  "cat": "single-hop",
+  "answer": "Family memories and everyday life",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 154,
+  "cat": "single-hop",
+  "answer": "Warmth and nostalgia",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 155,
+  "cat": "single-hop",
+  "answer": "Daily meditation and journaling",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 156,
+  "cat": "single-hop",
+  "answer": "Child's pose",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 157,
+  "cat": "single-hop",
+  "answer": "About three years, since 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 158,
+  "cat": "single-hop",
+  "answer": "Volunteering at an animal shelter",
+  "grade": "WRONG",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 159,
+  "cat": "single-hop",
+  "answer": "Happy and motivated",
+  "grade": "CORRECT",
+  "tokens_in_call": 1171
+ },
+ {
+  "qi": 160,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: tech talk)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 161,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: persistence)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 162,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: open-source projects)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 163,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: adopted from a shelter)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 164,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: 3 years old)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 165,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: salsa dance classes)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 166,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: a quiet park)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 167,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: patience)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 168,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: to mark a fresh start)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 169,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: running)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 170,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: attended classes with her)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 171,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: Nintendo Wii)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 172,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: Wii Sports)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 173,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: mindfulness course)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 174,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: work deadline)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 175,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: Rio de Janeiro, Brazil)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 176,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: gratitude)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 177,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: felt encouraged)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 178,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: improved focus)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 179,
+  "cat": "single-hop",
+  "answer": "Unknown (guess: chess)",
+  "grade": "WRONG",
+  "tokens_in_call": 1191
+ },
+ {
+  "qi": 180,
+  "cat": "single-hop",
+  "answer": "Kept in touch",
+  "grade": "WRONG",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 181,
+  "cat": "single-hop",
+  "answer": "On the beach",
+  "grade": "CORRECT",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 182,
+  "cat": "single-hop",
+  "answer": "Inner peace",
+  "grade": "CORRECT",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 183,
+  "cat": "single-hop",
+  "answer": "Bright and cozy",
+  "grade": "WRONG",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 184,
+  "cat": "single-hop",
+  "answer": "Community garden",
+  "grade": "WRONG",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 185,
+  "cat": "single-hop",
+  "answer": "Gardening",
+  "grade": "WRONG",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 186,
+  "cat": "single-hop",
+  "answer": "Chocolate cake",
+  "grade": "WRONG",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 187,
+  "cat": "single-hop",
+  "answer": "Chocolate chip",
+  "grade": "CORRECT",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 188,
+  "cat": "single-hop",
+  "answer": "Hiking",
+  "grade": "WRONG",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 189,
+  "cat": "single-hop",
+  "answer": "Dancing",
+  "grade": "CORRECT",
+  "tokens_in_call": 926
+ },
+ {
+  "qi": 190,
+  "cat": "single-hop",
+  "answer": "Letting loose",
+  "grade": "WRONG",
+  "tokens_in_call": 926
+ }
+]

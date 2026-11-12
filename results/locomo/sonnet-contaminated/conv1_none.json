@@ -1,0 +1,569 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "January 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 1,
+  "cat": "temporal",
+  "answer": "January 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 2,
+  "cat": "single-hop",
+  "answer": "Dancing",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "Both lost their jobs and started their own businesses",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 4,
+  "cat": "single-hop",
+  "answer": "Passion for dance and lost his banking job",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 5,
+  "cat": "multi-hop",
+  "answer": "Place with great flooring, good mirrors, and a welcoming atmosphere",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 6,
+  "cat": "temporal",
+  "answer": "February 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 7,
+  "cat": "temporal",
+  "answer": "Summer 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 8,
+  "cat": "temporal",
+  "answer": "February 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 9,
+  "cat": "multi-hop",
+  "answer": "Rome",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "May 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 11,
+  "cat": "temporal",
+  "answer": "February 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "May 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 13,
+  "cat": "temporal",
+  "answer": "January 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 14,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 15,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "June 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 17,
+  "cat": "multi-hop",
+  "answer": "Passion for fashion and lost her job",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 19,
+  "cat": "temporal",
+  "answer": "March 2023",
+  "grade": "WRONG",
+  "tokens_in_call": 1024
+ },
+ {
+  "qi": 20,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: March 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: June 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: July 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Social media and fashion events",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Networking events and local business fairs",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 25,
+  "cat": "multi-hop",
+  "answer": "Dance classes for all ages and styles",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: August 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 27,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 28,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: June 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 29,
+  "cat": "multi-hop",
+  "answer": "Rome, Paris",
+  "grade": "CORRECT",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 30,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: 2024)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 31,
+  "cat": "multi-hop",
+  "answer": "About a year",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 32,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: September 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 33,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: July 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: October 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: May 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 36,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: August 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: June 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "Unknown (best guess: May 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 39,
+  "cat": "single-hop",
+  "answer": "Contemporary",
+  "grade": "CORRECT",
+  "tokens_in_call": 1045
+ },
+ {
+  "qi": 40,
+  "cat": "single-hop",
+  "answer": "Contemporary",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 41,
+  "cat": "single-hop",
+  "answer": "Winning first place at a regionals dance competition",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 42,
+  "cat": "single-hop",
+  "answer": "Contemporary dance piece",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 43,
+  "cat": "single-hop",
+  "answer": "Strength and passion",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 44,
+  "cat": "single-hop",
+  "answer": "They are an inspiration, showing the joy of dance",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 45,
+  "cat": "single-hop",
+  "answer": "Excited and grateful",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 46,
+  "cat": "single-hop",
+  "answer": "Marley flooring",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 47,
+  "cat": "single-hop",
+  "answer": "A perfect store location",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 48,
+  "cat": "single-hop",
+  "answer": "A cozy, inviting space with a unique look",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 49,
+  "cat": "single-hop",
+  "answer": "Comfortable and confident",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 50,
+  "cat": "single-hop",
+  "answer": "It's impressive; she's making great progress",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 51,
+  "cat": "single-hop",
+  "answer": "She wanted a cozy, welcoming atmosphere",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 52,
+  "cat": "single-hop",
+  "answer": "It's key to making customers feel special",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 53,
+  "cat": "single-hop",
+  "answer": "She wants customers to feel welcome and special",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 54,
+  "cat": "single-hop",
+  "answer": "Doing great, growing steadily",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 55,
+  "cat": "single-hop",
+  "answer": "Freedom and dance",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 56,
+  "cat": "single-hop",
+  "answer": "A dance journey with ups and downs",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 57,
+  "cat": "single-hop",
+  "answer": "Stay true to yourself and keep working hard",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 58,
+  "cat": "single-hop",
+  "answer": "Because of bank fees and a bad experience",
+  "grade": "WRONG",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 59,
+  "cat": "single-hop",
+  "answer": "To combine her two passions, fashion and dance",
+  "grade": "CORRECT",
+  "tokens_in_call": 1053
+ },
+ {
+  "qi": 60,
+  "cat": "single-hop",
+  "answer": "Happy and free",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 61,
+  "cat": "single-hop",
+  "answer": "A trophy",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 62,
+  "cat": "single-hop",
+  "answer": "Focusing on her passion and staying true to her style",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 63,
+  "cat": "single-hop",
+  "answer": "Fashion internship",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 64,
+  "cat": "single-hop",
+  "answer": "Local fashion house",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 65,
+  "cat": "single-hop",
+  "answer": "The Alchemist",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 66,
+  "cat": "single-hop",
+  "answer": "Free classes",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "To jot down ideas and choreography notes",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 68,
+  "cat": "single-hop",
+  "answer": "Give up on his dreams",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "Dance competition",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 70,
+  "cat": "single-hop",
+  "answer": "A dance studio",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 71,
+  "cat": "single-hop",
+  "answer": "Amazing, a perfect space for dancers",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Excited and nervous",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 73,
+  "cat": "single-hop",
+  "answer": "Freeing and joyful",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "Showcase performances and offer free classes",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 75,
+  "cat": "single-hop",
+  "answer": "Congratulations, it will be great",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 76,
+  "cat": "single-hop",
+  "answer": "Excitement and optimism",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 77,
+  "cat": "single-hop",
+  "answer": "Clothing",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 78,
+  "cat": "single-hop",
+  "answer": "His experience and passion for dance",
+  "grade": "WRONG",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 79,
+  "cat": "single-hop",
+  "answer": "Reach out to investors and improve his business plan",
+  "grade": "CORRECT",
+  "tokens_in_call": 1054
+ },
+ {
+  "qi": 80,
+  "cat": "single-hop",
+  "answer": "She offers to manage his social media accounts",
+  "grade": "CORRECT",
+  "tokens_in_call": 678
+ }
+]

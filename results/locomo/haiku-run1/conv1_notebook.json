@@ -1,0 +1,569 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "19 Jan 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 1,
+  "cat": "temporal",
+  "answer": "January 2023 (exact date not given)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 2,
+  "cat": "single-hop",
+  "answer": "Dancing",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "Both love contemporary dance; both lost their jobs in January 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 4,
+  "cat": "single-hop",
+  "answer": "After losing his banking job, to start his own business doing what he loves",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 5,
+  "cat": "multi-hop",
+  "answer": "A room by the ocean (dream studio)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 6,
+  "cat": "temporal",
+  "answer": "Before 8 Feb 2023 (exact date not given)",
+  "grade": "WRONG",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 7,
+  "cat": "temporal",
+  "answer": "29 Jan 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 8,
+  "cat": "temporal",
+  "answer": "28 Jan 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 9,
+  "cat": "multi-hop",
+  "answer": "Rome",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "8 Feb 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 11,
+  "cat": "temporal",
+  "answer": "A few years before 8 Feb 2023 (exact date not given)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "Week of 6\u201312 Mar 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 13,
+  "cat": "temporal",
+  "answer": "16 Mar 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 14,
+  "cat": "temporal",
+  "answer": "3 Apr 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 15,
+  "cat": "temporal",
+  "answer": "May 2023 (planned; outcome not reported)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "24 Apr 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 17,
+  "cat": "multi-hop",
+  "answer": "To take control of her own destiny after losing her Door Dash job",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "Yes: Jon's dance studio and Gina's fashion store both come from their passions",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 19,
+  "cat": "temporal",
+  "answer": "10 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7128
+ },
+ {
+  "qi": 20,
+  "cat": "temporal",
+  "answer": "27 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 21,
+  "cat": "temporal",
+  "answer": "27 May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 22,
+  "cat": "temporal",
+  "answer": "13 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Ad campaign (29 Jan 2023) and offers/promotions (3 Apr 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Fair (24 Apr 2023), networking events, grand opening (20 Jun 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 25,
+  "cat": "multi-hop",
+  "answer": "Classes for all ages/levels; school and centre workshops; one-on-one mentoring and training",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "15 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 27,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 28,
+  "cat": "temporal",
+  "answer": "12\u201318 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 29,
+  "cat": "multi-hop",
+  "answer": "Paris and Rome",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 30,
+  "cat": "temporal",
+  "answer": "20 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 31,
+  "cat": "multi-hop",
+  "answer": "About 142 days (29 Jan\u201320 Jun 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 32,
+  "cat": "temporal",
+  "answer": "12\u201318 Jun 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 33,
+  "cat": "temporal",
+  "answer": "20 Jun 2023 (also before 21 Jul 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "2\u20138 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "9 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 36,
+  "cat": "temporal",
+  "answer": "21 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 37,
+  "cat": "temporal",
+  "answer": "23 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "21 Jul 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 39,
+  "cat": "single-hop",
+  "answer": "Contemporary",
+  "grade": "CORRECT",
+  "tokens_in_call": 7149
+ },
+ {
+  "qi": 40,
+  "cat": "single-hop",
+  "answer": "Contemporary",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 41,
+  "cat": "single-hop",
+  "answer": "Team won first place at regionals with \"Finding Freedom\" at age 15 (year not given)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 42,
+  "cat": "single-hop",
+  "answer": "Contemporary piece \"Finding Freedom\"",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 43,
+  "cat": "single-hop",
+  "answer": "Young dancers (shared 16 Jun 2023), a reminder of how much Jon loves performing; best guess: the next generation of dancers he wants to mentor",
+  "grade": "WRONG",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 44,
+  "cat": "single-hop",
+  "answer": "Not recorded; best guess: she shared it to inspire Jon",
+  "grade": "WRONG",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 45,
+  "cat": "single-hop",
+  "answer": "Positive; the festival performance went well (before 8 Feb 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 46,
+  "cat": "single-hop",
+  "answer": "Marley floor (downtown studio, 29 Jan 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 47,
+  "cat": "single-hop",
+  "answer": "A possible new store location: a shopping mall with a glass entrance (1 Feb 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 48,
+  "cat": "single-hop",
+  "answer": "A cozy store with trendy pieces, comfy furniture and a chandelier (1 Feb 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 49,
+  "cat": "single-hop",
+  "answer": "Cozy, like a \"cool oasis\" that brings customers back",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 50,
+  "cat": "single-hop",
+  "answer": "\"He will make it\" (16 Mar 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 51,
+  "cat": "single-hop",
+  "answer": "To make the store feel cozy; best guess, not explicitly recorded",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 52,
+  "cat": "single-hop",
+  "answer": "Studio will welcome dancers of all ages and backgrounds (23 Jul 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 53,
+  "cat": "single-hop",
+  "answer": "A \"cool oasis\" that brings customers back, and a top destination for fashion fans",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 54,
+  "cat": "single-hop",
+  "answer": "Sales rising, with promotions and offers (3 Apr 2023); growing online customer base (16 Jun 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 55,
+  "cat": "single-hop",
+  "answer": "Freedom: dancing without worrying what people think",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 56,
+  "cat": "single-hop",
+  "answer": "A roller coaster (a \"wild ride\")",
+  "grade": "WRONG",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 57,
+  "cat": "single-hop",
+  "answer": "Stay passionate, focused, resilient and open to learning; reach out to people in your field and network (16 Jun and 21 Jul 2023)",
+  "grade": "WRONG",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 58,
+  "cat": "single-hop",
+  "answer": "To help his business grow (3 Apr 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 59,
+  "cat": "single-hop",
+  "answer": "To bring dance into her fashion: dance-inspired items (3 Apr 2023); best guess: her love of dance inspires her designs",
+  "grade": "CORRECT",
+  "tokens_in_call": 7157
+ },
+ {
+  "qi": 60,
+  "cat": "single-hop",
+  "answer": "Most alive",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 61,
+  "cat": "single-hop",
+  "answer": "A trophy",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 62,
+  "cat": "single-hop",
+  "answer": "Sees setbacks as opportunities for comebacks",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 63,
+  "cat": "single-hop",
+  "answer": "Part-time fashion internship (accepted 27 May 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 64,
+  "cat": "single-hop",
+  "answer": "International company's fashion department (location not stated)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 65,
+  "cat": "single-hop",
+  "answer": "The Lean Startup",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 66,
+  "cat": "single-hop",
+  "answer": "Welcomes dancers of all ages and backgrounds",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 67,
+  "cat": "single-hop",
+  "answer": "Writes his plans on it",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 68,
+  "cat": "single-hop",
+  "answer": "Quit",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 69,
+  "cat": "single-hop",
+  "answer": "To clear his mind (12\u201318 Jun 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 70,
+  "cat": "single-hop",
+  "answer": "Downtown dance studio (grand opening 20 Jun 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 71,
+  "cat": "single-hop",
+  "answer": "A go-to spot for self-expression",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Excited; a \"wild ride\" (19 Jun 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 73,
+  "cat": "single-hop",
+  "answer": "Like air; worries vanish",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "Attend networking events",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 75,
+  "cat": "single-hop",
+  "answer": "\"I'll be right by your side\"",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 76,
+  "cat": "single-hop",
+  "answer": "Excited and positive",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 77,
+  "cat": "single-hop",
+  "answer": "Camouflage-print hoodies",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 78,
+  "cat": "single-hop",
+  "answer": "Being inspiring and passionate (best guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 79,
+  "cat": "single-hop",
+  "answer": "Sprucing up business plan, tweaking investor pitch, building online platform",
+  "grade": "CORRECT",
+  "tokens_in_call": 7158
+ },
+ {
+  "qi": 80,
+  "cat": "single-hop",
+  "answer": "Make content and manage his social media accounts (21 Jul 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 6782
+ }
+]

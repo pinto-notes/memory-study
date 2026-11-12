@@ -1,0 +1,5 @@
+The files in results/ and grading/ are licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+They hold model answers and grades keyed by question number. They do not contain
+LoCoMo or LongMemEval text; fetch those from their sources (scripts/fetch_data.sh).

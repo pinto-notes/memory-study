@@ -1,0 +1,1108 @@
+[
+ {
+  "qi": 0,
+  "cat": "temporal",
+  "answer": "April 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 1,
+  "cat": "multi-hop",
+  "answer": "A red luxury sports car and a mansion",
+  "grade": "CORRECT",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 2,
+  "cat": "temporal",
+  "answer": "March 2023 (Boston festival, reported 26 March)",
+  "grade": "CORRECT",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 3,
+  "cat": "multi-hop",
+  "answer": "Aerosmith (plus classic rock)",
+  "grade": "WRONG",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 4,
+  "cat": "open-domain",
+  "answer": "Japan",
+  "grade": "WRONG",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 5,
+  "cat": "multi-hop",
+  "answer": "Working on classic cars, running his own car shop, and building a custom car from scratch",
+  "grade": "CORRECT",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 6,
+  "cat": "multi-hop",
+  "answer": "Classic muscle cars (Mustang, Corvette)",
+  "grade": "CORRECT",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 7,
+  "cat": "open-domain",
+  "answer": "No",
+  "grade": "WRONG",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 8,
+  "cat": "temporal",
+  "answer": "Around 1 May 2023 (late April\u2013early May 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 9,
+  "cat": "temporal",
+  "answer": "Early May 2023 (flood, week before 16 May)",
+  "grade": "CORRECT",
+  "tokens_in_call": 71335
+ },
+ {
+  "qi": 10,
+  "cat": "temporal",
+  "answer": "Early May 2023 (the week before 16 May)",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 11,
+  "cat": "multi-hop",
+  "answer": "His place was flooded (May 2023) and he had a small car accident (16 June 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 12,
+  "cat": "temporal",
+  "answer": "May 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 13,
+  "cat": "open-domain",
+  "answer": "Probably yes. He loves performing live and says it fuels his soul",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 14,
+  "cat": "temporal",
+  "answer": "8 June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 15,
+  "cat": "multi-hop",
+  "answer": "To relax and recharge, and to walk and unwind",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 16,
+  "cat": "temporal",
+  "answer": "July 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 17,
+  "cat": "temporal",
+  "answer": "16 June 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 18,
+  "cat": "multi-hop",
+  "answer": "Twice (flood and car accident)",
+  "grade": "CORRECT",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 19,
+  "cat": "multi-hop",
+  "answer": "A Tokyo music festival (April 2023), concerts (May and August 2023), Shibuya Crossing, Shinjuku, and the night skyline",
+  "grade": "WRONG",
+  "tokens_in_call": 41857
+ },
+ {
+  "qi": 20,
+  "cat": "multi-hop",
+  "answer": "His dad",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 21,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 22,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 23,
+  "cat": "multi-hop",
+  "answer": "Working on cars (auto engineering)",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 24,
+  "cat": "multi-hop",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 25,
+  "cat": "temporal",
+  "answer": "18 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 26,
+  "cat": "temporal",
+  "answer": "21 August 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 27,
+  "cat": "temporal",
+  "answer": "Tokyo",
+  "grade": "WRONG",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 28,
+  "cat": "multi-hop",
+  "answer": "Long drives in his red sports car (and time in nature)",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 29,
+  "cat": "multi-hop",
+  "answer": "Photography, card nights with friends, exploring parks, music/band",
+  "grade": "CORRECT",
+  "tokens_in_call": 54635
+ },
+ {
+  "qi": 30,
+  "cat": "multi-hop",
+  "answer": "Classic rock",
+  "grade": "WRONG",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 31,
+  "cat": "temporal",
+  "answer": "San Francisco (car mod workshop)",
+  "grade": "CORRECT",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 32,
+  "cat": "multi-hop",
+  "answer": "San Francisco",
+  "grade": "CORRECT",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 33,
+  "cat": "multi-hop",
+  "answer": "Attending a car mod workshop",
+  "grade": "CORRECT",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 34,
+  "cat": "temporal",
+  "answer": "1 September 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 35,
+  "cat": "temporal",
+  "answer": "Late August 2023 (week before 2 Sep)",
+  "grade": "CORRECT",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 36,
+  "cat": "temporal",
+  "answer": "11 September 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 37,
+  "cat": "open-domain",
+  "answer": "Yes",
+  "grade": "CORRECT",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 38,
+  "cat": "temporal",
+  "answer": "14 September 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 39,
+  "cat": "open-domain",
+  "answer": "Subaru Forester",
+  "grade": "WRONG",
+  "tokens_in_call": 62278
+ },
+ {
+  "qi": 40,
+  "cat": "multi-hop",
+  "answer": "Tupac and Dr. Dre (\"California Love\")",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 41,
+  "cat": "multi-hop",
+  "answer": "Their dads (fathers)",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 42,
+  "cat": "open-domain",
+  "answer": "No",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 43,
+  "cat": "temporal",
+  "answer": "Boston",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 44,
+  "cat": "temporal",
+  "answer": "3 October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 45,
+  "cat": "multi-hop",
+  "answer": "Cars and music (jamming)",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 46,
+  "cat": "multi-hop",
+  "answer": "Working on and restoring cars",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 47,
+  "cat": "multi-hop",
+  "answer": "3",
+  "grade": "WRONG",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 48,
+  "cat": "temporal",
+  "answer": "Went to a car show (6 Oct 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 49,
+  "cat": "multi-hop",
+  "answer": "Worked on cars and tinkered with engines (restored an old car)",
+  "grade": "CORRECT",
+  "tokens_in_call": 86745
+ },
+ {
+  "qi": 50,
+  "cat": "temporal",
+  "answer": "Early October 2023 (about 8 Oct)",
+  "grade": "CORRECT",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 51,
+  "cat": "temporal",
+  "answer": "August 2023 (Tokyo festival)",
+  "grade": "WRONG",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 52,
+  "cat": "temporal",
+  "answer": "November 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 53,
+  "cat": "multi-hop",
+  "answer": "His friends and team",
+  "grade": "CORRECT",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 54,
+  "cat": "multi-hop",
+  "answer": "Watching music videos, concerts and documentaries about artists' creative process",
+  "grade": "WRONG",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 55,
+  "cat": "temporal",
+  "answer": "24 October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 56,
+  "cat": "multi-hop",
+  "answer": "San Francisco and Detroit",
+  "grade": "CORRECT",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 57,
+  "cat": "temporal",
+  "answer": "Photography",
+  "grade": "CORRECT",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 58,
+  "cat": "multi-hop",
+  "answer": "Going to a car show with his dad at age 10, and restoring cars with his dad",
+  "grade": "CORRECT",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 59,
+  "cat": "multi-hop",
+  "answer": "Two",
+  "grade": "CORRECT",
+  "tokens_in_call": 105650
+ },
+ {
+  "qi": 60,
+  "cat": "multi-hop",
+  "answer": "A gold necklace with a diamond pendant, and a custom octopus guitar",
+  "grade": "CORRECT",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 61,
+  "cat": "temporal",
+  "answer": "About a month",
+  "grade": "WRONG",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 62,
+  "cat": "temporal",
+  "answer": "About 2\u20133 weeks (guess)",
+  "grade": "WRONG",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 63,
+  "cat": "multi-hop",
+  "answer": "Custom-made, unique guitars (octopus design, purple glow finish)",
+  "grade": "CORRECT",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 64,
+  "cat": "multi-hop",
+  "answer": "Card night, road trip, park walks, concerts",
+  "grade": "WRONG",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 65,
+  "cat": "temporal",
+  "answer": "September 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 66,
+  "cat": "multi-hop",
+  "answer": "No",
+  "grade": "CORRECT",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 67,
+  "cat": "temporal",
+  "answer": "Japan",
+  "grade": "WRONG",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 68,
+  "cat": "temporal",
+  "answer": "Late October 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 69,
+  "cat": "temporal",
+  "answer": "November 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 78365
+ },
+ {
+  "qi": 70,
+  "cat": "temporal",
+  "answer": "16 November 2023",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 71,
+  "cat": "single-hop",
+  "answer": "A few months",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 72,
+  "cat": "single-hop",
+  "answer": "Aerosmith",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 73,
+  "cat": "single-hop",
+  "answer": "Tokyo",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 74,
+  "cat": "single-hop",
+  "answer": "Stay true to himself and sound unique",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 75,
+  "cat": "single-hop",
+  "answer": "Opening his own car maintenance shop",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 76,
+  "cat": "single-hop",
+  "answer": "All kinds of cars, from regular maintenance to classic restorations",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 77,
+  "cat": "single-hop",
+  "answer": "A gold necklace with a diamond pendant",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 78,
+  "cat": "single-hop",
+  "answer": "Why he keeps hustling as a musician",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 79,
+  "cat": "single-hop",
+  "answer": "Takes a break and explores, like walking around or going to concerts or listening to favorite albums",
+  "grade": "CORRECT",
+  "tokens_in_call": 83004
+ },
+ {
+  "qi": 80,
+  "cat": "single-hop",
+  "answer": "Take a break and explore (Japanese culture/nature), plus concerts or favorite albums",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 81,
+  "cat": "single-hop",
+  "answer": "His music gear and favorite microphone",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 82,
+  "cat": "single-hop",
+  "answer": "His own car maintenance shop",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 83,
+  "cat": "single-hop",
+  "answer": "Fixing cars",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 84,
+  "cat": "single-hop",
+  "answer": "Performing live",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 85,
+  "cat": "single-hop",
+  "answer": "Exploring parks",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 86,
+  "cat": "single-hop",
+  "answer": "Skiing",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 87,
+  "cat": "single-hop",
+  "answer": "Cruising in the car",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 88,
+  "cat": "single-hop",
+  "answer": "Regular walks",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 89,
+  "cat": "single-hop",
+  "answer": "Electronic-infused music, experimenting with different genres",
+  "grade": "CORRECT",
+  "tokens_in_call": 113326
+ },
+ {
+  "qi": 90,
+  "cat": "single-hop",
+  "answer": "Experimenting with different genres, adding electronic elements for a fresh vibe (self-discovery and growth)",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 91,
+  "cat": "single-hop",
+  "answer": "Ferrari",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 92,
+  "cat": "single-hop",
+  "answer": "Expand his brand worldwide and grow his fanbase",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 93,
+  "cat": "single-hop",
+  "answer": "Keep pursuing your dreams and don't give up",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 94,
+  "cat": "single-hop",
+  "answer": "A car mod workshop",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 95,
+  "cat": "single-hop",
+  "answer": "Body modifications (he has already done engine swaps and suspension mods)",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 96,
+  "cat": "single-hop",
+  "answer": "A silver Corvette (classic muscle car with a modern twist)",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 97,
+  "cat": "single-hop",
+  "answer": "Small details and personal touches",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 98,
+  "cat": "single-hop",
+  "answer": "They sang along (\"magical\")",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 99,
+  "cat": "single-hop",
+  "answer": "At a music festival in Tokyo, where they clicked",
+  "grade": "CORRECT",
+  "tokens_in_call": 117208
+ },
+ {
+  "qi": 100,
+  "cat": "single-hop",
+  "answer": "In the studio at his mansion (Tokyo)",
+  "grade": "CORRECT",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 101,
+  "cat": "single-hop",
+  "answer": "A podcast about the rap industry (21 Aug 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 102,
+  "cat": "single-hop",
+  "answer": "Miami, at a beach",
+  "grade": "CORRECT",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 103,
+  "cat": "single-hop",
+  "answer": "An octopus",
+  "grade": "CORRECT",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 104,
+  "cat": "single-hop",
+  "answer": "To match his style",
+  "grade": "WRONG",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 105,
+  "cat": "single-hop",
+  "answer": "Purple",
+  "grade": "CORRECT",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 106,
+  "cat": "single-hop",
+  "answer": "San Francisco",
+  "grade": "CORRECT",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 107,
+  "cat": "single-hop",
+  "answer": "Pride",
+  "grade": "CORRECT",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 108,
+  "cat": "single-hop",
+  "answer": "A trip to Boston",
+  "grade": "CORRECT",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 109,
+  "cat": "single-hop",
+  "answer": "Going to Boston (exploring the music scene)",
+  "grade": "WRONG",
+  "tokens_in_call": 72041
+ },
+ {
+  "qi": 110,
+  "cat": "single-hop",
+  "answer": "Meet up in Boston and have Calvin check out Dave's garage",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 111,
+  "cat": "single-hop",
+  "answer": "Ratatouille",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 112,
+  "cat": "single-hop",
+  "answer": "He loves them; they make the hard work worth it",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 113,
+  "cat": "single-hop",
+  "answer": "Driving with the wind in his hair, enjoying the freedom",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 114,
+  "cat": "single-hop",
+  "answer": "\"California Love\" by Tupac & Dr. Dre",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 115,
+  "cat": "single-hop",
+  "answer": "Restoring a car (the orange car)",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 116,
+  "cat": "single-hop",
+  "answer": "A Ford Mustang",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 117,
+  "cat": "single-hop",
+  "answer": "Bringing them back to life",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 118,
+  "cat": "single-hop",
+  "answer": "Hard work and mutual motivation",
+  "grade": "WRONG",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 119,
+  "cat": "single-hop",
+  "answer": "Therapy: a calming escape that relaxes him",
+  "grade": "CORRECT",
+  "tokens_in_call": 61961
+ },
+ {
+  "qi": 120,
+  "cat": "single-hop",
+  "answer": "Turn it into his job (do what he loves for a living)",
+  "grade": "WRONG",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 121,
+  "cat": "single-hop",
+  "answer": "A new black Ferrari",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 122,
+  "cat": "single-hop",
+  "answer": "The Fireworks",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 123,
+  "cat": "single-hop",
+  "answer": "Remembers his passion, leans on supportive people, and takes breaks for favorite activities",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 124,
+  "cat": "single-hop",
+  "answer": "Working on and restoring cars",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 125,
+  "cat": "single-hop",
+  "answer": "At a music festival in Tokyo",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 126,
+  "cat": "single-hop",
+  "answer": "Shibuya Crossing (Shibuya)",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 127,
+  "cat": "single-hop",
+  "answer": "Shinjuku",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 128,
+  "cat": "single-hop",
+  "answer": "Ramen",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 129,
+  "cat": "single-hop",
+  "answer": "The crowd's energy and connecting with the audience on stage",
+  "grade": "CORRECT",
+  "tokens_in_call": 121799
+ },
+ {
+  "qi": 130,
+  "cat": "single-hop",
+  "answer": "One day at a time, leaning on a strong support system of friends and team",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 131,
+  "cat": "single-hop",
+  "answer": "People's struggles",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 132,
+  "cat": "single-hop",
+  "answer": "Cathartic, \"my own form of therapy\"",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 133,
+  "cat": "single-hop",
+  "answer": "Got hooked as a kid (age 10): his dad's garage and first car show",
+  "grade": "WRONG",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 134,
+  "cat": "single-hop",
+  "answer": "Patience and attention to detail",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 135,
+  "cat": "single-hop",
+  "answer": "Attention to detail, like a well-crafted rap song or a sleek car",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 136,
+  "cat": "single-hop",
+  "answer": "2022 (sold to a collector)",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 137,
+  "cat": "single-hop",
+  "answer": "Childhood (best guess, not in notes)",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 138,
+  "cat": "single-hop",
+  "answer": "A dream come true",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 139,
+  "cat": "single-hop",
+  "answer": "Performing with someone he admires is a dream come true; music is his passion and purpose",
+  "grade": "CORRECT",
+  "tokens_in_call": 60705
+ },
+ {
+  "qi": 140,
+  "cat": "single-hop",
+  "answer": "Following their passion (doing what you love)",
+  "grade": "WRONG",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 141,
+  "cat": "single-hop",
+  "answer": "Boston",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 142,
+  "cat": "single-hop",
+  "answer": "Held an album release party (2 November 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 143,
+  "cat": "single-hop",
+  "answer": "A blog on car mods",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 144,
+  "cat": "single-hop",
+  "answer": "His car-mod blog",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 145,
+  "cat": "single-hop",
+  "answer": "Music videos, concerts and documentaries about artists",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 146,
+  "cat": "single-hop",
+  "answer": "Classic rock",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 147,
+  "cat": "single-hop",
+  "answer": "A notebook and pen for writing lyrics",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 148,
+  "cat": "single-hop",
+  "answer": "A post on making a car \"look like a beast\" (DIY car mods)",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 149,
+  "cat": "single-hop",
+  "answer": "It inspires readers to start their own DIY projects, and people ask him for advice",
+  "grade": "CORRECT",
+  "tokens_in_call": 52664
+ },
+ {
+  "qi": 150,
+  "cat": "single-hop",
+  "answer": "His old high school friend",
+  "grade": "CORRECT",
+  "tokens_in_call": 55039
+ },
+ {
+  "qi": 151,
+  "cat": "single-hop",
+  "answer": "Photography",
+  "grade": "CORRECT",
+  "tokens_in_call": 55039
+ },
+ {
+  "qi": 152,
+  "cat": "single-hop",
+  "answer": "A vintage camera",
+  "grade": "CORRECT",
+  "tokens_in_call": 55039
+ },
+ {
+  "qi": 153,
+  "cat": "single-hop",
+  "answer": "Nature photos: sunsets, beaches, waves",
+  "grade": "CORRECT",
+  "tokens_in_call": 55039
+ },
+ {
+  "qi": 154,
+  "cat": "single-hop",
+  "answer": "A fancy gala (16 Nov 2023)",
+  "grade": "CORRECT",
+  "tokens_in_call": 55039
+ },
+ {
+  "qi": 155,
+  "cat": "single-hop",
+  "answer": "Music and art, their favorite artists, and how music connects us all",
+  "grade": "CORRECT",
+  "tokens_in_call": 55039
+ },
+ {
+  "qi": 156,
+  "cat": "single-hop",
+  "answer": "A serene spot in a nearby park",
+  "grade": "CORRECT",
+  "tokens_in_call": 55039
+ },
+ {
+  "qi": 157,
+  "cat": "single-hop",
+  "answer": "It helps us appreciate life and gives a breath of fresh air",
+  "grade": "CORRECT",
+  "tokens_in_call": 55039
+ }
+]
