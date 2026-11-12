@@ -38,7 +38,7 @@ A second full run of the first four rows (new notebooks, new answers) landed wit
 
 **GPT-6 Luna** (`gpt-6-luna`, low reasoning), same test: no memory 18.3%, saved facts 43.6%, one notebook 74.5%, every chat pasted in 80.5%. We didn't run Pinto with GPT-6 Luna. On dates the notebook beat pasting everything: 80.1% against 73.5%. GPT's saved facts did badly on dates (11.5%): one-liners drop the date.
 
-**What Pinto did:** across the 10 conversations Haiku created 275 notes, made 937 edits and ran 600 searches and 6,671 fetches. It kept a note per person and per chat. With no limit it kept a lot: 8,000 to 24,000 words per pair of friends, often more than the chats themselves. Per question it read about 10,000 tokens, close to the one-notebook condition.
+**What Pinto did:** across the 10 conversations Haiku created 275 notes, made 937 edits and ran 600 searches and 6,671 fetches. It kept a note per person and per chat. With no limit it kept a lot: 8,000 to 24,000 words per pair of friends, often more than the chats themselves. The logs don't record how much of its notes it read for each answer, so we make no claim about that.
 
 ## What this does not show
 
