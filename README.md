@@ -1,6 +1,6 @@
 # Does your AI remember better with notes?
 
-Every new chat with ChatGPT or Claude starts blank. We tested how much an AI remembers about months of past chats when it has nothing, a short list of saved facts, one notebook, or [Pinto Notes](https://pintonotes.com) connected. Everything here reruns on your own machine.
+Every new chat with ChatGPT or Claude starts blank. We tested how much an AI remembers about months of past chats when it has nothing, a short list of saved facts, one notebook, or [Pinto Notes](https://pintonotes.com) connected. Everything here reruns on your own machine. Runs: November 2026.
 
 **Short answer.** In a new chat, Claude Haiku answered 18% of 1,540 questions about past chats right. With Pinto connected it answered 82.5%. On "when did…" questions it went from 3% to 87%, against 48% for a list of saved facts.
 
@@ -34,9 +34,9 @@ We treat each chat as a separate chat with the AI. After the last one, the quest
 | **Pinto** | **82.5%** | **88.5%** | 66.0% | **86.6%** | **64.6%** |
 | Every old chat pasted in (ceiling) | 85.4% | 93.6% | 72.0% | 83.5% | 59.4% |
 
-A second full run of the first four rows (new notebooks, new answers) landed within 2.5 points: 16.2%, 59.4%, 69.5%, 86.8%.
+A second full run of the first four rows (new notebooks, new answers) landed within 2.5 points: 16.2%, 59.4%, 69.5%, 86.8%. Pinto is one run.
 
-**GPT-6 Luna** (`gpt-6-luna`, low reasoning), same test: no memory 18.3%, saved facts 43.6%, one notebook 74.5%, every chat pasted in 80.5%. On dates the notebook beat pasting everything: 80.1% against 73.5%. GPT's saved facts did badly on dates (11.5%): one-liners drop the date.
+**GPT-6 Luna** (`gpt-6-luna`, low reasoning), same test: no memory 18.3%, saved facts 43.6%, one notebook 74.5%, every chat pasted in 80.5%. We didn't run Pinto with GPT-6 Luna. On dates the notebook beat pasting everything: 80.1% against 73.5%. GPT's saved facts did badly on dates (11.5%): one-liners drop the date.
 
 **What Pinto did:** across the 10 conversations Haiku created 275 notes, made 937 edits and ran 600 searches and 6,671 fetches. It kept a note per person and per chat. With no limit it kept a lot: 8,000 to 24,000 words per pair of friends, often more than the chats themselves. Per question it read about 10,000 tokens, close to the one-notebook condition.
 
